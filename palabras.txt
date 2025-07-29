@@ -1,0 +1,10146 @@
+abogado  
+abrazo  
+acceso  
+acompañar  
+adaptación  
+adolescente  
+agua  
+alegría  
+amistad  
+amor  
+análisis  
+animal  
+anuncio  
+apoyo  
+aprendizaje  
+arte  
+asamblea  
+asistencia  
+atención  
+autoridad  
+avance  
+ayuda  
+bailar  
+banco  
+baño  
+barrio  
+base  
+bebé  
+beneficio  
+bicicleta  
+bienestar  
+biblioteca  
+blanco  
+boca  
+bolsa  
+bonito  
+bosque  
+brazo  
+bueno  
+buscar  
+cabello  
+café  
+calle  
+calor  
+cambio  
+caminar  
+camisa  
+campaña  
+campo  
+canción  
+cansado  
+carácter  
+caricia  
+carne  
+carro  
+carta  
+casa  
+casco  
+castillo  
+catarro  
+cielo  
+ciencia  
+cierre  
+cita  
+ciudad  
+clase  
+clima  
+cocina  
+colegio  
+color  
+comedor  
+comenzar  
+comida  
+comité  
+comunicación  
+comunidad  
+compañero  
+compartir  
+competencia  
+completo  
+comportamiento  
+comprensión  
+computadora  
+concierto  
+conectar  
+conferencia  
+confianza  
+conocer  
+consejo  
+construcción  
+contar  
+contenido  
+contexto  
+continuar  
+contrato  
+control  
+corazón  
+corrección  
+correr  
+corte  
+cosa  
+creación  
+crecer  
+crianza  
+cruz  
+cuadro  
+cuaderno  
+cuidado  
+cultura  
+cumpleaños  
+curioso  
+curso  
+daño  
+dar  
+deber  
+decisión  
+decir  
+dedo  
+defensa  
+definición  
+dejar  
+delgado  
+democracia  
+dentista  
+derecho  
+descanso  
+descripción  
+desear  
+desempeño  
+despertar  
+despliegue  
+destino  
+desarrollo  
+detalle  
+detener  
+día  
+diálogo  
+dibujo  
+dificultad  
+dinero  
+dirección  
+disciplina  
+disculpa  
+discriminación  
+disfrutar  
+disminuir  
+disparo  
+distancia  
+diversidad  
+divertido  
+documento  
+dolor  
+domingo  
+dormir  
+duda  
+duelo  
+dulce  
+educación  
+efecto  
+eficaz  
+ejemplo  
+ejercicio  
+elaboración  
+elección  
+elemento  
+emoción  
+empleo  
+empresa  
+enfermedad  
+enfermero  
+energía  
+enlace  
+enseñanza  
+entender  
+entrada  
+entusiasmo  
+entorno  
+equipo  
+error  
+escala  
+escapar  
+esclavo  
+escuchar  
+escuela  
+esfuerzo  
+espacio  
+esperanza  
+esperar  
+espíritu  
+esposa  
+establecer  
+estado  
+estación  
+estilo  
+estimar  
+estómago  
+estructura  
+estudiante  
+estudio  
+éxito  
+explicación  
+expresar  
+extensión  
+extrañar  
+fácil  
+familia  
+famoso  
+fantasía  
+farmacia  
+favor  
+felicidad  
+feliz  
+femenino  
+feria  
+festejo  
+fiesta  
+figura  
+filtro  
+final  
+firme  
+flor  
+foco  
+forma  
+fortaleza  
+foto  
+frase  
+frente  
+frío  
+fruta  
+función  
+fundamento  
+futuro  
+ganar  
+gasto  
+generación  
+generoso  
+gesto  
+gimnasio  
+gobierno  
+gol  
+gracia  
+grande  
+grupo  
+guía  
+guitarra  
+gustar  
+habitación  
+hablar  
+hacer  
+hambre  
+herida  
+hermano  
+hermosa  
+herramienta  
+hijo  
+historia  
+hogar  
+hora  
+hospital  
+hoy  
+huevo  
+idea  
+identidad  
+igualdad  
+imagen  
+imaginación  
+impacto  
+importante  
+impresión  
+inclusión  
+independencia  
+indicar  
+información  
+informe  
+injusticia  
+inmueble  
+inquietud  
+inseguridad  
+inspiración  
+instante  
+institución  
+instrucción  
+intención  
+interacción  
+interés  
+interior  
+interpretación  
+investigación  
+invierno  
+invitación  
+jardín  
+jefe  
+jornada  
+joven  
+juego  
+jugar  
+juicio  
+julio  
+junio  
+justicia  
+lámpara  
+largo  
+lástima  
+leer  
+legal  
+lengua  
+letra  
+levantar  
+libertad  
+libro  
+líder  
+limpieza  
+lindo  
+línea  
+llegar  
+llorar  
+lluvia  
+lugar  
+lunes  
+luz  
+madre  
+maestro  
+magia  
+maleta  
+mamá  
+manera  
+mano  
+manta  
+mapa  
+mar  
+marcar  
+martes  
+máscara  
+matar  
+material  
+matrimonio  
+mayor  
+mecanismo  
+medicina  
+medio  
+mensaje  
+mente  
+mercado  
+mesa  
+mes  
+mensaje  
+meta  
+miedo  
+miembro  
+militar  
+mínimo  
+mirar  
+modelo  
+modificar  
+molestar  
+momento  
+moneda  
+montaña  
+moral  
+morir  
+mostrar  
+motivo  
+muchacho  
+mujer  
+mundo  
+música  
+nacer  
+nación  
+nadar  
+nariz  
+natural  
+necesidad  
+negocio  
+niña  
+niño  
+nivel  
+noche  
+nombre  
+norma  
+nota  
+noticia  
+noviembre  
+nube  
+número  
+nutrición  
+obedecer  
+objeto  
+obligación  
+observar  
+ocasión  
+ocultar  
+ocupación  
+ocurrir  
+oferta  
+oficina  
+oficio  
+olvidar  
+operación  
+opinión  
+oportunidad  
+orden  
+organización  
+orientación  
+origen  
+oro  
+otoño  
+página  
+pago  
+palabra  
+palo  
+pan  
+papá  
+papel  
+parar  
+pareja  
+parque  
+parte  
+pasado  
+pasar  
+pasión  
+pata  
+patio  
+paz  
+pecado  
+pedir  
+pelear  
+pena  
+pensamiento  
+pensar  
+pequeño  
+perder  
+perdón  
+perfecto  
+persona  
+personal  
+pertenecer  
+peso  
+piedra  
+piel  
+pierna  
+pintura  
+piso  
+placer  
+plan  
+planta  
+plaza  
+pleno  
+poder  
+poesía  
+policía  
+poner  
+porcentaje  
+portar  
+posición  
+positivo  
+posibilidad  
+postura  
+potencia  
+práctica  
+precio  
+precisión  
+preferencia  
+pregunta  
+premio  
+preparación  
+presencia  
+presentar  
+presión  
+prestar  
+pretender  
+prevenir  
+primavera  
+primero  
+principio  
+prioridad  
+privado  
+problema  
+procedimiento  
+proceso  
+producción  
+profesor  
+profundidad  
+programa  
+progreso  
+propuesta  
+protección  
+protocolo  
+proveer  
+provincia  
+prueba  
+publicación  
+pueblo  
+puerta  
+puesto  
+pulso  
+punto  
+pura  
+quedar  
+queja  
+querer  
+química  
+quitar  
+radio  
+razón  
+reacción  
+realidad  
+realizar  
+recibir  
+reconocimiento  
+recuerdo  
+red  
+reflexión  
+regalo  
+región  
+registro  
+regla  
+reír  
+relación  
+relevancia  
+religión  
+remedio  
+rendimiento  
+repetir  
+respuesta  
+resultado  
+reunión  
+revisión  
+rico  
+riesgo  
+rincón  
+ropa  
+rostro  
+rutina  
+sábado  
+saber  
+sacar  
+salida  
+salón  
+salud  
+salvar  
+sangre  
+sano  
+satisfacción  
+secreto  
+seguir  
+seguridad  
+semana  
+sentido  
+sentimiento  
+separación  
+septiembre  
+ser  
+servicio  
+sesión  
+setiembre  
+sexto  
+significado  
+silencio  
+simple  
+sistema  
+situación  
+sobrino  
+sociedad  
+sol  
+solidaridad  
+solución  
+sombra  
+sonido  
+soñar  
+sorpresa  
+sostener  
+suave  
+subir  
+sueño  
+sufrir  
+sujeto  
+superar  
+superficie  
+sustancia  
+sustento  
+sutil  
+tabla  
+tacto  
+talento  
+tarea  
+tarde  
+techo  
+tecnología  
+teléfono  
+tema  
+temor  
+temperatura  
+templo  
+tendencia  
+tener  
+teoría  
+terapia  
+terminar  
+territorio  
+texto  
+tiempo  
+tierra  
+tímido  
+tipo  
+tocar  
+tolerancia  
+tomar  
+trabajo  
+tradición  
+tráfico  
+traje  
+tranquilidad  
+transporte  
+trato  
+travesía  
+tristeza  
+triunfo  
+trompeta  
+tropa  
+túnel  
+unidad  
+uniforme  
+universidad  
+urgencia  
+uso  
+útil  
+vacación  
+valor  
+valle  
+vampiro  
+vapor  
+variedad  
+vaso  
+vecino  
+velocidad  
+vencer  
+vender  
+abecedario  
+acento  
+aclarar  
+acompañamiento  
+acontecimiento  
+actitud  
+actividad  
+actor  
+actual  
+adaptar  
+adecuado  
+adolescente  
+adoptar  
+adulto  
+afirmar  
+agente  
+agilidad  
+agradecer  
+agregar  
+agua  
+ahorrar  
+aire  
+ajustar  
+alegría  
+alerta  
+alfabeto  
+alimentar  
+almuerzo  
+alumno  
+amabilidad  
+amar  
+ambiente  
+amistad  
+amor  
+analizar  
+ancho  
+animal  
+anotar  
+ansiedad  
+anteojos  
+anticipar  
+anunciar  
+apagar  
+aparecer  
+apetito  
+aplicar  
+apoyo  
+aprender  
+apresurar  
+aprobar  
+apuntar  
+aquel  
+aquí  
+archivo  
+arder  
+arena  
+argumento  
+arreglo  
+arte  
+artículo  
+asegurar  
+asistencia  
+asociación  
+asombrar  
+aspecto  
+asumir  
+atención  
+atleta  
+atractivo  
+atributo  
+audición  
+aumentar  
+ausente  
+autor  
+avance  
+avión  
+ayuda  
+azul  
+bailar  
+bajar  
+balance  
+banco  
+baño  
+barco  
+barrer  
+base  
+básico  
+bebé  
+belleza  
+beneficio  
+besar  
+biblioteca  
+bienestar  
+billete  
+blanco  
+bloque  
+boca  
+bolsa  
+bonito  
+bosque  
+brazo  
+brillante  
+brincar  
+brisa  
+bueno  
+buscar  
+cabello  
+cabeza  
+café  
+calcular  
+calidad  
+calle  
+calma  
+calor  
+cambiar  
+caminar  
+camión  
+camisa  
+campana  
+campo  
+canción  
+cansado  
+cantidad  
+carácter  
+caricia  
+carne  
+carpeta  
+carretera  
+carro  
+carta  
+casa  
+casco  
+castillo  
+catarro  
+categoría  
+cautela  
+cavar  
+cazador  
+cebolla  
+celebrar  
+celular  
+cena  
+centro  
+cepillo  
+cerrar  
+certeza  
+cesar  
+chamarra  
+chancla  
+charla  
+chico  
+chiste  
+chocolate  
+cielo  
+ciencia  
+cierre  
+cita  
+ciudad  
+clase  
+clima  
+cocina  
+colegio  
+colina  
+color  
+columna  
+comedor  
+comenzar  
+cometa  
+comida  
+comité  
+completar  
+comportamiento  
+comprensión  
+computadora  
+comunidad  
+compañero  
+compartir  
+competencia  
+completo  
+composición  
+comunicación  
+concierto  
+conectar  
+conferencia  
+confianza  
+conocer  
+consejo  
+construcción  
+contar  
+contenido  
+contexto  
+continuar  
+contrato  
+control  
+corazón  
+corrección  
+correr  
+corte  
+cosa  
+crear  
+crecer  
+crianza  
+cruz  
+cuadro  
+cuaderno  
+cuidado  
+cultura  
+cumpleaños  
+curioso  
+curso  
+daño  
+dar  
+deber  
+decisión  
+decir  
+dedo  
+defensa  
+definición  
+dejar  
+delgado  
+democracia  
+dentista  
+derecho  
+descanso  
+descripción  
+desear  
+desempeño  
+despertar  
+despliegue  
+destino  
+desarrollo  
+detalle  
+detener  
+día  
+diálogo  
+dibujo  
+dificultad  
+dinero  
+dirección  
+disciplina  
+disculpa  
+discriminación  
+disfrutar  
+disminuir  
+disparo  
+distancia  
+diversidad  
+divertido  
+documento  
+dolor  
+domingo  
+dormir  
+duda  
+duelo  
+dulce  
+educación  
+efecto  
+eficaz  
+ejemplo  
+ejercicio  
+elaboración  
+elección  
+elemento  
+emoción  
+empleo  
+empresa  
+enfermedad  
+enfermero  
+energía  
+enlace  
+enseñanza  
+entender  
+entrada  
+entusiasmo  
+entorno  
+equipo  
+error  
+escala  
+escapar  
+esclavo  
+escuchar  
+escuela  
+esfuerzo  
+espacio  
+esperanza  
+esperar  
+espíritu  
+esposa  
+establecer  
+estado  
+estación  
+estilo  
+estimar  
+estómago  
+estructura  
+estudiante  
+estudio  
+éxito  
+explicación  
+expresar  
+extensión  
+extrañar  
+fácil  
+familia  
+famoso  
+fantasía  
+farmacia  
+favor  
+felicidad  
+feliz  
+femenino  
+feria  
+festejo  
+fiesta  
+figura  
+filtro  
+final  
+firme  
+flor  
+foco  
+forma  
+fortaleza  
+foto  
+frase  
+frente  
+frío  
+fruta  
+función  
+fundamento  
+futuro  
+ganar  
+gasto  
+generación  
+generoso  
+gesto  
+gimnasio  
+gobierno  
+gol  
+gracia  
+grande  
+grupo  
+guía  
+guitarra  
+gustar  
+habitación  
+hablar  
+hacer  
+hambre  
+herida  
+hermano  
+hermosa  
+herramienta  
+hijo  
+historia  
+hogar  
+hora  
+hospital  
+hoy  
+huevo  
+idea  
+identidad  
+igualdad  
+imagen  
+imaginación  
+impacto  
+importante  
+impresión  
+inclusión  
+independencia  
+indicar  
+información  
+informe  
+injusticia  
+inmueble  
+inquietud  
+inseguridad  
+inspiración  
+instante  
+institución  
+instrucción  
+intención  
+interacción  
+interés  
+interior  
+interpretación  
+investigación  
+invierno  
+invitación  
+jardín  
+jefe  
+jornada  
+joven  
+juego  
+jugar  
+juicio  
+julio  
+junio  
+justicia  
+lámpara  
+largo  
+lástima  
+leer  
+legal  
+lengua  
+letra  
+levantar  
+libertad  
+libro  
+líder  
+limpieza  
+lindo  
+línea  
+llegar  
+llorar  
+lluvia  
+lugar  
+lunes  
+luz  
+madre  
+maestro  
+magia  
+maleta  
+mamá  
+manera  
+mano  
+manta  
+mapa  
+mar  
+marcar  
+martes  
+máscara  
+matar  
+material  
+matrimonio  
+mayor  
+mecanismo  
+medicina  
+medio  
+mensaje  
+mente  
+mercado  
+mesa  
+mes  
+meta  
+miedo  
+miembro  
+militar  
+mínimo  
+mirar  
+modelo  
+modificar  
+molestar  
+momento  
+moneda  
+montaña  
+moral  
+morir  
+mostrar  
+motivo  
+muchacho  
+mujer  
+mundo  
+música  
+nacer  
+nación  
+nadar  
+nariz  
+natural  
+necesidad  
+negocio  
+niña  
+niño  
+nivel  
+noche  
+nombre  
+norma  
+nota  
+noticia  
+noviembre  
+nube  
+número  
+nutrición  
+obedecer  
+objeto  
+obligación  
+observar  
+ocasión  
+ocultar  
+ocupación  
+ocurrir  
+oferta  
+oficina  
+oficio  
+olvidar  
+operación  
+opinión  
+oportunidad  
+orden  
+organización  
+orientación  
+origen  
+oro  
+otoño  
+página  
+pago  
+palabra  
+palo  
+pan  
+papá  
+papel  
+parar  
+pareja  
+parque  
+parte  
+pasado  
+pasar  
+pasión  
+pata  
+patio  
+paz  
+pecado  
+pedir  
+pelear  
+pena  
+pensamiento  
+pensar  
+pequeño  
+perder  
+perdón  
+perfecto  
+persona  
+personal  
+pertenecer  
+peso  
+piedra  
+piel  
+pierna  
+pintura  
+piso  
+placer  
+plan  
+planta  
+plaza  
+pleno  
+poder  
+poesía  
+policía  
+poner  
+porcentaje  
+portar  
+posición  
+positivo  
+posibilidad  
+postura  
+potencia  
+práctica  
+precio  
+precisión  
+preferencia  
+pregunta  
+premio  
+preparación  
+presencia  
+presentar  
+presión  
+prestar  
+pretender  
+prevenir  
+primavera  
+primero  
+principio  
+prioridad  
+privado  
+problema  
+procedimiento  
+proceso  
+producción  
+profesor  
+profundidad  
+programa  
+progreso  
+propuesta  
+protección  
+protocolo  
+proveer  
+provincia  
+prueba  
+publicación  
+pueblo  
+puerta  
+puesto  
+pulso  
+punto  
+pura  
+quedar  
+queja  
+querer  
+química  
+quitar  
+radio  
+razón  
+reacción  
+realidad  
+realizar  
+recibir  
+reconocimiento  
+recuerdo  
+red  
+reflexión  
+regalo  
+región  
+registro  
+regla  
+reír  
+relación  
+relevancia  
+religión  
+remedio  
+rendimiento  
+repetir  
+respuesta  
+resultado  
+reunión  
+revisión  
+rico  
+riesgo  
+rincón  
+ropa  
+rostro  
+rutina  
+sábado  
+saber  
+sacar  
+salida  
+salón  
+salud  
+salvar  
+sangre  
+sano  
+satisfacción  
+secreto  
+seguir  
+seguridad  
+semana  
+sentido  
+sentimiento  
+separación  
+septiembre  
+ser  
+servicio  
+sesión  
+setiembre  
+sexto  
+significado  
+silencio  
+simple  
+sistema  
+situación  
+sobrino  
+sociedad  
+sol  
+solidaridad  
+solución  
+sombra  
+sonido  
+soñar  
+sorpresa  
+sostener  
+suave  
+subir  
+sueño  
+sufrir  
+sujeto  
+superar  
+superficie  
+sustancia  
+sustento  
+sutil  
+tabla  
+tacto  
+talento  
+tarea  
+tarde  
+techo  
+tecnología  
+teléfono  
+tema  
+temor  
+temperatura  
+templo  
+tendencia  
+tener  
+teoría  
+terapia  
+terminar  
+territorio  
+texto  
+tiempo  
+tierra  
+tímido  
+tipo  
+tocar  
+tolerancia  
+tomar  
+trabajo  
+tradición  
+tráfico  
+traje  
+tranquilidad  
+transporte  
+trato  
+travesía  
+tristeza  
+triunfo  
+trompeta  
+tropa  
+túnel  
+unidad  
+uniforme  
+universidad  
+urgencia  
+uso  
+útil  
+vacación  
+valor  
+valle  
+vampiro  
+vapor  
+variedad  
+vaso  
+vecino  
+velocidad  
+vencer  
+vender  
+venir  
+ver  
+vestido  
+viaje  
+vida  
+viento  
+violencia  
+virtud  
+visión  
+visita  
+vista  
+vivienda  
+vivir  
+volar  
+voluntad  
+volver  
+voz  
+vulnerable  
+yerno  
+zapato  
+zona  
+zorro  
+zumo  
+zurdos  
+zumbido  
+zanja  
+zafiro  
+zambullida  
+zarpar  
+zodiaco  
+zancada  
+zigzag  
+zoológico  
+zócalo  
+zambullirse  
+zarza  
+zancudo  
+zambomba  
+zarandeo  
+zambito  
+zarcillo  
+zarina  
+zarismo  
+zarpar  
+zarzuela  
+zebra  
+zenit  
+zeta  
+zigzaguear  
+zinc  
+zipizape  
+zodiaco  
+zona  
+zoología  
+zoom  
+zopilote  
+zorro  
+zorzal  
+zumo  
+zurcir  
+zurdo  
+zurrar  
+zángano  
+zócalo  
+zambullida  
+zarpar  
+zancada  
+zarza  
+zambomba  
+zarandeo  
+zarina  
+zarismo  
+zarzuela  
+zebra  
+zenit  
+zigzag  
+zinc  
+zodiaco  
+zoología  
+zopilote  
+zorzal  
+zurcir  
+zurdo  
+zurrar  
+zángano  
+paciente  
+paladar  
+paloma  
+panadero  
+pantalla  
+pañuelo  
+parálisis  
+parir  
+parte médica  
+parto  
+patología  
+pedagogo  
+peluquero  
+pensamiento crítico  
+percepción  
+personal médico  
+persona sorda  
+persona oyente  
+persona adulta  
+persona menor  
+persona embarazada  
+persona migrante  
+persona refugiada  
+persona indígena  
+persona trans  
+persona no binaria  
+persona intersex  
+persona con discapacidad visual  
+persona con discapacidad auditiva  
+persona con discapacidad intelectual  
+persona con discapacidad motriz  
+persona con discapacidad psicosocial  
+persona con discapacidad múltiple  
+persona con discapacidad temporal  
+persona con discapacidad adquirida  
+persona con movilidad reducida  
+persona ausente  
+persona presente  
+persona fallecida  
+persona viva  
+persona detenida  
+persona liberada  
+persona desaparecida  
+persona jurídica  
+persona moral  
+persona física  
+personal docente  
+personal de limpieza  
+personal de enfermería  
+personal técnico  
+personal administrativo  
+personal auxiliar  
+personal especializado  
+personal capacitado  
+personal de seguridad  
+persona autorizada  
+persona responsable  
+persona visitante  
+persona supervisora  
+persona usuaria  
+persona operadora  
+persona facilitadora  
+persona orientadora  
+persona asesora  
+persona capacitadora  
+persona testigo  
+persona afectada  
+persona acusada  
+persona demandante  
+persona demandada  
+persona agresora  
+persona víctima  
+persona denunciante  
+persona observadora  
+persona interviniente  
+persona mediadora  
+persona conciliadora  
+persona traductora  
+persona intérprete  
+persona analista  
+persona investigadora  
+persona informante  
+persona promotora  
+persona activista  
+persona colaboradora  
+persona creativa  
+persona organizadora  
+persona motivadora  
+persona inspiradora  
+persona sensible  
+persona empática  
+persona solidaria  
+persona justa  
+persona crítica  
+persona ética  
+persona honesta  
+persona respetuosa  
+persona paciente  
+persona puntual  
+persona confiable  
+persona amable  
+persona tranquila  
+persona alegre  
+persona entusiasta  
+persona comunicadora  
+persona reflexiva  
+persona racional  
+persona responsable  
+persona comprometida  
+persona constante  
+persona disciplinada  
+persona autónoma  
+persona sociable  
+persona generosa  
+persona optimista  
+persona resiliente  
+persona emprendedora  
+persona observadora  
+persona innovadora  
+persona estratégica  
+persona técnica  
+persona manual  
+persona visual  
+persona auditiva  
+persona kinestésica  
+persona digital  
+persona presencial  
+persona remota  
+persona híbrida  
+persona formadora  
+persona evaluadora  
+persona directora  
+persona supervisora  
+persona coordinadora  
+persona ejecutora  
+persona gestora  
+persona operadora  
+persona representante  
+persona beneficiaria  
+persona usuaria  
+persona receptora  
+persona responsable  
+persona firmante  
+persona autorizada  
+persona apoderada  
+persona avaladora  
+persona patrocinadora  
+persona financiadora  
+persona voluntaria  
+persona contratante  
+persona contratada  
+persona participante  
+persona postulante  
+persona seleccionada  
+persona nominada  
+persona galardonada  
+persona premiada  
+persona reconocida  
+persona destacada  
+persona homenajeada  
+persona anfitriona  
+persona invitada  
+persona comisionada  
+persona embajadora  
+persona consejera  
+persona coordinadora  
+persona directora  
+persona inspectora  
+persona ejecutiva  
+persona consultora  
+persona asesora  
+persona enlace  
+persona soporte  
+persona técnica  
+persona auxiliar  
+persona delegada  
+persona vocal  
+persona secretaria  
+persona presidenta  
+persona vicepresidenta  
+persona tesorera  
+persona contadora  
+persona revisora  
+persona responsable legal  
+persona responsable operativa  
+persona responsable educativa  
+persona responsable institucional  
+persona responsable técnica  
+persona responsable financiera  
+persona responsable administrativa  
+persona responsable jurídica  
+persona responsable comunitaria  
+persona responsable social  
+persona responsable cultural  
+persona responsable política  
+persona responsable ambiental  
+persona responsable sanitaria  
+persona responsable comunicacional  
+persona responsable de accesibilidad  
+persona responsable de inclusión  
+persona responsable de bienestar  
+persona responsable de seguridad  
+persona responsable de salud  
+persona responsable de protección  
+persona responsable de prevención  
+persona responsable de atención  
+persona responsable de intervención  
+persona responsable de seguimiento  
+persona responsable de evaluación  
+persona responsable de documentación  
+persona responsable de archivo  
+persona responsable de gestión  
+persona responsable de calidad  
+persona responsable de recursos  
+persona responsable de personal  
+persona responsable de sistemas  
+persona responsable de innovación  
+persona responsable de tecnología  
+persona responsable de informática  
+persona responsable de redes  
+persona responsable de mantenimiento  
+persona responsable de transporte  
+persona responsable de logística  
+persona responsable de infraestructura  
+persona responsable de servicios  
+persona responsable de comunicación  
+persona responsable de enlace  
+persona responsable de coordinación  
+persona responsable de planeación  
+persona responsable de capacitación  
+persona responsable de formación  
+persona responsable de acompañamiento  
+persona responsable de vinculación  
+persona responsable de articulación  
+persona responsable de convocatoria  
+persona responsable de supervisión  
+persona responsable de monitoreo  
+persona responsable de evaluación  
+persona responsable de validación  
+persona responsable de certificación  
+persona responsable de verificación  
+persona responsable de control  
+persona responsable de cumplimiento  
+persona responsable de regulación  
+persona responsable de normatividad  
+persona responsable de legislación  
+persona responsable de derechos  
+persona responsable de deberes  
+persona responsable de ética  
+persona responsable de transparencia  
+persona responsable de rendición  
+persona responsable de informes  
+persona responsable de estadísticas  
+persona responsable de indicadores  
+persona responsable de resultados  
+persona responsable de metas  
+persona responsable de objetivos  
+persona responsable de impacto  
+persona responsable de sostenibilidad  
+persona responsable de permanencia  
+persona responsable de viabilidad  
+persona responsable de replicabilidad  
+persona responsable de escalabilidad  
+persona responsable de accesibilidad  
+persona responsable de interoperabilidad  
+persona responsable de adaptabilidad  
+persona responsable de seguridad digital  
+persona responsable de ciberseguridad  
+persona responsable de privacidad  
+persona responsable de confidencialidad  
+persona responsable de datos  
+persona responsable de información  
+persona responsable de contenido  
+persona responsable de formato  
+persona responsable de diseño  
+persona responsable de edición  
+persona responsable de producción  
+persona responsable de publicación  
+persona responsable de distribución  
+persona responsable de divulgación  
+persona responsable de comunicación externa  
+persona responsable de comunicación interna  
+persona responsable de vocería  
+persona responsable de representación oficial  
+acogida  
+acuerdo  
+acta  
+actividad física  
+actor  
+actriz  
+adaptación  
+administración  
+admisión  
+adopción  
+adulto mayor  
+afiliación  
+agencia  
+agenda  
+agilidad  
+agrupación  
+agua potable  
+aire libre  
+albergue  
+alerta sísmica  
+alimentación  
+almacén  
+alojamiento  
+alquiler  
+ambulancia  
+amparo  
+análisis clínico  
+anestesia  
+anfitrión  
+animación  
+anuncio  
+aplicación  
+apoyo emocional  
+aprendizaje colaborativo  
+archivo digital  
+área común  
+argumento  
+articulación  
+asamblea  
+asistencia médica  
+asociación civil  
+atención ciudadana  
+atención psicológica  
+auditoría  
+aula  
+autonomía  
+auxilio  
+aviso  
+bache  
+banco de alimentos  
+barreras arquitectónicas  
+barreras de comunicación  
+barreras digitales  
+barreras físicas  
+barreras sociales  
+base de datos  
+beca  
+beneficiario  
+bicicleta pública  
+bien común  
+bien inmueble  
+bienestar emocional  
+bienestar social  
+bioseguridad  
+bloqueo  
+boleta  
+boleto  
+braille  
+brigada  
+brote  
+buzón  
+cabildo  
+calendario escolar  
+calificación  
+calle peatonal  
+campaña informativa  
+canal de comunicación  
+candidato  
+capacidad instalada  
+capacitación laboral  
+característica  
+carga  
+carnet  
+carpeta digital  
+carta compromiso  
+casa hogar  
+casilla  
+categorización  
+cédula  
+centro comunitario  
+centro de salud  
+centro educativo  
+certificado médico  
+certificación  
+ciclo escolar  
+cierre parcial  
+cierre total  
+cita médica  
+clasificación  
+clave  
+clínica  
+colectivo  
+colonia  
+comedor comunitario  
+comité vecinal  
+comité técnico  
+comité escolar  
+comité de salud  
+comité ciudadano  
+comité organizador  
+comité evaluador  
+comité de accesibilidad  
+comité de inclusión  
+comité de protección  
+comité de emergencia  
+comité de vigilancia  
+comité de transparencia  
+comité de ética  
+comité de derechos humanos  
+comité de género  
+comité de diversidad  
+comité de cultura  
+comité de comunicación  
+comité de seguridad  
+comité de salud mental  
+comité de bienestar  
+comité de participación  
+comité de planeación  
+comité de seguimiento  
+comité de evaluación  
+comité de monitoreo  
+comité de validación  
+comité de certificación  
+comité de verificación  
+comité de control  
+comité de cumplimiento  
+comité de regulación  
+comité de normatividad  
+comité de legislación  
+comité de rendición  
+comité de informes  
+comité de indicadores  
+comité de resultados  
+comité de metas  
+comité de objetivos  
+comité de impacto  
+comité de sostenibilidad  
+comité de permanencia  
+comité de viabilidad  
+comité de replicabilidad  
+comité de escalabilidad  
+comité de interoperabilidad  
+comité de adaptabilidad  
+comité de seguridad digital  
+comité de ciberseguridad  
+comité de privacidad  
+comité de confidencialidad  
+comité de datos  
+comité de información  
+comité de contenido  
+comité de formato  
+comité de diseño  
+comité de edición  
+comité de producción  
+comité de publicación  
+comité de distribución  
+comité de divulgación  
+comité de comunicación externa  
+comité de comunicación interna  
+comité de vocería  
+comité de representación oficial  
+comité de accesibilidad  
+comité de inclusión  
+comité de bienestar  
+comité de protección  
+comité de prevención  
+comité de atención  
+comité de intervención  
+comité de seguimiento  
+comité de evaluación  
+comité de documentación  
+comité de archivo  
+comité de gestión  
+comité de calidad  
+comité de recursos  
+comité de personal  
+comité de sistemas  
+comité de innovación  
+comité de tecnología  
+comité de informática  
+comité de redes  
+comité de mantenimiento  
+comité de transporte  
+comité de logística  
+comité de infraestructura  
+comité de servicios  
+comité de comunicación  
+comité de enlace  
+comité de coordinación  
+comité de planeación  
+comité de capacitación  
+comité de formación  
+comité de acompañamiento  
+comité de vinculación  
+comité de articulación  
+comité de convocatoria  
+comité de supervisión  
+comité de monitoreo  
+comité de validación  
+comité de certificación  
+comité de verificación  
+comité de control  
+comité de cumplimiento  
+comité de regulación  
+comité de normatividad  
+comité de legislación  
+comité de derechos  
+comité de deberes  
+comité de ética  
+comité de transparencia  
+comité de rendición  
+comité de informes  
+comité de estadísticas  
+comité de indicadores  
+comité de resultados  
+comité de metas  
+comité de objetivos  
+comité de impacto  
+comité de sostenibilidad  
+comité de permanencia  
+comité de viabilidad  
+comité de replicabilidad  
+comité de escalabilidad  
+comité de accesibilidad  
+comité de interoperabilidad  
+comité de adaptabilidad  
+comité de seguridad digital  
+comité de ciberseguridad  
+comité de privacidad  
+comité de confidencialidad  
+comité de datos  
+comité de información  
+comité de contenido  
+comité de formato  
+comité de diseño  
+comité de edición  
+comité de producción  
+comité de publicación  
+comité de distribución  
+comité de divulgación  
+comité de comunicación externa  
+comité de comunicación interna  
+comité de vocería  
+comité de representación oficial  
+accesibilidad  
+acceso universal  
+acción afirmativa  
+acción colectiva  
+acción comunitaria  
+acción correctiva  
+acción educativa  
+acción formativa  
+acción institucional  
+acción preventiva  
+acción pública  
+acción social  
+activismo  
+actor social  
+actriz principal  
+adaptación curricular  
+adaptación institucional  
+adecuación  
+administrador  
+administradora  
+admisión escolar  
+adopción legal  
+adulto responsable  
+afiliación institucional  
+agente comunitario  
+agente educativo  
+agente social  
+agente de cambio  
+agente de salud  
+agente de inclusión  
+agente de accesibilidad  
+agente de protección  
+agente de prevención  
+agente de intervención  
+agente de seguimiento  
+agente de evaluación  
+agente de monitoreo  
+agente de validación  
+agente de certificación  
+agente de verificación  
+agente de control  
+agente de cumplimiento  
+agente de regulación  
+agente de normatividad  
+agente de legislación  
+agente de derechos  
+agente de deberes  
+agente de ética  
+agente de transparencia  
+agente de rendición  
+agente de informes  
+agente de estadísticas  
+agente de indicadores  
+agente de resultados  
+agente de metas  
+agente de objetivos  
+agente de impacto  
+agente de sostenibilidad  
+agente de permanencia  
+agente de viabilidad  
+agente de replicabilidad  
+agente de escalabilidad  
+agente de interoperabilidad  
+agente de adaptabilidad  
+agente de seguridad digital  
+agente de ciberseguridad  
+agente de privacidad  
+agente de confidencialidad  
+agente de datos  
+agente de información  
+agente de contenido  
+agente de formato  
+agente de diseño  
+agente de edición  
+agente de producción  
+agente de publicación  
+agente de distribución  
+agente de divulgación  
+agente de comunicación externa  
+agente de comunicación interna  
+agente de vocería  
+agente de representación oficial  
+agente de accesibilidad  
+agente de inclusión  
+agente de bienestar  
+agente de protección  
+agente de prevención  
+agente de atención  
+agente de intervención  
+agente de seguimiento  
+agente de evaluación  
+agente de documentación  
+agente de archivo  
+agente de gestión  
+agente de calidad  
+agente de recursos  
+agente de personal  
+agente de sistemas  
+agente de innovación  
+agente de tecnología  
+agente de informática  
+agente de redes  
+agente de mantenimiento  
+agente de transporte  
+agente de logística  
+agente de infraestructura  
+agente de servicios  
+agente de comunicación  
+agente de enlace  
+agente de coordinación  
+agente de planeación  
+agente de capacitación  
+agente de formación  
+agente de acompañamiento  
+agente de vinculación  
+agente de articulación  
+agente de convocatoria  
+agente de supervisión  
+agente de monitoreo  
+agente de validación  
+agente de certificación  
+agente de verificación  
+agente de control  
+agente de cumplimiento  
+agente de regulación  
+agente de normatividad  
+agente de legislación  
+agente de derechos  
+agente de deberes  
+agente de ética  
+agente de transparencia  
+agente de rendición  
+agente de informes  
+agente de estadísticas  
+agente de indicadores  
+agente de resultados  
+agente de metas  
+agente de objetivos  
+agente de impacto  
+agente de sostenibilidad  
+agente de permanencia  
+agente de viabilidad  
+agente de replicabilidad  
+agente de escalabilidad  
+agente de interoperabilidad  
+agente de adaptabilidad  
+agente de seguridad digital  
+agente de ciberseguridad  
+agente de privacidad  
+agente de confidencialidad  
+agente de datos  
+agente de información  
+agente de contenido  
+agente de formato  
+agente de diseño  
+agente de edición  
+agente de producción  
+agente de publicación  
+agente de distribución  
+agente de divulgación  
+agente de comunicación externa  
+agente de comunicación interna  
+agente de vocería  
+agente de representación oficial  
+agenda pública  
+agenda educativa  
+agenda institucional  
+agenda comunitaria  
+agenda digital  
+agenda de inclusión  
+agenda de accesibilidad  
+agenda de protección  
+agenda de prevención  
+agenda de atención  
+agenda de intervención  
+agenda de seguimiento  
+agenda de evaluación  
+agenda de monitoreo  
+agenda de validación  
+agenda de certificación  
+agenda de verificación  
+agenda de control  
+agenda de cumplimiento  
+agenda de regulación  
+agenda de normatividad  
+agenda de legislación  
+agenda de derechos  
+agenda de deberes  
+agenda de ética  
+agenda de transparencia  
+agenda de rendición  
+agenda de informes  
+agenda de estadísticas  
+agenda de indicadores  
+agenda de resultados  
+agenda de metas  
+agenda de objetivos  
+agenda de impacto  
+agenda de sostenibilidad  
+agenda de permanencia  
+agenda de viabilidad  
+agenda de replicabilidad  
+agenda de escalabilidad  
+agenda de interoperabilidad  
+agenda de adaptabilidad  
+agenda de seguridad digital  
+agenda de ciberseguridad  
+agenda de privacidad  
+agenda de confidencialidad  
+agenda de datos  
+agenda de información  
+agenda de contenido  
+agenda de formato  
+agenda de diseño  
+agenda de edición  
+agenda de producción  
+agenda de publicación  
+agenda de distribución  
+agenda de divulgación  
+agenda de comunicación externa  
+agenda de comunicación interna  
+agenda de vocería  
+agenda de representación oficial  
+accesibilidad digital  
+acceso libre  
+acción comunitaria  
+acción educativa  
+acción institucional  
+acción preventiva  
+activismo social  
+actor comunitario  
+actriz secundaria  
+adaptación escolar  
+adecuación curricular  
+administrador público  
+admisión hospitalaria  
+adopción internacional  
+adulto mayor activo  
+afiliación médica  
+agente de salud mental  
+agente de inclusión educativa  
+agente de accesibilidad digital  
+agente de protección civil  
+agente de prevención comunitaria  
+agente de intervención psicosocial  
+agente de seguimiento institucional  
+agente de evaluación educativa  
+agente de monitoreo digital  
+agente de validación técnica  
+agente de certificación académica  
+agente de verificación documental  
+agente de control interno  
+agente de cumplimiento normativo  
+agente de regulación jurídica  
+agente de normatividad institucional  
+agente de legislación educativa  
+agente de derechos humanos  
+agente de deberes ciudadanos  
+agente de ética profesional  
+agente de transparencia pública  
+agente de rendición de cuentas  
+agente de informes estadísticos  
+agente de indicadores sociales  
+agente de resultados académicos  
+agente de metas institucionales  
+agente de objetivos estratégicos  
+agente de impacto social  
+agente de sostenibilidad ambiental  
+agente de permanencia educativa  
+agente de viabilidad técnica  
+agente de replicabilidad metodológica  
+agente de escalabilidad digital  
+agente de interoperabilidad tecnológica  
+agente de adaptabilidad curricular  
+agente de seguridad informática  
+agente de ciberseguridad institucional  
+agente de privacidad de datos  
+agente de confidencialidad documental  
+agente de gestión de datos  
+agente de información pública  
+agente de contenido educativo  
+agente de formato accesible  
+agente de diseño inclusivo  
+agente de edición institucional  
+agente de producción académica  
+agente de publicación oficial  
+agente de distribución digital  
+agente de divulgación científica  
+agente de comunicación externa  
+agente de comunicación interna  
+agente de vocería institucional  
+agente de representación oficial  
+agenda comunitaria  
+agenda educativa  
+agenda institucional  
+agenda digital  
+agenda de inclusión  
+agenda de accesibilidad  
+agenda de protección civil  
+agenda de prevención escolar  
+agenda de atención ciudadana  
+agenda de intervención social  
+agenda de seguimiento técnico  
+agenda de evaluación académica  
+agenda de monitoreo digital  
+agenda de validación documental  
+agenda de certificación profesional  
+agenda de verificación institucional  
+agenda de control interno  
+agenda de cumplimiento normativo  
+agenda de regulación jurídica  
+agenda de normatividad educativa  
+agenda de legislación institucional  
+agenda de derechos humanos  
+agenda de deberes ciudadanos  
+agenda de ética profesional  
+agenda de transparencia pública  
+agenda de rendición de cuentas  
+agenda de informes estadísticos  
+agenda de indicadores sociales  
+agenda de resultados académicos  
+agenda de metas institucionales  
+agenda de objetivos estratégicos  
+agenda de impacto social  
+agenda de sostenibilidad ambiental  
+agenda de permanencia educativa  
+agenda de viabilidad técnica  
+agenda de replicabilidad metodológica  
+agenda de escalabilidad digital  
+agenda de interoperabilidad tecnológica  
+agenda de adaptabilidad curricular  
+agenda de seguridad informática  
+agenda de ciberseguridad institucional  
+agenda de privacidad de datos  
+agenda de confidencialidad documental  
+agenda de gestión de datos  
+agenda de información pública  
+agenda de contenido educativo  
+agenda de formato accesible  
+agenda de diseño inclusivo  
+agenda de edición institucional  
+agenda de producción académica  
+agenda de publicación oficial  
+agenda de distribución digital  
+agenda de divulgación científica  
+agenda de comunicación externa  
+agenda de comunicación interna  
+agenda de vocería institucional  
+agenda de representación oficial  
+acuerdo institucional  
+acta de nacimiento  
+acta de defunción  
+acta de matrimonio  
+acta administrativa  
+acta escolar  
+acta médica  
+acta comunitaria  
+acta digital  
+acta oficial  
+acta pública  
+acta privada  
+acta de evaluación  
+acta de seguimiento  
+acta de validación  
+acta de certificación  
+acta de verificación  
+acta de control  
+acta de cumplimiento  
+acta de regulación  
+acta de normatividad  
+acta de legislación  
+acta de derechos  
+acta de deberes  
+acta de ética  
+acta de transparencia  
+acta de rendición  
+acta de informes  
+acta de estadísticas  
+acta de indicadores  
+acta de resultados  
+acta de metas  
+acta de objetivos  
+acta de impacto  
+acta de sostenibilidad  
+acta de permanencia  
+acta de viabilidad  
+acta de replicabilidad  
+acta de escalabilidad  
+acta de interoperabilidad  
+acta de adaptabilidad  
+acta de seguridad digital  
+acta de ciberseguridad  
+acta de privacidad  
+acta de confidencialidad  
+acta de datos  
+acta de información  
+acta de contenido  
+acta de formato  
+acta de diseño  
+acta de edición  
+acta de producción  
+acta de publicación  
+acta de distribución  
+acta de divulgación  
+acta de comunicación externa  
+acta de comunicación interna  
+acta de vocería  
+acta de representación oficial  
+acta de accesibilidad  
+acta de inclusión  
+acta de bienestar  
+acta de protección  
+acta de prevención  
+acta de atención  
+acta de intervención  
+acta de seguimiento  
+acta de evaluación  
+acta de documentación  
+acta de archivo  
+acta de gestión  
+acta de calidad  
+acta de recursos  
+acta de personal  
+acta de sistemas  
+acta de innovación  
+acta de tecnología  
+acta de informática  
+acta de redes  
+acta de mantenimiento  
+acta de transporte  
+acta de logística  
+acta de infraestructura  
+acta de servicios  
+acta de comunicación  
+acta de enlace  
+acta de coordinación  
+acta de planeación  
+acta de capacitación  
+acta de formación  
+acta de acompañamiento  
+acta de vinculación  
+acta de articulación  
+acta de convocatoria  
+acta de supervisión  
+acta de monitoreo  
+acta de validación  
+acta de certificación  
+acta de verificación  
+acta de control  
+acta de cumplimiento  
+acta de regulación  
+acta de normatividad  
+acta de legislación  
+acta de derechos  
+acta de deberes  
+acta de ética  
+acta de transparencia  
+acta de rendición  
+acta de informes  
+acta de estadísticas  
+acta de indicadores  
+acta de resultados  
+acta de metas  
+acta de objetivos  
+acta de impacto  
+acta de sostenibilidad  
+acta de permanencia  
+acta de viabilidad  
+acta de replicabilidad  
+acta de escalabilidad  
+acta de interoperabilidad  
+acta de adaptabilidad  
+acta de seguridad digital  
+acta de ciberseguridad  
+acta de privacidad  
+acta de confidencialidad  
+acta de datos  
+acta de información  
+acta de contenido  
+acta de formato  
+acta de diseño  
+acta de edición  
+acta de producción  
+acta de publicación  
+acta de distribución  
+acta de divulgación  
+acta de comunicación externa  
+acta de comunicación interna  
+acta de vocería  
+acta de representación oficial  
+acta de accesibilidad  
+acta de inclusión  
+acta de bienestar  
+acta de protección  
+acta de prevención  
+acta de atención  
+acta de intervención  
+acta de seguimiento  
+acta de evaluación  
+acta de documentación  
+acta de archivo  
+acta de gestión  
+acta de calidad  
+acta de recursos  
+acta de personal  
+acta de sistemas  
+acta de innovación  
+acta de tecnología  
+acta de informática  
+acta de redes  
+acta de mantenimiento  
+acta de transporte  
+acta de logística  
+acta de infraestructura  
+acta de servicios  
+acta de comunicación  
+acta de enlace  
+acta de coordinación  
+acta de planeación  
+acta de capacitación  
+acta de formación  
+acta de acompañamiento  
+acta de vinculación  
+acta de articulación  
+acta de convocatoria  
+acta de supervisión  
+acta de monitoreo  
+acta de validación  
+acta de certificación  
+acta de verificación  
+acta de control  
+acta de cumplimiento  
+acta de regulación  
+acta de normatividad  
+acta de legislación  
+acta de derechos  
+acta de deberes  
+acta de ética  
+acta de transparencia  
+acta de rendición  
+acta de informes  
+acta de estadísticas  
+acta de indicadores  
+acta de resultados  
+acta de metas  
+acta de objetivos  
+acta de impacto  
+acta de sostenibilidad  
+acta de permanencia  
+acta de viabilidad  
+acta de replicabilidad  
+acta de escalabilidad  
+acta de interoperabilidad  
+acta de adaptabilidad  
+acta de seguridad digital  
+acta de ciberseguridad  
+acta de privacidad  
+acta de confidencialidad  
+acta de datos  
+acta de información  
+acta de contenido  
+acta de formato  
+acta de diseño  
+acta de edición  
+acta de producción  
+acta de publicación  
+acta de distribución  
+acta de divulgación  
+acta de comunicación externa  
+acta de comunicación interna  
+acta de vocería  
+acta de representación oficial  
+abogado  
+acusado  
+acusación  
+acta  
+acción  
+adopción  
+amparo  
+apelación  
+audiencia  
+autoridad  
+cárcel  
+código  
+condena  
+constitución  
+contrato  
+culpable  
+defensa  
+delito  
+denuncia  
+derecho  
+detención  
+dictamen  
+diligencia  
+disculpa  
+documento  
+domicilio  
+equidad  
+escrito  
+estado  
+evidencia  
+fiscal  
+firma  
+fraude  
+funcionario  
+garantía  
+imputado  
+informe  
+infracción  
+inocente  
+juez  
+juicio  
+jurisdicción  
+jurisprudencia  
+justicia  
+ley  
+libertad  
+litigio  
+medida cautelar  
+ministerio público  
+multas  
+norma  
+notificación  
+orden  
+pena  
+penal  
+permiso  
+persona moral  
+persona física  
+prescripción  
+presunción  
+prisión  
+procedimiento  
+procuraduría  
+proceso  
+protocolo  
+prueba  
+queja  
+querella  
+razón  
+recurso  
+registro  
+reglamento  
+responsabilidad  
+resolución  
+revisión  
+sanción  
+secretaría  
+sentencia  
+sistema judicial  
+testigo  
+tribunal  
+veredicto  
+violación  
+alumno  
+alumna  
+asignatura  
+aula  
+biblioteca  
+boleta  
+calificación  
+campus  
+capacitación  
+clase  
+colegio  
+comunidad escolar  
+conocimiento  
+curso  
+docente  
+educación  
+educación especial  
+educación física  
+educación inclusiva  
+educación inicial  
+educación media  
+educación superior  
+escuela  
+escuela primaria  
+escuela secundaria  
+escuela preparatoria  
+escuela técnica  
+escuela rural  
+escuela urbana  
+evaluación  
+examen  
+formación  
+grupo escolar  
+institución educativa  
+intérprete  
+jornada escolar  
+lectura  
+libro  
+maestro  
+maestra  
+materia  
+modelo educativo  
+nivel educativo  
+orientador  
+orientadora  
+pizarrón  
+plantel  
+profesor  
+profesora  
+programa educativo  
+recreo  
+registro escolar  
+responsable académico  
+responsable educativo  
+responsable institucional  
+responsable pedagógico  
+responsable técnico  
+responsable de inclusión  
+responsable de accesibilidad  
+responsable de formación  
+responsable de evaluación  
+responsable de seguimiento  
+responsable de documentación  
+responsable de archivo  
+responsable de gestión  
+responsable de calidad  
+responsable de recursos  
+responsable de personal  
+responsable de sistemas  
+responsable de innovación  
+responsable de tecnología  
+responsable de comunicación  
+responsable de coordinación  
+responsable de planeación  
+responsable de capacitación  
+responsable de acompañamiento  
+responsable de vinculación  
+responsable de articulación  
+responsable de convocatoria  
+responsable de supervisión  
+responsable de monitoreo  
+responsable de validación  
+responsable de certificación  
+responsable de verificación  
+responsable de control  
+responsable de cumplimiento  
+responsable de regulación  
+responsable de normatividad  
+responsable de legislación  
+responsable de derechos  
+responsable de deberes  
+responsable de ética  
+responsable de transparencia  
+responsable de rendición  
+responsable de informes  
+responsable de estadísticas  
+responsable de indicadores  
+responsable de resultados  
+responsable de metas  
+responsable de objetivos  
+responsable de impacto  
+responsable de sostenibilidad  
+responsable de permanencia  
+responsable de viabilidad  
+responsable de replicabilidad  
+responsable de escalabilidad  
+responsable de accesibilidad digital  
+responsable de seguridad digital  
+responsable de ciberseguridad  
+responsable de privacidad  
+responsable de confidencialidad  
+responsable de datos  
+responsable de información  
+responsable de contenido  
+responsable de formato  
+responsable de diseño  
+responsable de edición  
+responsable de producción  
+responsable de publicación  
+responsable de distribución  
+responsable de divulgación  
+responsable de comunicación externa  
+responsable de comunicación interna  
+responsable de vocería  
+responsable de representación oficial  
+salón  
+sistema educativo  
+tarea  
+tutor  
+tutora  
+universidad  
+abuela  
+abuelo  
+adopción  
+amor familiar  
+bebé  
+compañero  
+compañera  
+cuñada  
+cuñado  
+esposa  
+esposo  
+familia  
+familiar  
+hija  
+hijo  
+hermana  
+hermano  
+madre  
+mamá  
+matrimonio  
+niña  
+niño  
+nieta  
+nieto  
+novia  
+novio  
+padre  
+papá  
+pareja  
+pariente  
+persona adulta  
+persona menor  
+persona mayor  
+persona joven  
+prima  
+primo  
+sobrina  
+sobrino  
+tía  
+tío  
+tutor  
+tutora  
+unidad familiar  
+yerno
+abogado  
+actriz  
+agricultor  
+albañil  
+arquitecto  
+artista  
+astronauta  
+atleta  
+autor  
+bombero  
+cajero  
+cantante  
+carpintero  
+cartero  
+chef  
+científico  
+comerciante  
+conductor  
+conserje  
+constructor  
+contador  
+coreógrafo  
+dentista  
+diseñador  
+doctor  
+economista  
+electricista  
+empleado  
+enfermera  
+enfermero  
+entrenador  
+escritor  
+escultor  
+estilista  
+farmacéutico  
+fotógrafo  
+gerente  
+granjero  
+guía  
+ingeniera  
+ingeniero  
+intérprete  
+jardinero  
+juez  
+locutor  
+maestra  
+maestro  
+mecánico  
+mensajero  
+mesero  
+modelo  
+músico  
+niñera  
+nutriólogo  
+obrero  
+oficinista  
+panadero  
+paramédico  
+pastor  
+peluquero  
+periodista  
+pintor  
+plomero  
+policía  
+profesor  
+programador  
+psicólogo  
+químico  
+recepcionista  
+reportero  
+repartidor  
+sastre  
+secretaria  
+soldado  
+taxista  
+técnico  
+traductor  
+vendedor  
+veterinario  
+yo  
+tú  
+usted  
+él  
+ella  
+nosotros  
+nosotras  
+ustedes  
+ellos  
+ellas  
+mí  
+ti  
+sí  
+me  
+te  
+se  
+nos  
+os  
+lo  
+la  
+los  
+las  
+le  
+les  
+esto  
+eso  
+aquello  
+este  
+esta  
+estos  
+estas  
+ese  
+esa  
+esos  
+esas  
+aquel  
+aquella  
+aquellos  
+aquellas  
+alguien  
+nadie  
+algo  
+nada  
+todo  
+todos  
+todas  
+uno  
+una  
+unos  
+unas  
+cual  
+cuales  
+quien  
+quienes  
+cuyo  
+cuya  
+cuyos  
+cuyas  
+que  
+donde  
+como  
+cuando  
+cuánto  
+cuánta  
+cuántos  
+cuántas  
+accidente  
+acopio  
+acuerdo preventivo  
+acta de emergencia  
+activación  
+actividades de riesgo  
+alerta  
+alerta sísmica  
+alerta volcánica  
+albergue  
+alto riesgo  
+ambulancia  
+análisis de riesgos  
+apoyo comunitario  
+apoyo emocional  
+apoyo logístico  
+apoyo médico  
+apoyo psicológico  
+apoyo social  
+área de seguridad  
+asistencia médica  
+asistencia psicológica  
+asistencia social  
+auxilio  
+aviso  
+barreras físicas  
+barreras arquitectónicas  
+barreras de comunicación  
+barreras digitales  
+barreras sociales  
+barricada  
+base operativa  
+bengala  
+bifurcación  
+bitácora  
+bloqueo  
+boca de tormenta  
+botiquín  
+brigada  
+brigada comunitaria  
+brigada escolar  
+brigada institucional  
+brigada médica  
+brigada psicológica  
+brigada social  
+brigada técnica  
+brigada voluntaria  
+cápsula de emergencia  
+cascos  
+centro de acopio  
+centro de atención  
+centro de comando  
+centro de control  
+centro de coordinación  
+centro de emergencia  
+centro de evacuación  
+centro de monitoreo  
+centro de operaciones  
+centro de protección  
+centro de recepción  
+centro de refugio  
+centro de seguridad  
+centro de vigilancia  
+ciclón  
+cierre preventivo  
+clima extremo  
+colapso estructural  
+comité de emergencia  
+comité de protección civil  
+comité de seguridad  
+comité de vigilancia  
+comité técnico  
+comunicación de riesgo  
+comunicado oficial  
+condición crítica  
+confinamiento  
+congestión  
+consejo de protección  
+contención  
+control de daños  
+control de incendios  
+control de riesgos  
+control sanitario  
+coordinación  
+coordinador  
+coordinadora  
+corte de energía  
+corte de suministro  
+crisis  
+cuadrante  
+cuartel  
+daño estructural  
+daños colaterales  
+daños materiales  
+daños personales  
+declaratoria  
+defensa civil  
+defensor  
+defensora  
+demolición  
+denuncia  
+dependencia  
+desactivación  
+desastre  
+desbordamiento  
+descarga eléctrica  
+descompresión  
+deslizamiento  
+desplazamiento  
+despliegue  
+despresurización  
+destino seguro  
+detector de humo  
+detector sísmico  
+diagnóstico  
+dificultad respiratoria  
+difusión  
+diluvio  
+dinámica de evacuación  
+directiva  
+directorio  
+dispositivo  
+distancia segura  
+documentación  
+documentos personales  
+domicilio afectado  
+emergencia  
+emisión  
+encierro  
+enlace  
+entorno seguro  
+epicentro  
+equipo de rescate  
+equipo de seguridad  
+equipo médico  
+equipo técnico  
+escalera de emergencia  
+escenario de riesgo  
+escenario crítico  
+escenario probable  
+escenario preventivo  
+escenario sísmico  
+escenario volcánico  
+escombro  
+espacio confinado  
+estado de crisis  
+estado de emergencia  
+estado de riesgo  
+evacuación  
+evacuación escolar  
+evacuación institucional  
+evacuación médica  
+evacuación preventiva  
+evacuación voluntaria  
+evento adverso  
+evento climático  
+evento crítico  
+evento sísmico  
+evento volcánico  
+exhorto  
+explosión  
+exposición  
+extintor  
+falla geológica  
+falla estructural  
+falla técnica  
+filtro sanitario  
+filtro de seguridad  
+filtro de acceso  
+filtro de evacuación  
+filtro de revisión  
+filtro de control  
+filtro de monitoreo  
+filtro de validación  
+filtro de verificación  
+filtro de documentación  
+filtro de identificación  
+filtro de protección  
+filtro de prevención  
+filtro de atención  
+filtro de intervención  
+filtro de seguimiento  
+filtro de evaluación  
+filtro de certificación  
+filtro de vigilancia  
+filtro de transparencia  
+filtro de ética  
+filtro de derechos  
+filtro de deberes  
+filtro de confidencialidad  
+filtro de privacidad  
+filtro de seguridad digital  
+filtro de ciberseguridad  
+filtro de accesibilidad  
+filtro de inclusión  
+filtro de impacto  
+filtro de sostenibilidad  
+filtro de replicabilidad  
+filtro de escalabilidad  
+filtro de interoperabilidad  
+filtro de adaptabilidad  
+filtro de calidad  
+filtro de gestión  
+filtro de coordinación  
+filtro de planeación  
+filtro de capacitación  
+filtro de formación  
+filtro de acompañamiento  
+filtro de vinculación  
+filtro de articulación  
+filtro de convocatoria  
+filtro de supervisión  
+filtro de monitoreo  
+filtro de validación  
+filtro de certificación  
+filtro de verificación  
+filtro de control  
+filtro de cumplimiento  
+filtro de regulación  
+filtro de normatividad  
+filtro de legislación  
+filtro de comunicación  
+filtro de vocería  
+filtro de representación oficial  
+amarillo  
+azul  
+blanco  
+gris  
+marrón  
+naranja  
+negro  
+rojo  
+rosa  
+verde  
+beige  
+dorado  
+plateado  
+turquesa  
+vino  
+ocre  
+lavanda  
+fucsia  
+celeste  
+cobre  
+magenta  
+mostaza  
+coral  
+salmon  
+índigo  
+lila  
+marfil  
+menta  
+púrpura  
+sepia  
+terracota  
+transparente  
+multicolor  
+fosforescente  
+pastel  
+neón  
+brillante  
+opaco  
+claro  
+oscuro  
+intenso  
+suave  
+saturado  
+desaturado  
+luminoso  
+apagado  
+mate  
+metálico  
+fluorescente  
+irisado  
+bicolor  
+tricolor  
+cuatricolor  
+colorido  
+color neutro  
+color cálido  
+color frío  
+color primario  
+color secundario  
+color terciario  
+tono  
+matiz  
+contraste  
+gama  
+paleta  
+mezcla  
+pigmento  
+tinte  
+acrílico  
+óleo  
+acuarela  
+pastel seco  
+pastel graso  
+grafito  
+carboncillo  
+témpera  
+esmalte  
+barniz  
+pintura  
+color piel  
+color tierra  
+color cielo  
+color agua  
+color fuego  
+color sangre  
+color sombra  
+color luz  
+color noche  
+color día  
+color amanecer  
+color atardecer  
+color arcoíris  
+color bosque  
+color desierto  
+color mar  
+color montaña  
+color selva  
+color urbano  
+color rural  
+color natural  
+color artificial  
+color digital  
+color impreso  
+color plano  
+color degradado  
+color sólido  
+color transparente  
+color translúcido  
+color opaco  
+color reflectante  
+color absorbente  
+color térmico  
+color químico  
+color biológico  
+color emocional  
+color simbólico  
+color institucional  
+color oficial  
+color escolar  
+color médico  
+color legal  
+color técnico  
+color artístico  
+color decorativo  
+color funcional  
+color estético  
+color ambiental  
+color cultural  
+color lingüístico  
+color visual  
+color táctil  
+color auditivo  
+color olfativo  
+color gustativo  
+color perceptual  
+color cognitivo  
+color afectivo  
+color inclusivo  
+color accesible  
+color universal  
+color personalizado  
+color adaptado  
+color modificado  
+color corregido  
+color validado  
+color certificado  
+color verificado  
+color controlado  
+color regulado  
+color normado  
+color legislado  
+color protegido  
+color seguro  
+color privado  
+color confidencial  
+color público  
+color compartido  
+color distribuido  
+color publicado  
+color editado  
+color diseñado  
+color producido  
+color documentado  
+color archivado  
+color gestionado  
+color monitoreado  
+color evaluado  
+color supervisado  
+color convocado  
+color articulado  
+color vinculado  
+color acompañado  
+color planeado  
+color coordinado  
+color capacitado  
+color formado  
+color representado  
+color vocero  
+color comunicado  
+color externo  
+color interno  
+color digitalizado  
+color escaneado  
+color impreso  
+color proyectado  
+color visualizado  
+color interpretado  
+color traducido  
+color señado  
+color gestual  
+color textual  
+color simbólico  
+color semántico  
+color emocional  
+color institucional  
+color educativo  
+color jurídico  
+color médico  
+color técnico  
+color artístico  
+color cultural  
+color social  
+color político  
+color ambiental  
+color económico  
+color tecnológico  
+color informático  
+color accesible  
+color inclusivo  
+color universal  
+aguascalientes  
+baja california  
+mexicali  
+baja california sur  
+la paz  
+campeche  
+chiapas  
+tuxtla gutiérrez  
+chihuahua  
+ciudad de méxico  
+coahuila  
+saltillo  
+colima  
+durango  
+estado de méxico  
+toluca  
+guanajuato  
+guerrero  
+chilpancingo  
+hidalgo  
+pachuca  
+jalisco  
+guadalajara  
+michoacán  
+morelia  
+morelos  
+cuernavaca  
+nayarit  
+tepic  
+nuevo león  
+monterrey  
+oaxaca  
+puebla  
+querétaro  
+quintana roo  
+chetumal  
+san luis potosí  
+sinaloa  
+culiacán  
+sonora  
+hermosillo  
+tabasco  
+villahermosa  
+tamaulipas  
+ciudad victoria  
+tlaxcala  
+veracruz  
+xalapa  
+yucatán  
+mérida  
+zacatecas  
+cero  
+uno  
+dos  
+tres  
+cuatro  
+cinco  
+seis  
+siete  
+ocho  
+nueve  
+diez  
+once  
+doce  
+trece  
+catorce  
+quince  
+dieciséis  
+diecisiete  
+dieciocho  
+diecinueve  
+veinte  
+veintiuno  
+veintidós  
+veintitrés  
+veinticuatro  
+veinticinco  
+veintiséis  
+veintisiete  
+veintiocho  
+veintinueve  
+treinta  
+cuarenta  
+cincuenta  
+sesenta  
+setenta  
+ochenta  
+noventa  
+cien  
+ciento uno  
+ciento diez  
+ciento cincuenta  
+ciento noventa y nueve  
+doscientos  
+trescientos  
+cuatrocientos  
+quinientos  
+seiscientos  
+setecientos  
+ochocientos  
+novecientos  
+mil  
+mil cien  
+mil quinientos  
+mil novecientos noventa y nueve  
+dos mil  
+tres mil  
+cinco mil  
+diez mil  
+cien mil  
+un millón  
+dos millones  
+mil millones  
+primer  
+segundo  
+tercero  
+cuarto  
+quinto  
+sexto  
+séptimo  
+octavo  
+noveno  
+décimo  
+onceavo  
+doceavo  
+vigésimo  
+trigésimo  
+cuadragésimo  
+centésimo  
+milésimo  
+décima  
+centésima  
+milésima  
+un medio  
+un tercio  
+un cuarto  
+dos tercios  
+tres cuartos  
+un quinto  
+un sexto  
+un octavo  
+un décimo  
+porcentaje  
+por ciento  
+uno punto cinco  
+dos punto tres  
+cero punto uno  
+cero punto cero uno  
+cero punto cero cero uno  
+uno punto cero cero uno  
+diez punto cinco  
+cien punto uno  
+mil punto uno  
+mil punto cero cero uno  
+mil punto cero cero cero uno  
+mil punto cero cero cero cero uno  
+mil punto cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+mil punto cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero cero uno  
+aborto  
+acné  
+acudir  
+admisión  
+alcohol  
+alergia  
+alimentación  
+ambulancia  
+analgésico  
+anatomía  
+anemia  
+anestesia  
+angustia  
+ansiedad  
+antibiótico  
+anticonceptivo  
+antídoto  
+apoyo emocional  
+apoyo médico  
+apoyo psicológico  
+apoyo social  
+asfixia  
+asma  
+asistencia médica  
+atención médica  
+atención psicológica  
+autoestima  
+auxilio  
+bacteria  
+baño  
+barbijos  
+bienestar  
+biopsia  
+brazo  
+cabello  
+cama  
+cáncer  
+capacidades  
+cardiología  
+cariño  
+carrera médica  
+carta médica  
+caso clínico  
+cefalea  
+celular  
+centro de salud  
+cerebro  
+certificado médico  
+ciclo menstrual  
+cintura  
+clínica  
+columna  
+comida saludable  
+comunicación médica  
+consulta  
+contagio  
+control médico  
+corazón  
+coronavirus  
+corte  
+crema  
+crisis emocional  
+cuidados  
+cuello  
+cura  
+curación  
+curita  
+cuerpo  
+deficiencia  
+definición médica  
+depresión  
+dermatología  
+desarrollo  
+desinfectante  
+desnutrición  
+diagnóstico  
+diabetes  
+diarrea  
+dificultad respiratoria  
+diente  
+dieta  
+digestión  
+discapacidad  
+discapacidad auditiva  
+discapacidad intelectual  
+discapacidad motriz  
+discapacidad múltiple  
+discapacidad psicosocial  
+discapacidad sensorial  
+discapacidad temporal  
+discapacidad visual  
+discriminación médica  
+dolor  
+dolor abdominal  
+dolor de cabeza  
+dolor de espalda  
+dolor de garganta  
+dolor muscular  
+donación  
+dormir  
+dosis  
+duele  
+duelo  
+eco  
+embarazo  
+emergencia  
+emociones  
+enfermedad  
+enfermera  
+enfermero  
+enfermedad crónica  
+enfermedad mental  
+enfermedad respiratoria  
+enfermedad viral  
+enfermedad contagiosa  
+enfermedad infecciosa  
+enfermedad degenerativa  
+enfermedad genética  
+enfermedad autoinmune  
+enfermedad cardiovascular  
+enfermedad digestiva  
+enfermedad neurológica  
+enfermedad pulmonar  
+enfermedad renal  
+enfermedad cutánea  
+enfermedad ocular  
+enfermedad auditiva  
+enfermedad ósea  
+enfermedad muscular  
+enfermedad articular  
+enfermedad endocrina  
+enfermedad metabólica  
+enfermedad pediátrica  
+enfermedad geriátrica  
+enfermedad psiquiátrica  
+enfermedad oncológica  
+enfermedad hematológica  
+enfermedad inmunológica  
+enfermedad tropical  
+enfermedad zoonótica  
+enfermedad emergente  
+enfermedad rara  
+enfermedad terminal  
+enfermedad leve  
+enfermedad moderada  
+enfermedad grave  
+enfermedad aguda  
+enfermedad crónica  
+enfermedad progresiva  
+enfermedad reversible  
+enfermedad irreversible  
+enfermedad tratable  
+enfermedad incurable  
+enfermedad prevenible  
+enfermedad transmisible  
+enfermedad no transmisible  
+enfermedad profesional  
+enfermedad ocupacional  
+enfermedad laboral  
+enfermedad escolar  
+enfermedad institucional  
+enfermedad comunitaria  
+enfermedad familiar  
+enfermedad infantil  
+enfermedad juvenil  
+enfermedad adulta  
+enfermedad geriátrica  
+enfermedad femenina  
+enfermedad masculina  
+enfermedad hormonal  
+enfermedad sexual  
+enfermedad reproductiva  
+enfermedad digestiva  
+enfermedad respiratoria  
+enfermedad cardiovascular  
+enfermedad neurológica  
+enfermedad mental  
+enfermedad emocional  
+enfermedad cognitiva  
+enfermedad sensorial  
+enfermedad motriz  
+enfermedad visual  
+enfermedad auditiva  
+enfermedad intelectual  
+enfermedad psicosocial  
+enfermedad múltiple  
+enfermedad temporal  
+enfermedad adquirida  
+enfermedad congénita  
+enfermedad genética  
+enfermedad estructural  
+enfermedad funcional  
+enfermedad orgánica  
+enfermedad sistémica  
+enfermedad ambiental  
+enfermedad comunicacional  
+enfermedad educativa  
+enfermedad laboral  
+enfermedad jurídica  
+enfermedad política  
+enfermedad económica  
+enfermedad tecnológica  
+enfermedad digital  
+enfermedad simbólica  
+enfermedad institucional  
+enfermedad estructural  
+enfermedad sistemática  
+enfermedad invisible  
+enfermedad evidente  
+enfermedad leve  
+enfermedad moderada  
+enfermedad severa  
+enfermedad profunda  
+enfermedad funcional  
+enfermedad estructural  
+enfermedad orgánica  
+enfermedad sistémica  
+enfermedad ambiental  
+enfermedad comunicacional  
+enfermedad cognitiva  
+enfermedad emocional  
+enfermedad relacional  
+enfermedad social  
+enfermedad cultural  
+enfermedad lingüística  
+enfermedad educativa  
+enfermedad laboral  
+enfermedad jurídica  
+enfermedad política  
+enfermedad económica  
+enfermedad tecnológica  
+enfermedad digital  
+enfermedad simbólica  
+enfermedad institucional  
+enfermedad estructural  
+enfermedad sistemática  
+enfermedad invisible  
+enfermedad evidente  
+enfermedad leve  
+enfermedad moderada  
+enfermedad severa  
+enfermedad profunda  
+enfermedad funcional  
+enfermedad estructural  
+enfermedad orgánica  
+enfermedad sistémica  
+enfermedad ambiental  
+enfermedad comunicacional  
+enfermedad cognitiva  
+enfermedad emocional  
+enfermedad relacional  
+enfermedad social  
+enfermedad cultural  
+enfermedad lingüística  
+enfermedad educativa  
+enfermedad laboral  
+enfermedad jurídica  
+enfermedad política  
+enfermedad económica  
+enfermedad tecnológica  
+enfermedad digital  
+enfermedad simbólica  
+enfermedad institucional  
+accesibilidad digital  
+adaptador  
+almacenamiento  
+analizador  
+antivirus  
+aplicación  
+aplicación móvil  
+aplicación web  
+archivo  
+arquitectura digital  
+autenticación  
+automatización  
+avatar  
+banda ancha  
+base de datos  
+bitácora  
+bluetooth  
+bocina  
+botón  
+buscador  
+cable  
+cámara  
+carga  
+carpeta  
+celular  
+ciberseguridad  
+circuito  
+clic  
+cloud  
+comando  
+componente  
+computadora  
+conexión  
+consola  
+contraseña  
+control remoto  
+correo electrónico  
+CPU  
+cursor  
+datos  
+descarga  
+desempeño  
+desinstalar  
+despliegue  
+desarrollo  
+digital  
+disco duro  
+dispositivo  
+documento  
+dominio  
+editor  
+educación digital  
+emulador  
+enlace  
+entrada  
+entorno virtual  
+escáner  
+escritorio  
+espacio digital  
+estado del sistema  
+etiqueta  
+evaluación digital  
+extranet  
+extensión  
+facilitador digital  
+firewall  
+formato  
+foro  
+fotografía digital  
+fuente  
+función  
+gestión digital  
+GIF  
+hardware  
+herramienta  
+historial  
+hosting  
+HTML  
+imagen  
+impresora  
+informática  
+información  
+infraestructura  
+iniciar sesión  
+input  
+instalación  
+interfaz  
+internet  
+intranet  
+IP  
+Java  
+JavaScript  
+joystick  
+laptop  
+lector  
+lenguaje de programación  
+link  
+Linux  
+lista desplegable  
+login  
+logout  
+macros  
+mantenimiento  
+manual digital  
+mapa digital  
+memoria  
+menú  
+mensaje  
+microchip  
+micrófono  
+modem  
+monitor  
+mouse  
+multimedia  
+navegador  
+nube  
+objeto digital  
+offline  
+online  
+pantalla  
+parlante  
+PDF  
+perfil  
+periférico  
+permiso digital  
+personalización  
+pestaña  
+ping  
+pixel  
+plataforma  
+plugin  
+poder digital  
+portátil  
+procesador  
+programa  
+programador  
+protocolo  
+publicación digital  
+QR  
+RAM  
+ratón  
+red  
+reinstalar  
+reproductor  
+resolución  
+robot  
+router  
+salida  
+scanner  
+script  
+scroll  
+seguridad digital  
+selección  
+semáforo digital  
+señal  
+servidor  
+sesión  
+sistema  
+software  
+subir  
+superusuario  
+tablet  
+tarjeta  
+teclado  
+tecnología  
+tecnología asistiva  
+tecnología educativa  
+tecnología inclusiva  
+tecnología móvil  
+tecnología táctil  
+tecnología wearable  
+telecomunicación  
+teletrabajo  
+terminal  
+texto digital  
+token  
+touchpad  
+transferencia  
+transmisión  
+tutorial  
+unidad  
+USB  
+usuario  
+validación  
+valor digital  
+ventana  
+verificación  
+video  
+videollamada  
+videoconferencia  
+visor  
+visualización  
+web  
+wifi  
+XML  
+zip  
+zona digital  
+codigo
+inteligencia artificial
+transporte  
+metro  
+avión  
+auto  
+metrobús  
+camión  
+autobús  
+terminal  
+tren  
+tren ligero  
+tranvía  
+trolebús  
+suburbano  
+taxi  
+barco  
+bicicleta  
+motocicleta  
+helicóptero  
+patín  
+patineta  
+monopatín  
+triciclo  
+cuatrimoto  
+camioneta  
+vehículo  
+vehículo adaptado  
+vehículo oficial  
+vehículo escolar  
+vehículo institucional  
+vehículo de emergencia  
+vehículo de carga  
+vehículo particular  
+vehículo público  
+vehículo privado  
+vehículo compartido  
+vehículo eléctrico  
+vehículo híbrido  
+vehículo autónomo  
+vehículo accesible  
+vehículo señado  
+vehículo adaptado  
+vehículo modificado  
+vehículo personalizado  
+vehículo blindado  
+vehículo policial  
+vehículo militar  
+vehículo médico  
+vehículo de rescate  
+vehículo de protección civil  
+vehículo de seguridad  
+vehículo de vigilancia  
+vehículo de supervisión  
+vehículo de monitoreo  
+vehículo de evaluación  
+vehículo de validación  
+vehículo de certificación  
+vehículo de verificación  
+vehículo de control  
+vehículo de cumplimiento  
+vehículo de regulación  
+vehículo de normatividad  
+vehículo de legislación  
+vehículo de derechos  
+vehículo de deberes  
+vehículo de ética  
+vehículo de transparencia  
+vehículo de rendición  
+vehículo de informes  
+vehículo de estadísticas  
+vehículo de indicadores  
+vehículo de resultados  
+vehículo de metas  
+vehículo de objetivos  
+vehículo de impacto  
+vehículo de sostenibilidad  
+vehículo de permanencia  
+vehículo de viabilidad  
+vehículo de replicabilidad  
+vehículo de escalabilidad  
+vehículo de interoperabilidad  
+vehículo de adaptabilidad  
+vehículo de seguridad digital  
+vehículo de ciberseguridad  
+vehículo de privacidad  
+vehículo de confidencialidad  
+vehículo de datos  
+vehículo de información  
+vehículo de contenido  
+vehículo de formato  
+vehículo de diseño  
+vehículo de edición  
+vehículo de producción  
+vehículo de publicación  
+vehículo de distribución  
+vehículo de divulgación  
+vehículo de comunicación externa  
+vehículo de comunicación interna  
+vehículo de vocería  
+vehículo de representación oficial  
+vehículo de accesibilidad  
+vehículo de inclusión  
+vehículo de bienestar  
+vehículo de protección  
+vehículo de prevención  
+vehículo de atención  
+vehículo de intervención  
+vehículo de seguimiento  
+vehículo de evaluación  
+vehículo de documentación  
+vehículo de archivo  
+vehículo de gestión  
+vehículo de calidad  
+vehículo de recursos  
+vehículo de personal  
+vehículo de sistemas  
+vehículo de innovación  
+vehículo de tecnología  
+vehículo de informática  
+vehículo de redes  
+vehículo de mantenimiento  
+vehículo de transporte  
+vehículo de logística  
+vehículo de infraestructura  
+vehículo de servicios  
+vehículo de comunicación  
+vehículo de enlace  
+vehículo de coordinación  
+vehículo de planeación  
+vehículo de capacitación  
+vehículo de formación  
+vehículo de acompañamiento  
+vehículo de vinculación  
+vehículo de articulación  
+vehículo de convocatoria  
+vehículo de supervisión  
+vehículo de monitoreo  
+vehículo de validación  
+vehículo de certificación  
+vehículo de verificación  
+vehículo de control  
+vehículo de cumplimiento  
+vehículo de regulación  
+vehículo de normatividad  
+vehículo de legislación  
+vehículo de derechos  
+vehículo de deberes  
+vehículo de ética  
+vehículo de transparencia  
+vehículo de rendición  
+vehículo de informes  
+vehículo de estadísticas  
+vehículo de indicadores  
+vehículo de resultados  
+vehículo de metas  
+vehículo de objetivos  
+vehículo de impacto  
+vehículo de sostenibilidad  
+vehículo de permanencia  
+vehículo de viabilidad  
+vehículo de replicabilidad  
+vehículo de escalabilidad  
+vehículo de interoperabilidad  
+vehículo de adaptabilidad  
+vehículo de seguridad digital  
+vehículo de ciberseguridad  
+vehículo de privacidad  
+vehículo de confidencialidad  
+vehículo de datos  
+vehículo de información  
+vehículo de contenido  
+vehículo de formato  
+vehículo de diseño  
+vehículo de edición  
+vehículo de producción  
+vehículo de publicación  
+vehículo de distribución  
+vehículo de divulgación  
+vehículo de comunicación externa  
+vehículo de comunicación interna  
+vehículo de vocería  
+vehículo de representación oficial  
+ayuntamiento  
+biblioteca  
+centro comunitario  
+centro de salud  
+centro educativo  
+centro de justicia  
+centro de atención  
+centro de acopio  
+centro de rehabilitación  
+centro de inclusión  
+centro de protección  
+centro de prevención  
+centro de intervención  
+centro de monitoreo  
+centro de evaluación  
+centro de documentación  
+centro de archivo  
+centro de gestión  
+centro de calidad  
+centro de recursos  
+centro de personal  
+centro de sistemas  
+centro de innovación  
+centro de tecnología  
+centro de informática  
+centro de redes  
+centro de mantenimiento  
+centro de transporte  
+centro de logística  
+centro de infraestructura  
+centro de servicios  
+centro de comunicación  
+centro de enlace  
+centro de coordinación  
+centro de planeación  
+centro de capacitación  
+centro de formación  
+centro de acompañamiento  
+centro de vinculación  
+centro de articulación  
+centro de convocatoria  
+centro de supervisión  
+centro de validación  
+centro de certificación  
+centro de verificación  
+centro de control  
+centro de cumplimiento  
+centro de regulación  
+centro de normatividad  
+centro de legislación  
+centro de derechos  
+centro de deberes  
+centro de ética  
+centro de transparencia  
+centro de rendición  
+centro de informes  
+centro de estadísticas  
+centro de indicadores  
+centro de resultados  
+centro de metas  
+centro de objetivos  
+centro de impacto  
+centro de sostenibilidad  
+centro de permanencia  
+centro de viabilidad  
+centro de replicabilidad  
+centro de escalabilidad  
+centro de interoperabilidad  
+centro de adaptabilidad  
+centro de seguridad digital  
+centro de ciberseguridad  
+centro de privacidad  
+centro de confidencialidad  
+centro de datos  
+centro de información  
+centro de contenido  
+centro de formato  
+centro de diseño  
+centro de edición  
+centro de producción  
+centro de publicación  
+centro de distribución  
+centro de divulgación  
+centro de comunicación externa  
+centro de comunicación interna  
+centro de vocería  
+centro de representación oficial  
+centro de accesibilidad  
+centro de inclusión  
+centro de bienestar  
+centro de protección civil  
+centro de salud mental  
+centro de atención ciudadana  
+centro de justicia alternativa  
+centro de mediación  
+centro de derechos humanos  
+centro de cultura  
+centro de arte  
+centro de deporte  
+centro de recreación  
+centro de juventud  
+centro de mujeres  
+centro de personas mayores  
+centro de personas con discapacidad  
+centro de migrantes  
+centro de refugiados  
+centro de diversidad  
+centro de género  
+centro de educación especial  
+centro de educación inicial  
+centro de educación media  
+centro de educación superior  
+centro de educación técnica  
+centro de educación rural  
+centro de educación urbana  
+centro de educación bilingüe  
+centro de educación intercultural  
+centro de educación comunitaria  
+centro de educación inclusiva  
+centro de educación digital  
+centro de educación abierta  
+centro de educación a distancia  
+centro de educación virtual  
+centro de educación institucional  
+centro de educación formal  
+centro de educación no formal  
+centro de educación alternativa  
+centro de educación popular  
+centro de educación ambiental  
+centro de educación artística  
+centro de educación tecnológica  
+centro de educación científica  
+centro de educación jurídica  
+centro de educación política  
+centro de educación económica  
+centro de educación social  
+centro de educación cultural  
+centro de educación lingüística  
+centro de educación accesible  
+centro de educación señada  
+centro de educación gestual  
+centro de educación semántica  
+centro de educación simbólica  
+centro de educación emocional  
+centro de educación cognitiva  
+centro de educación relacional  
+centro de educación institucional  
+adiós  
+hola  
+buenos días  
+buenas tardes  
+buenas noches  
+¿cómo estás?  
+¿qué haces?  
+¿dónde?  
+¿cuándo?  
+¿quién?  
+¿por qué?  
+¿cómo?  
+¿cuánto?  
+¿cuántos?  
+¿qué tal?  
+gracias  
+por favor  
+permiso  
+lo siento  
+disculpa  
+bienvenido  
+con gusto  
+de nada  
+mucho gusto  
+hasta luego  
+nos vemos  
+cuídate  
+felicidades  
+enhorabuena  
+feliz cumpleaños  
+feliz día  
+feliz noche  
+feliz año  
+feliz navidad  
+feliz día de las madres  
+feliz día del padre  
+feliz día del niño  
+feliz día de la mujer  
+feliz día de la inclusión  
+feliz día de la discapacidad  
+feliz día de la comunidad sorda  
+feliz día de la lengua de señas  
+feliz día del intérprete  
+feliz día del maestro  
+feliz día del estudiante  
+feliz día del trabajador  
+feliz día del servidor público  
+feliz día del médico  
+feliz día del enfermero  
+feliz día del psicólogo  
+feliz día del abogado  
+feliz día del periodista  
+feliz día del bombero  
+feliz día del policía  
+feliz día del arquitecto  
+feliz día del ingeniero  
+feliz día del programador  
+feliz día del diseñador  
+feliz día del artista  
+feliz día del deportista  
+feliz día del activista  
+feliz día del voluntario  
+feliz día del servidor comunitario  
+feliz día del defensor de derechos  
+feliz día del gestor institucional  
+feliz día del responsable de accesibilidad  
+feliz día del responsable de inclusión  
+feliz día del responsable de bienestar  
+feliz día del responsable de protección  
+feliz día del responsable de prevención  
+feliz día del responsable de atención  
+feliz día del responsable de intervención  
+feliz día del responsable de seguimiento  
+feliz día del responsable de evaluación  
+feliz día del responsable de documentación  
+feliz día del responsable de archivo  
+feliz día del responsable de gestión  
+feliz día del responsable de calidad  
+feliz día del responsable de recursos  
+feliz día del responsable de personal  
+feliz día del responsable de sistemas  
+feliz día del responsable de innovación  
+feliz día del responsable de tecnología  
+feliz día del responsable de informática  
+feliz día del responsable de redes  
+feliz día del responsable de mantenimiento  
+feliz día del responsable de transporte  
+feliz día del responsable de logística  
+feliz día del responsable de infraestructura  
+feliz día del responsable de servicios  
+feliz día del responsable de comunicación  
+feliz día del responsable de enlace  
+feliz día del responsable de coordinación  
+feliz día del responsable de planeación  
+feliz día del responsable de capacitación  
+feliz día del responsable de formación  
+feliz día del responsable de acompañamiento  
+feliz día del responsable de vinculación  
+feliz día del responsable de articulación  
+feliz día del responsable de convocatoria  
+feliz día del responsable de supervisión  
+feliz día del responsable de monitoreo  
+feliz día del responsable de validación  
+feliz día del responsable de certificación  
+feliz día del responsable de verificación  
+feliz día del responsable de control  
+feliz día del responsable de cumplimiento  
+feliz día del responsable de regulación  
+feliz día del responsable de normatividad  
+feliz día del responsable de legislación  
+feliz día del responsable de derechos  
+feliz día del responsable de deberes  
+feliz día del responsable de ética  
+feliz día del responsable de transparencia  
+feliz día del responsable de rendición  
+feliz día del responsable de informes  
+feliz día del responsable de estadísticas  
+feliz día del responsable de indicadores  
+feliz día del responsable de resultados  
+feliz día del responsable de metas  
+feliz día del responsable de objetivos  
+feliz día del responsable de impacto  
+feliz día del responsable de sostenibilidad  
+feliz día del responsable de permanencia  
+feliz día del responsable de viabilidad  
+feliz día del responsable de replicabilidad  
+feliz día del responsable de escalabilidad  
+feliz día del responsable de interoperabilidad  
+feliz día del responsable de adaptabilidad  
+feliz día del responsable de seguridad digital  
+feliz día del responsable de ciberseguridad  
+feliz día del responsable de privacidad  
+feliz día del responsable de confidencialidad  
+feliz día del responsable de datos  
+feliz día del responsable de información  
+feliz día del responsable de contenido  
+feliz día del responsable de formato  
+feliz día del responsable de diseño  
+feliz día del responsable de edición  
+feliz día del responsable de producción  
+feliz día del responsable de publicación  
+feliz día del responsable de distribución  
+feliz día del responsable de divulgación  
+feliz día del responsable de comunicación externa  
+feliz día del responsable de comunicación interna  
+feliz día del responsable de vocería  
+feliz día del responsable de representación oficial  
+adolfo lópez mateos  
+adolfo ruiz cortines  
+agustín de iturbide  
+álvaro obregón  
+andrés manuel lópez obrador  
+antonio lópez de santa anna  
+benito juárez  
+carlos salinas de gortari  
+claudia sheinbaum  
+cuauhtémoc  
+cuitláhuac  
+eduardo huet  
+emiliano zapata  
+enrique peña nieto  
+ernesto zedillo  
+felipe calderón  
+francisco i. madero  
+guadalupe victoria  
+gustavo díaz ordaz  
+hernán cortés  
+ignacio allende  
+josé lópez portillo  
+josé maría morelos  
+venustiano carranza  
+victoriano huerta  
+josefa ortiz de domínguez  
+lázaro cárdenas  
+luis echeverría  
+manuel ávila camacho  
+leona vicario  
+maximiliano de habsburgo  
+miguel alemán  
+miguel de la madrid  
+miguel hidalgo  
+moctezuma  
+nezahualcóyotl  
+porfirio díaz  
+sor juana inés de la cruz  
+vicente fox  
+vicente guerrero  
+¿cómo estás?  
+¿qué tal?  
+¿qué haces?  
+¿cómo te va?  
+¿cómo te sientes?  
+¿cómo te llamas?  
+¿cómo estuvo tu día?  
+¿cómo amaneciste?  
+¿cómo dormiste?  
+¿cómo va todo?  
+¿cómo va el trabajo?  
+¿cómo va la escuela?  
+¿cómo va la familia?  
+¿cómo va tu salud?  
+¿cómo va tu proyecto?  
+¿cómo va tu corpus?  
+¿cómo va tu glosario?  
+¿cómo va tu IA?  
+¿cómo va tu investigación?  
+¿cómo va tu tesis?  
+¿cómo va tu pipeline?  
+¿cómo va tu scraping?  
+¿cómo va tu curaduría?  
+¿cómo va tu depuración?  
+¿cómo va tu despliegue?  
+¿cómo va tu frontend?  
+¿cómo va tu backend?  
+¿cómo va tu modelo?  
+¿cómo va tu entrenamiento?  
+¿cómo va tu validación?  
+¿cómo va tu evaluación?  
+¿cómo va tu impacto?  
+¿cómo va tu inclusión?  
+¿cómo va tu accesibilidad?  
+¿cómo va tu institucionalización?  
+¿cómo va tu documentación?  
+¿cómo va tu archivo?  
+¿cómo va tu gestión?  
+¿cómo va tu calidad?  
+¿cómo va tu replicabilidad?  
+¿cómo va tu escalabilidad?  
+¿cómo va tu interoperabilidad?  
+¿cómo va tu adaptabilidad?  
+¿cómo va tu sostenibilidad?  
+¿cómo va tu permanencia?  
+¿cómo va tu viabilidad?  
+¿cómo va tu ética?  
+¿cómo va tu transparencia?  
+¿cómo va tu rendición?  
+¿cómo va tu vocería?  
+¿cómo va tu representación?  
+¿cómo va tu coordinación?  
+¿cómo va tu planeación?  
+¿cómo va tu capacitación?  
+¿cómo va tu formación?  
+¿cómo va tu acompañamiento?  
+¿cómo va tu vinculación?  
+¿cómo va tu articulación?  
+¿cómo va tu convocatoria?  
+¿cómo va tu supervisión?  
+¿cómo va tu monitoreo?  
+¿cómo va tu certificación?  
+¿cómo va tu verificación?  
+¿cómo va tu control?  
+¿cómo va tu cumplimiento?  
+¿cómo va tu regulación?  
+¿cómo va tu normatividad?  
+¿cómo va tu legislación?  
+¿cómo va tu protección?  
+¿cómo va tu prevención?  
+¿cómo va tu atención?  
+¿cómo va tu intervención?  
+¿cómo va tu seguimiento?  
+¿cómo va tu evaluación?  
+¿cómo va tu documentación?  
+¿cómo va tu edición?  
+¿cómo va tu publicación?  
+¿cómo va tu distribución?  
+¿cómo va tu divulgación?  
+¿cómo va tu comunicación externa?  
+¿cómo va tu comunicación interna?  
+¿cómo va tu seguridad digital?  
+¿cómo va tu ciberseguridad?  
+¿cómo va tu privacidad?  
+¿cómo va tu confidencialidad?  
+¿cómo va tu gestión de datos?  
+¿cómo va tu información?  
+¿cómo va tu contenido?  
+¿cómo va tu formato?  
+¿cómo va tu diseño?  
+¿cómo va tu producción?  
+¿cómo va tu mantenimiento?  
+¿cómo va tu infraestructura?  
+¿cómo va tu logística?  
+¿cómo va tu transporte?  
+¿cómo va tu servicio?  
+¿cómo va tu sistema?  
+¿cómo va tu red?  
+¿cómo va tu tecnología?  
+¿cómo va tu innovación?  
+¿cómo va tu inclusión educativa?  
+¿cómo va tu inclusión digital?  
+¿cómo va tu inclusión institucional?  
+¿cómo va tu inclusión lingüística?  
+¿cómo va tu inclusión cultural?  
+¿cómo va tu inclusión social?  
+¿cómo va tu inclusión jurídica?  
+¿cómo va tu inclusión política?  
+¿cómo va tu inclusión económica?  
+¿cómo va tu inclusión ambiental?  
+¿cómo va tu inclusión simbólica?  
+¿cómo va tu inclusión emocional?  
+¿cómo va tu inclusión cognitiva?  
+¿cómo va tu inclusión relacional?  
+¿cómo va tu inclusión comunicacional?  
+¿cómo va tu inclusión educativa?  
+¿cómo va tu inclusión laboral?  
+¿cómo va tu inclusión institucional?  
+¿cómo va tu inclusión estructural?  
+¿cómo va tu inclusión sistemática?  
+¿cómo va tu inclusión visible?  
+¿cómo va tu inclusión invisible?  
+¿cómo va tu inclusión leve?  
+¿cómo va tu inclusión moderada?  
+¿cómo va tu inclusión severa?  
+¿cómo va tu inclusión profunda?  
+¿cómo va tu inclusión funcional?  
+¿cómo va tu inclusión orgánica?  
+¿cómo va tu inclusión sensorial?  
+¿cómo va tu inclusión motriz?  
+¿cómo va tu inclusión auditiva?  
+¿cómo va tu inclusión visual?  
+¿cómo va tu inclusión intelectual?  
+¿cómo va tu inclusión psicosocial?  
+¿cómo va tu inclusión múltiple?  
+¿cómo va tu inclusión temporal?  
+¿cómo va tu inclusión adquirida?  
+¿cómo va tu inclusión congénita?  
+¿cómo va tu inclusión progresiva?  
+¿cómo va tu inclusión educativa?  
+¿cómo va tu inclusión institucional? 
+hola 
+adios 
+ayer  
+hoy  
+mañana  
+pasado mañana  
+anoche  
+anteayer  
+ahora  
+después  
+antes  
+luego  
+pronto  
+tarde  
+temprano  
+siempre  
+nunca  
+a veces  
+todavía  
+ya  
+ya no  
+jamás  
+frecuentemente  
+diariamente  
+mensualmente  
+anualmente  
+ocasionalmente  
+eventualmente  
+constantemente  
+rara vez  
+de vez en cuando  
+en seguida  
+en este momento  
+en aquel momento  
+en otro momento  
+en el pasado  
+en el presente  
+en el futuro  
+día  
+semana  
+mes  
+año  
+siglo  
+década  
+minuto  
+hora  
+segundo  
+instante  
+momento  
+etapa  
+época  
+temporada  
+ciclo  
+periodo  
+intervalo  
+duración  
+inicio  
+fin  
+comienzo  
+final  
+principio  
+continuación  
+repetición  
+pausa  
+receso  
+descanso  
+espera  
+avance  
+retroceso  
+transcurso  
+transición  
+proceso  
+progresión  
+cronología  
+calendario  
+agenda  
+fecha  
+fecha límite  
+fecha tentativa  
+fecha oficial  
+fecha institucional  
+fecha histórica  
+fecha conmemorativa  
+fecha significativa  
+fecha especial  
+fecha programada  
+fecha estimada  
+fecha confirmada  
+fecha modificada  
+fecha suspendida  
+fecha cancelada  
+fecha reagendada  
+fecha reprogramada  
+fecha validada  
+fecha certificada  
+fecha verificada  
+fecha controlada  
+fecha regulada  
+fecha normada  
+fecha legislada  
+fecha protegida  
+fecha segura  
+fecha privada  
+fecha confidencial  
+fecha pública  
+fecha compartida  
+fecha distribuida  
+fecha publicada  
+fecha editada  
+fecha diseñada  
+fecha producida  
+fecha documentada  
+fecha archivada  
+fecha gestionada  
+fecha monitoreada  
+fecha evaluada  
+fecha supervisada  
+fecha convocada  
+fecha articulada  
+fecha vinculada  
+fecha acompañada  
+fecha planeada  
+fecha coordinada  
+fecha capacitada  
+fecha formada  
+fecha representada  
+fecha vocera  
+fecha comunicada  
+fecha externa  
+fecha interna  
+fecha digitalizada  
+fecha escaneada  
+fecha impresa  
+fecha proyectada  
+fecha visualizada  
+fecha interpretada  
+fecha traducida  
+fecha señada  
+fecha gestual  
+fecha textual  
+fecha simbólica  
+fecha semántica  
+fecha emocional  
+fecha institucional  
+lunes  
+martes  
+miércoles  
+jueves  
+viernes  
+sábado  
+domingo  
+enero  
+febrero  
+marzo  
+abril  
+mayo  
+junio  
+julio  
+agosto  
+septiembre  
+octubre  
+noviembre  
+diciembre  
+primavera  
+verano  
+otoño  
+invierno  
+día laboral  
+día festivo  
+día inhábil  
+día hábil  
+día institucional  
+día oficial  
+día conmemorativo  
+día histórico  
+día especial  
+día programado  
+día estimado  
+día confirmado  
+día modificado  
+día suspendido  
+día cancelado  
+día reagendado  
+día reprogramado  
+día validado  
+día certificado  
+día verificado  
+día controlado  
+día regulado  
+día normado  
+día legislado  
+día protegido  
+día seguro  
+día privado  
+día confidencial  
+día público  
+día compartido  
+día distribuido  
+día publicado  
+día editado  
+día diseñado  
+día producido  
+día documentado  
+día archivado  
+día gestionado  
+día monitoreado  
+día evaluado  
+día supervisado  
+día convocado  
+día articulado  
+día vinculado  
+día acompañado  
+día planeado  
+día coordinado  
+día capacitado  
+día formado  
+día representado  
+día vocero  
+día comunicado  
+día externo  
+día interno  
+día digitalizado  
+día escaneado  
+día impreso  
+día proyectado  
+día visualizado  
+día interpretado  
+día traducido  
+día señado  
+día gestual  
+día textual  
+día simbólico  
+día semántico  
+día emocional  
+día institucional  
+abrigo  
+blusa  
+bata  
+botas  
+brasier  
+bufanda  
+calcetines  
+calzón  
+camisa  
+camiseta  
+chamarra  
+chaleco  
+cinturón  
+corbata  
+falda  
+gorro  
+gorra  
+guantes  
+impermeable  
+jeans  
+lentes  
+lentes oscuros  
+mascarilla  
+overol  
+pantalón  
+pantalones  
+pijama  
+playera  
+ropa  
+ropa interior  
+ropa deportiva  
+ropa escolar  
+ropa institucional  
+ropa médica  
+ropa de trabajo  
+ropa de seguridad  
+ropa de protección  
+ropa formal  
+ropa informal  
+ropa casual  
+ropa elegante  
+ropa cómoda  
+ropa accesible  
+ropa adaptada  
+ropa modificada  
+ropa personalizada  
+ropa señada  
+ropa gestual  
+ropa simbólica  
+ropa semántica  
+ropa emocional  
+ropa institucional  
+ropa cultural  
+ropa tradicional  
+ropa típica  
+ropa indígena  
+ropa urbana  
+ropa rural  
+ropa digital  
+ropa impresa  
+ropa proyectada  
+ropa visualizada  
+ropa interpretada  
+ropa traducida  
+ropa escaneada  
+ropa documentada  
+ropa archivada  
+ropa gestionada  
+ropa monitoreada  
+ropa evaluada  
+ropa supervisada  
+ropa convocada  
+ropa articulada  
+ropa vinculada  
+ropa acompañada  
+ropa planeada  
+ropa coordinada  
+ropa capacitada  
+ropa formada  
+ropa representada  
+ropa vocera  
+ropa comunicada  
+ropa externa  
+ropa interna  
+ropa escolar oficial  
+ropa escolar alternativa  
+ropa escolar inclusiva  
+ropa escolar accesible  
+ropa escolar adaptada  
+ropa escolar modificada  
+ropa escolar personalizada  
+ropa escolar institucional  
+ropa escolar cultural  
+ropa escolar simbólica  
+ropa escolar semántica  
+ropa escolar emocional  
+ropa escolar señada  
+ropa escolar gestual  
+ropa escolar digital  
+ropa escolar impresa  
+ropa escolar proyectada  
+ropa escolar visualizada  
+ropa escolar interpretada  
+ropa escolar traducida  
+ropa escolar escaneada  
+ropa escolar documentada  
+ropa escolar archivada  
+ropa escolar gestionada  
+ropa escolar monitoreada  
+ropa escolar evaluada  
+ropa escolar supervisada  
+ropa escolar convocada  
+ropa escolar articulada  
+ropa escolar vinculada  
+ropa escolar acompañada  
+ropa escolar planeada  
+ropa escolar coordinada  
+ropa escolar capacitada  
+ropa escolar formada  
+ropa escolar representada  
+ropa escolar vocera  
+ropa escolar comunicada  
+ropa escolar externa  
+ropa escolar interna  
+ropa médica oficial  
+ropa médica alternativa  
+ropa médica inclusiva  
+ropa médica accesible  
+ropa médica adaptada  
+ropa médica modificada  
+ropa médica personalizada  
+ropa médica institucional  
+ropa médica cultural  
+ropa médica simbólica  
+ropa médica semántica  
+ropa médica emocional  
+ropa médica señada  
+ropa médica gestual  
+ropa médica digital  
+ropa médica impresa  
+ropa médica proyectada  
+ropa médica visualizada  
+ropa médica interpretada  
+ropa médica traducida  
+ropa médica escaneada  
+ropa médica documentada  
+ropa médica archivada  
+ropa médica gestionada  
+ropa médica monitoreada  
+ropa médica evaluada  
+ropa médica supervisada  
+ropa médica convocada  
+ropa médica articulada  
+ropa médica vinculada  
+ropa médica acompañada  
+ropa médica planeada  
+ropa médica coordinada  
+ropa médica capacitada  
+ropa médica formada  
+ropa médica representada  
+ropa médica vocera  
+ropa médica comunicada  
+ropa médica externa  
+ropa médica interna  
+ropa médica institucional  
+comer  
+beber  
+baño  
+cepillo  
+dientes  
+lavar  
+ropa  
+cocina  
+plato  
+vaso  
+tenedor  
+cuchara  
+servilleta  
+jabón  
+shampoo  
+toalla  
+regadera  
+puerta  
+ventana  
+llave  
+cerrar  
+abrir  
+subir  
+bajar  
+encender  
+apagar  
+luz  
+foco  
+televisión  
+control  
+celular  
+mensaje  
+llamada  
+video  
+foto  
+pantalla  
+cargar  
+batería  
+enchufe  
+despertar  
+dormir  
+sueño  
+cansado  
+hambriento  
+sed  
+calor  
+frío  
+lluvia  
+sol  
+nublado  
+clima  
+abrigo  
+sombrero  
+tenis  
+zapato  
+calcetín  
+camisa  
+pantalón  
+ropa interior  
+mojado  
+seco  
+limpio  
+sucio  
+olor  
+ruido  
+silencio  
+mirar  
+ver  
+escuchar  
+sentir  
+tocar  
+oler  
+gustar  
+no gustar  
+molesto  
+triste  
+feliz  
+enojado  
+nervioso  
+tranquilo  
+preocupado  
+emocionado  
+aburrido  
+divertido  
+jugar  
+leer  
+escribir  
+dibujar  
+pintar  
+colorear  
+papel  
+lápiz  
+pluma  
+cuaderno  
+libro  
+mochila  
+escuela  
+maestro  
+compañero  
+grupo  
+salón  
+recreo  
+tarea  
+examen  
+calificación  
+hora  
+reloj  
+minuto  
+segundo  
+temprano  
+tarde  
+ahora  
+después  
+antes  
+mañana  
+ayer  
+hoy  
+semana  
+mes  
+año  
+lunes  
+martes  
+miércoles  
+jueves  
+viernes  
+sábado  
+domingo  
+enero  
+febrero  
+marzo  
+abril  
+mayo  
+junio  
+julio  
+agosto  
+septiembre  
+octubre  
+noviembre  
+diciembre  
+cumpleaños  
+fiesta  
+regalo  
+pastel  
+globo  
+decoración  
+familia  
+mamá  
+papá  
+hermano  
+hermana  
+abuelo  
+abuela  
+tío  
+tía  
+primo  
+prima  
+sobrino  
+sobrina  
+amigo  
+amiga  
+persona  
+niño  
+niña  
+adulto  
+mayor  
+joven  
+hombre  
+mujer  
+yo  
+tú  
+él  
+ella  
+nosotros  
+ustedes  
+ellos  
+ellas  
+mí  
+ti  
+se  
+me  
+te  
+nos  
+lo  
+la  
+los  
+las  
+le  
+les  
+sí  
+no  
+tal vez  
+por favor  
+gracias  
+hola  
+adiós  
+buenos días  
+buenas tardes  
+buenas noches  
+¿cómo estás?  
+¿qué haces?  
+¿dónde?  
+¿cuándo?  
+¿quién?  
+¿por qué?  
+¿cómo?  
+¿cuánto?  
+¿qué tal?  
+permiso  
+disculpa  
+lo siento  
+bien  
+mal  
+más  
+menos  
+mucho  
+poco  
+todo  
+nada  
+algo  
+alguien  
+nadie  
+aquí  
+allá  
+lejos  
+cerca  
+arriba  
+abajo  
+dentro  
+fuera  
+izquierda  
+derecha  
+frente  
+atrás  
+caminar  
+correr  
+saltar  
+sentarse  
+pararse  
+caer  
+levantar  
+empujar  
+jalar  
+esperar  
+seguir  
+detener  
+entrar  
+salir  
+ir  
+venir  
+llevar  
+traer  
+buscar  
+encontrar  
+perder  
+ganar  
+comprar  
+vender  
+pagar  
+dinero  
+moneda  
+billete  
+cambio  
+precio  
+caro  
+barato  
+tienda  
+mercado  
+supermercado  
+panadería  
+frutería  
+carnicería  
+farmacia  
+hospital  
+clínica  
+doctor  
+enfermera  
+medicina  
+pastilla  
+inyección  
+receta  
+dolor  
+cabeza  
+estómago  
+espalda  
+pierna  
+brazo  
+mano  
+pie  
+ojo  
+nariz  
+boca  
+oreja  
+diente  
+corazón  
+sangre  
+tos  
+fiebre  
+gripa  
+vacuna  
+curar  
+cuidar  
+salud  
+bienestar  
+descansar  
+trabajar  
+oficina  
+computadora  
+teclado  
+ratón  
+pantalla  
+archivo  
+correo  
+mensaje  
+internet  
+red  
+conexión  
+descargar  
+subir  
+guardar  
+borrar  
+abrir  
+cerrar  
+copiar  
+pegar  
+imprimir  
+escanear  
+foto  
+video  
+audio  
+documento  
+texto  
+imagen  
+formato  
+aplicación  
+programa  
+sistema  
+usuario  
+contraseña  
+inicio  
+salida  
+configuración  
+ayuda  
+soporte  
+actualizar  
+instalar  
+desinstalar  
+buscar  
+navegar  
+clic  
+doble clic  
+seleccionar  
+arrastrar  
+soltar  
+almendra  
+anís  
+arena  
+azabache  
+azul petróleo  
+azul marino  
+azul cielo  
+azul eléctrico  
+azul índigo  
+azul pastel  
+azul turquesa  
+azul zafiro  
+berenjena  
+bermellón  
+bronce  
+café claro  
+café oscuro  
+café rojizo  
+café dorado  
+café mate  
+café metálico  
+café tierra  
+café chocolate  
+caramelo  
+carmín  
+ceniza  
+champán  
+chicle  
+ciruela  
+clavel  
+cobalto  
+crema  
+cuarzo  
+duna  
+esmeralda  
+espuma  
+fango  
+ferruginoso  
+fresa  
+granate  
+gris perla  
+gris humo  
+gris plomo  
+gris azulado  
+gris verdoso  
+gris cálido  
+gris frío  
+gris neutro  
+gris metálico  
+gris mate  
+gris brillante  
+gris pastel  
+gris oscuro  
+gris claro  
+jade  
+jazmín  
+kiwi  
+ladrillo  
+lavanda pastel  
+limón  
+lino  
+luz solar  
+maíz  
+malva  
+mandarina  
+manzana  
+marfil rosado  
+melón  
+menta pastel  
+miel  
+militar  
+mostaza claro  
+mostaza oscuro  
+nieve  
+nuez  
+ocre claro  
+ocre oscuro  
+oliva  
+olivo  
+orquídea  
+papaya  
+pardo  
+perla  
+piedra  
+pino  
+pistache  
+plata vieja  
+plata brillante  
+plata mate  
+pomelo  
+porcelana  
+rosa pastel  
+rosa mexicano  
+rosa viejo  
+rosa palo  
+rosa coral  
+rosa salmón  
+rosa fucsia  
+rosa neón  
+rosa chicle  
+rosa cuarzo  
+rubí  
+salmón claro  
+salmón oscuro  
+sandía  
+sepia claro  
+sepia oscuro  
+sol  
+tabaco  
+tamarindo  
+tierra húmeda  
+tierra seca  
+tierra volcánica  
+tierra fértil  
+tierra árida  
+tierra roja  
+tierra negra  
+tierra gris  
+tierra blanca  
+tierra dorada  
+tierra plateada  
+tierra cobriza  
+tierra metálica  
+tierra mate  
+tierra brillante  
+tierra pastel  
+tierra cálida  
+tierra fría  
+tierra neutra  
+tierra institucional  
+tierra señada  
+tierra accesible  
+tierra inclusiva  
+tierra educativa  
+tierra cultural  
+tierra simbólica  
+tierra emocional  
+tierra semántica  
+tierra gestual  
+tierra digital  
+tierra impresa  
+tierra proyectada  
+tierra visualizada  
+tierra interpretada  
+tierra traducida  
+tierra escaneada  
+tierra documentada  
+tierra archivada  
+tierra gestionada  
+tierra monitoreada  
+tierra evaluada  
+tierra supervisada  
+acostarse  
+afeitarse  
+almorzar  
+andar  
+anotar  
+aplaudir  
+aprender  
+apresurarse  
+asistir  
+avisar  
+barrer  
+besar  
+bostezar  
+brincar  
+buscar  
+cambiar  
+caminar  
+cantar  
+cenar  
+cerradura  
+charlar  
+chatear  
+checar  
+cita  
+clima  
+colgar  
+comenzar  
+compartir  
+comprensión  
+conectar  
+conocer  
+contar  
+contestar  
+convivir  
+correr  
+cortar  
+creer  
+cruzar  
+dar  
+decidir  
+decir  
+dejar  
+descansar  
+desear  
+despertador  
+dibujar  
+dirigir  
+disfrutar  
+dividir  
+doler  
+ducharse  
+educar  
+empezar  
+encargar  
+encontrarse  
+enseñar  
+entender  
+entrar  
+entregar  
+enviar  
+esperanza  
+estudiar  
+explicar  
+expresar  
+extrañar  
+felicitar  
+festejar  
+firmar  
+foco  
+fotografiar  
+freír  
+fumar  
+ganar  
+gesto  
+gritar  
+guardar  
+gustar  
+habitación  
+hacer  
+hallar  
+herida  
+hervir  
+higiene  
+imaginar  
+imitar  
+incluir  
+informar  
+iniciar  
+inscribirse  
+intentar  
+interactuar  
+interesar  
+invitar  
+irse  
+jalar  
+jugar  
+lavadora  
+lavarse  
+leer  
+levantarse  
+limpiar  
+llamar  
+llorar  
+luchar  
+luz  
+manejar  
+marcar  
+masticar  
+medir  
+mirar  
+mojar  
+montar  
+mostrar  
+mover  
+mudarse  
+nacer  
+necesitar  
+negar  
+notar  
+obedecer  
+ocupar  
+olvidar  
+ordenar  
+organizar  
+pagar  
+parar  
+participar  
+pasar  
+patinar  
+pedir  
+peinar  
+pensar  
+perdonar  
+permitir  
+pesar  
+pintar  
+planear  
+platicar  
+poner  
+practicar  
+preparar  
+presentar  
+probar  
+proteger  
+quedar  
+quitar  
+recibir  
+reconocer  
+recordar  
+reír  
+relajarse  
+reparar  
+responder  
+respirar  
+reunirse  
+rezar  
+robar  
+romper  
+saber  
+sacar  
+salir  
+saludar  
+secar  
+seguir  
+sentarse  
+sentir  
+ser  
+servir  
+sonreír  
+subir  
+sufrir  
+sugerir  
+suspirar  
+tallar  
+tapar  
+tardar  
+teclear  
+temer  
+tener  
+terminar  
+tirar  
+tocar  
+tomar  
+trabajar  
+traducir  
+traer  
+tratar  
+usar  
+vaciar  
+valorar  
+venir  
+ver  
+vestirse  
+viajar  
+vivir  
+volar  
+volver  
+zapato  
+zumo  
+acceso  
+acción  
+actividad  
+actor  
+actualizar  
+adaptar  
+administrar  
+adoptar  
+afiliación  
+agendar  
+agitar  
+agradecer  
+agrupar  
+ajustar  
+alcanzar  
+alegría  
+alimentar  
+alinear  
+almacenar  
+alojar  
+alterar  
+ampliar  
+analizar  
+animar  
+anotar  
+anticipar  
+aplicar  
+apoyar  
+apreciar  
+aprobar  
+apuntar  
+aquietar  
+armar  
+arrancar  
+arreglar  
+arrojar  
+articular  
+asignar  
+asociar  
+atender  
+atraer  
+autorizar  
+avisar  
+balancear  
+bautizar  
+beneficiar  
+bloquear  
+brillar  
+calcular  
+calmar  
+cancelar  
+cargar  
+catalogar  
+celebrar  
+centrar  
+certificar  
+clasificar  
+colaborar  
+colectar  
+combinar  
+comentar  
+comerciar  
+completar  
+componer  
+comprender  
+comunicar  
+concentrar  
+concluir  
+confiar  
+confirmar  
+conformar  
+congelar  
+conservar  
+considerar  
+construir  
+consultar  
+contener  
+continuar  
+contratar  
+controlar  
+coordinar  
+corregir  
+crear  
+crecer  
+criticar  
+cronometrar  
+cultivar  
+cumplir  
+curar  
+debatir  
+decorar  
+dedicar  
+defender  
+definir  
+delegar  
+demostrar  
+denunciar  
+depender  
+depositar  
+derivar  
+desarrollar  
+descargar  
+describir  
+descubrir  
+desempeñar  
+desinfectar  
+designar  
+deslizar  
+desmontar  
+desordenar  
+despedir  
+destacar  
+detallar  
+detener  
+diagnosticar  
+dialogar  
+diferenciar  
+difundir  
+dirigir  
+discutir  
+diseñar  
+disfrutar  
+disminuir  
+distribuir  
+divertir  
+documentar  
+donar  
+duplicar  
+ejecutar  
+elaborar  
+elegir  
+eliminar  
+empaquetar  
+empezar  
+emplear  
+enfocar  
+enlazar  
+enriquecer  
+enseñar  
+entrenar  
+enumerar  
+equilibrar  
+escanear  
+escribir  
+escuchar  
+establecer  
+estimular  
+evaluar  
+evitar  
+exponer  
+extender  
+facilitar  
+fijar  
+filtrar  
+firmar  
+formar  
+fortalecer  
+fotocopiar  
+fraccionar  
+funcionar  
+fusionar  
+generar  
+gestionar  
+guardar  
+guiar  
+habilitar  
+hallar  
+identificar  
+iluminar  
+imaginar  
+impartir  
+implementar  
+importar  
+imprimir  
+incluir  
+indicar  
+informar  
+iniciar  
+innovar  
+inspirar  
+instalar  
+instruir  
+integrar  
+intentar  
+interactuar  
+interesar  
+interpretar  
+intervenir  
+introducir  
+investigar  
+invitar  
+involucrar  
+justificar  
+leer  
+limitar  
+limpiar  
+listar  
+localizar  
+lograr  
+mantener  
+marcar  
+mediar  
+mejorar  
+memorizar  
+modificar  
+monitorear  
+motivar  
+mostrar  
+multiplicar  
+navegar  
+necesitar  
+nombrar  
+notificar  
+observar  
+ocultar  
+ofrecer  
+operar  
+ordenar  
+organizar  
+orientar  
+participar  
+pedir  
+pensar  
+percibir  
+perfeccionar  
+permitir  
+planear  
+plantear  
+preparar  
+presentar  
+preservar  
+prevenir  
+priorizar  
+procesar  
+producir  
+programar  
+progresar  
+proteger  
+proveer  
+publicar  
+puntuar  
+ratificar  
+realizar  
+recibir  
+recomendar  
+reconocer  
+recopilar  
+recorrer  
+recuperar  
+redactar  
+reforzar  
+registrar  
+regular  
+reiterar  
+relacionar  
+relevar  
+remitir  
+renovar  
+reorganizar  
+reparar  
+repasar  
+repetir  
+reproducir  
+resolver  
+respetar  
+responder  
+restaurar  
+restringir  
+resultar  
+retomar  
+reunir  
+revisar  
+rotular  
+satisfacer  
+señalar  
+seleccionar  
+sembrar  
+separar  
+servir  
+simular  
+sistematizar  
+socializar  
+solicitar  
+solucionar  
+subrayar  
+supervisar  
+surgir  
+sustituir  
+sugerir  
+suponer  
+suspender  
+sustentar  
+tallar  
+teclear  
+teletrabajar  
+terminar  
+traducir  
+transferir  
+transformar  
+transmitir  
+transportar  
+tratar  
+ubicar  
+unificar  
+usar  
+utilizar  
+validar  
+valorar  
+variar  
+verificar  
+viajar  
+visualizar  
+vivir  
+votar  
+novia
+novio
+amar
+militares
+marinos
+sedena
+semar
+policia municipal
+policia estatal
+policia de transito
+policia federal
+policia de municipio
+policia judicial
+guardia nacional
+escoltas
+helicoptero
+avion
+jet privado
+aeropuerto
+taxi
+uber
+didi
+uber motocicleta
+didi motocicleta
+sitio de taxis
+abecedario  
+acento  
+aclaración  
+acuerdo  
+actitud  
+actividad  
+actor  
+adaptación  
+administración  
+adolescente  
+adulto mayor  
+afiliación  
+agencia  
+agenda  
+agrupación  
+aire  
+alcance  
+alegría  
+alfombra  
+algoritmo  
+almohada  
+alquiler  
+alternativa  
+altura  
+ambiente  
+amistad  
+análisis  
+anécdota  
+anillo  
+anuncio  
+aplicación  
+apoyo  
+archivo  
+argumento  
+arreglo  
+arte  
+artículo  
+asamblea  
+asignación  
+asistencia  
+asociación  
+atención  
+auditoría  
+autoridad  
+avance  
+avenida  
+aviso  
+ayuda  
+banco  
+baño  
+barrio  
+base  
+bebida  
+beneficio  
+bicicleta  
+bienestar  
+billete  
+biografía  
+bloque  
+boca  
+bolsa  
+borde  
+bosque  
+botón  
+brazo  
+brillo  
+broma  
+buzón  
+cabello  
+caja  
+calle  
+calma  
+calor  
+cama  
+cambio  
+camino  
+campaña  
+campo  
+canal  
+canción  
+cantidad  
+carácter  
+carpeta  
+carta  
+casa  
+caso  
+categoría  
+cauce  
+cavidad  
+célula  
+centro  
+cerca  
+ceremonia  
+ciclo  
+cielo  
+cifra  
+cima  
+cinta  
+circulación  
+ciudad  
+clase  
+clave  
+clima  
+cobertura  
+código  
+colina  
+columna  
+comando  
+comedia  
+comentario  
+comida  
+comité  
+complejo  
+comportamiento  
+composición  
+compromiso  
+comunidad  
+concepto  
+conclusión  
+condición  
+conexión  
+confianza  
+congreso  
+conjunto  
+conocimiento  
+consejo  
+consola  
+constancia  
+consulta  
+contenido  
+contexto  
+contrato  
+control  
+convención  
+cooperación  
+copia  
+corazón  
+corrección  
+correo  
+corte  
+cosa  
+creación  
+crédito  
+crisis  
+criterio  
+cruce  
+cuadro  
+cuarto  
+cubierta  
+cultura  
+cumpleaños  
+curso  
+cuerpo  
+cuidado  
+culpa  
+cuna  
+curva  
+dato  
+debate  
+decisión  
+decoración  
+definición  
+defensor  
+deporte  
+derecho  
+desarrollo  
+desayuno  
+descanso  
+descripción  
+desempeño  
+desfile  
+despacho  
+detalle  
+diálogo  
+día  
+dibujo  
+dificultad  
+dinero  
+dirección  
+disciplina  
+disco  
+discurso  
+disposición  
+distancia  
+diversidad  
+documento  
+dolor  
+domicilio  
+donación  
+duda  
+duelo  
+edad  
+edificio  
+educación  
+efecto  
+eficacia  
+ejemplo  
+ejercicio  
+elemento  
+elevación  
+emoción  
+empresa  
+encuesta  
+energía  
+enlace  
+entidad  
+entrada  
+entrega  
+entusiasmo  
+equipo  
+error  
+escenario  
+escalera  
+escritorio  
+esfuerzo  
+espacio  
+esperanza  
+espejo  
+espíritu  
+estación  
+estado  
+estilo  
+estructura  
+estudiante  
+estudio  
+evento  
+evidencia  
+examen  
+excelencia  
+exclusión  
+experiencia  
+explicación  
+expresión  
+extensión  
+facilidad  
+familia  
+famoso  
+fantasía  
+fecha  
+felicidad  
+feria  
+figura  
+filtro  
+firma  
+física  
+flor  
+foco  
+forma  
+formato  
+fortaleza  
+fotografía  
+frase  
+frontera  
+fruta  
+función  
+fusión  
+futuro  
+ganancia  
+garantía  
+gasto  
+gestión  
+gimnasio  
+gira  
+globo  
+grupo  
+guía  
+habilidad  
+habitación  
+hambre  
+herramienta  
+historia  
+hogar  
+hora  
+horizonte  
+hospital  
+hueso  
+idea  
+identidad  
+imagen  
+impacto  
+impresión  
+inclusión  
+indicación  
+industria  
+información  
+infraestructura  
+iniciativa  
+inmueble  
+inquietud  
+inseguridad  
+instrucción  
+instrumento  
+intención  
+interacción  
+interés  
+interfaz  
+interior  
+interpretación  
+introducción  
+inversión  
+invitación  
+jardín  
+jornada  
+joven  
+juguete  
+junta  
+justicia  
+labor  
+laboratorio  
+lado  
+lámpara  
+largo  
+lazo  
+lectura  
+lenguaje  
+libertad  
+libro  
+línea  
+lista  
+llave  
+lugar  
+luz  
+madera  
+madurez  
+maestro  
+mantenimiento  
+manifiesto  
+mano  
+manual  
+mapa  
+marca  
+marco  
+margen  
+marido  
+masa  
+material  
+matriz  
+mecanismo  
+medalla  
+medio  
+medición  
+memoria  
+mensaje  
+mente  
+mercado  
+mesa  
+meta  
+método  
+metro  
+miembro  
+miedo  
+milagro  
+minuto  
+modelo  
+modificación  
+modo  
+molestia  
+momento  
+moneda  
+montaña  
+moral  
+motivo  
+movimiento  
+mujer  
+muestra  
+mundo  
+música  
+nación  
+nacimiento  
+naranja  
+narración  
+naturaleza  
+necesidad  
+negocio  
+nivel  
+noche  
+nombre  
+norma  
+nota  
+noticia  
+nube  
+número  
+objetivo  
+obra  
+observación  
+ocasión  
+ocupación  
+oferta  
+oficina  
+operación  
+opinión  
+oposición  
+orden  
+organización  
+origen  
+oro  
+oscuridad  
+otoño  
+página  
+país  
+palabra  
+paleta  
+papel  
+paquete  
+parque  
+parte  
+participación  
+paso  
+pauta  
+paz  
+película  
+pena  
+pensamiento  
+persona  
+personalidad  
+perspectiva  
+peso  
+piedra  
+pieza  
+pintura  
+plan  
+planta  
+plaza  
+plazo  
+pluma  
+población  
+poder  
+poesía  
+política  
+posición  
+positivo  
+posibilidad  
+precio  
+pregunta  
+premio  
+preparación  
+presencia  
+presión  
+prestación  
+prevención  
+principio  
+prioridad  
+privacidad  
+problema  
+procedimiento  
+proceso  
+producción  
+producto  
+profesor  
+programa  
+progreso  
+propuesta  
+protección  
+protocolo  
+proveedor  
+prueba  
+publicación  
+punto  
+puerta  
+pueblo  
+puesto  
+pulso  
+punto de vista  
+queja  
+querer  
+química  
+radio  
+razón  
+reacción  
+realidad  
+reclamo  
+reconocimiento  
+recuerdo  
+red  
+referencia  
+reflejo  
+regalo  
+región  
+registro  
+regla  
+relación  
+relevancia  
+religión  
+remedio  
+rendimiento  
+repetición  
+reporte  
+representación  
+reproducción  
+respuesta  
+resultado  
+reunión  
+riesgo  
+ritmo  
+ropa  
+rostro  
+ruta  
+salida  
+salón  
+salud  
+satisfacción  
+secreto  
+sector  
+seguridad  
+selección  
+semana  
+sentido  
+señal  
+separación  
+servicio  
+sesión  
+significado  
+silencio  
+sistema  
+situación  
+sociedad  
+sol  
+solución  
+sonido  
+sorpresa  
+subida  
+sueño  
+sugerencia  
+superficie  
+supervisión  
+sustancia  
+tabla  
+taller  
+tarea  
+techo  
+teclado  
+tecnología  
+tema  
+temperatura  
+templo  
+tendencia  
+teoría  
+terapia  
+terminación  
+texto  
+tiempo  
+tierra  
+tipo  
+título  
+tolerancia  
+tono  
+trabajo  
+tradición  
+tráfico  
+trámite  
+transporte  
+trato  
+trayectoria  
+tregua  
+tren  
+triunfo  
+tropa  
+túnel  
+unidad  
+universidad  
+uso  
+usuario  
+vacuna  
+valor  
+variedad  
+vehículo  
+velocidad  
+ventaja  
+veracidad  
+verano  
+verificación  
+versión  
+vestido  
+viaje  
+viento  
+vista  
+vivienda  
+volumen  
+voz  
+zona  
+abanderado  
+abono  
+accesorio  
+acta de nacimiento  
+actitud positiva  
+actividad física  
+acuerdo legal  
+acuerdo escolar  
+acuerdo familiar  
+acuerdo institucional  
+acuerdo médico  
+acuerdo técnico  
+acuerdo digital  
+acuerdo cultural  
+acuerdo lingüístico  
+acuerdo simbólico  
+acuerdo emocional  
+acuerdo semántico  
+acuerdo señado  
+acuerdo gestual  
+acuerdo visual  
+acuerdo auditivo  
+acuerdo táctil  
+acuerdo cognitivo  
+acuerdo relacional  
+acuerdo social  
+acuerdo político  
+acuerdo económico  
+acuerdo ambiental  
+acuerdo educativo  
+acuerdo jurídico  
+acuerdo institucional  
+acuerdo estructural  
+acuerdo sistemático  
+acuerdo inclusivo  
+acuerdo accesible  
+acuerdo universal  
+acuerdo personalizado  
+acuerdo adaptado  
+acuerdo modificado  
+acuerdo corregido  
+acuerdo validado  
+acuerdo certificado  
+acuerdo verificado  
+acuerdo controlado  
+acuerdo regulado  
+acuerdo normado  
+acuerdo legislado  
+acuerdo protegido  
+acuerdo seguro  
+acuerdo privado  
+acuerdo confidencial  
+acuerdo público  
+acuerdo compartido  
+acuerdo distribuido  
+acuerdo publicado  
+acuerdo editado  
+acuerdo diseñado  
+acuerdo producido  
+acuerdo documentado  
+acuerdo archivado  
+acuerdo gestionado  
+acuerdo monitoreado  
+acuerdo evaluado  
+acuerdo supervisado  
+acuerdo convocado  
+acuerdo articulado  
+acuerdo vinculado  
+acuerdo acompañado  
+acuerdo planeado  
+acuerdo coordinado  
+acuerdo capacitado  
+acuerdo formado  
+acuerdo representado  
+acuerdo vocero  
+acuerdo comunicado  
+acuerdo externo  
+acuerdo interno  
+acuerdo digitalizado  
+acuerdo escaneado  
+acuerdo impreso  
+acuerdo proyectado  
+acuerdo visualizado  
+acuerdo interpretado  
+acuerdo traducido  
+acuerdo señado  
+acuerdo gestual  
+acuerdo textual  
+acuerdo simbólico  
+acuerdo semántico  
+acuerdo emocional  
+acuerdo institucional  
+acuerdo educativo  
+acuerdo jurídico  
+acuerdo médico  
+acuerdo técnico  
+acuerdo cultural  
+acuerdo social  
+acuerdo político  
+acuerdo económico  
+acuerdo ambiental  
+acuerdo lingüístico  
+acuerdo digital  
+acuerdo visual  
+acuerdo auditivo  
+acuerdo táctil  
+acuerdo cognitivo  
+acuerdo relacional  
+acuerdo inclusivo  
+acuerdo accesible  
+acuerdo universal  
+acuerdo personalizado  
+acuerdo adaptado  
+acuerdo modificado  
+acuerdo corregido  
+acuerdo validado  
+acuerdo certificado  
+acuerdo verificado  
+acuerdo controlado  
+acuerdo regulado  
+acuerdo normado  
+acuerdo legislado  
+acuerdo protegido  
+acuerdo seguro  
+acuerdo privado  
+acuerdo confidencial  
+acuerdo público  
+acuerdo compartido  
+acuerdo distribuido  
+acuerdo publicado  
+acuerdo editado  
+acuerdo diseñado  
+acuerdo producido  
+acuerdo documentado  
+acuerdo archivado  
+acuerdo gestionado  
+acuerdo monitoreado  
+acuerdo evaluado  
+acuerdo supervisado  
+acuerdo convocado  
+acuerdo articulado  
+acuerdo vinculado  
+acuerdo acompañado  
+acuerdo planeado  
+acuerdo coordinado  
+acuerdo capacitado  
+acuerdo formado  
+acuerdo representado  
+acuerdo vocero  
+acuerdo comunicado  
+acuerdo externo  
+acuerdo interno  
+acuerdo digitalizado  
+acuerdo escaneado  
+acuerdo impreso  
+acuerdo proyectado  
+acuerdo visualizado  
+acuerdo interpretado  
+acuerdo traducido  
+acuerdo señado  
+acuerdo gestual  
+acuerdo textual  
+acuerdo simbólico  
+acuerdo semántico  
+acuerdo emocional  
+acuerdo institucional  
+acuerdo educativo  
+acuerdo jurídico  
+acuerdo médico  
+acuerdo técnico  
+acuerdo cultural  
+acuerdo social  
+acuerdo político  
+acuerdo económico  
+acuerdo ambiental  
+acuerdo lingüístico  
+acuerdo digital  
+acuerdo visual  
+acuerdo auditivo  
+acuerdo táctil  
+acuerdo cognitivo  
+acuerdo relacional  
+acuerdo inclusivo  
+acuerdo accesible  
+acuerdo universal  
+acuerdo personalizado  
+acuerdo adaptado  
+acuerdo modificado  
+acuerdo corregido  
+acuerdo validado  
+acuerdo certificado  
+acuerdo verificado  
+acuerdo controlado  
+acuerdo regulado  
+acuerdo normado  
+acuerdo legislado  
+acuerdo protegido  
+acuerdo seguro  
+acuerdo privado  
+acuerdo confidencial  
+acuerdo público  
+acuerdo compartido  
+acuerdo distribuido  
+acuerdo publicado  
+acuerdo editado  
+acuerdo diseñado  
+acuerdo producido  
+acuerdo documentado  
+acuerdo archivado  
+acuerdo gestionado  
+acuerdo monitoreado  
+acuerdo evaluado  
+acuerdo supervisado  
+acuerdo convocado  
+acuerdo articulado  
+acuerdo vinculado  
+acuerdo acompañado  
+acuerdo planeado  
+acuerdo coordinado  
+acuerdo capacitado  
+acuerdo formado  
+acuerdo representado  
+acuerdo vocero  
+acuerdo comunicado  
+acuerdo externo  
+acuerdo interno  
+acuerdo digitalizado  
+acuerdo escaneado  
+acuerdo impreso  
+acuerdo proyectado  
+acuerdo visualizado  
+acuerdo interpretado  
+acuerdo traducido  
+acuerdo señado  
+acuerdo gestual  
+acuerdo textual  
+acuerdo simbólico  
+acuerdo semántico  
+acuerdo emocional  
+acuerdo institucional  
+cancer
+lenceria
+hermanastro
+hermanastra
+padrastro
+madrastra
+abono escolar  
+acceso universal  
+acción comunitaria  
+actividad artística  
+actor institucional  
+acuerdo bilateral  
+adaptación escolar  
+administrador  
+admisión médica  
+afiliado  
+agente educativo  
+agente de salud  
+agente de inclusión  
+agente de protección  
+agente de accesibilidad  
+agente de seguridad  
+agente de comunicación  
+agente de coordinación  
+agente de planeación  
+agente de evaluación  
+agente de seguimiento  
+agente de supervisión  
+agente de verificación  
+agente de certificación  
+agente de control  
+agente de cumplimiento  
+agente de regulación  
+agente de normatividad  
+agente de legislación  
+agente de derechos  
+agente de deberes  
+agente de ética  
+agente de transparencia  
+agente de rendición  
+agente de informes  
+agente de estadísticas  
+agente de indicadores  
+agente de resultados  
+agente de metas  
+agente de objetivos  
+agente de impacto  
+agente de sostenibilidad  
+agente de permanencia  
+agente de viabilidad  
+agente de replicabilidad  
+agente de escalabilidad  
+agente de interoperabilidad  
+agente de adaptabilidad  
+agente de seguridad digital  
+agente de ciberseguridad  
+agente de privacidad  
+agente de confidencialidad  
+agente de datos  
+agente de información  
+agente de contenido  
+agente de formato  
+agente de diseño  
+agente de edición  
+agente de producción  
+agente de publicación  
+agente de distribución  
+agente de divulgación  
+agente de comunicación externa  
+agente de comunicación interna  
+agente de vocería  
+agente de representación oficial  
+agente de accesibilidad digital  
+agente de inclusión educativa  
+agente de inclusión institucional  
+agente de inclusión cultural  
+agente de inclusión simbólica  
+agente de inclusión emocional  
+agente de inclusión semántica  
+agente de inclusión gestual  
+agente de inclusión señada  
+agente de inclusión visual  
+agente de inclusión auditiva  
+agente de inclusión táctil  
+agente de inclusión cognitiva  
+agente de inclusión relacional  
+agente de inclusión social  
+agente de inclusión política  
+agente de inclusión económica  
+agente de inclusión ambiental  
+agente de inclusión jurídica  
+agente de inclusión lingüística  
+agente de inclusión digital  
+agente de inclusión institucional  
+agente de inclusión estructural  
+agente de inclusión sistemática  
+agente de inclusión visible  
+agente de inclusión invisible  
+agente de inclusión leve  
+agente de inclusión moderada  
+agente de inclusión severa  
+agente de inclusión profunda  
+agente de inclusión funcional  
+agente de inclusión orgánica  
+agente de inclusión sensorial  
+agente de inclusión motriz  
+agente de inclusión intelectual  
+agente de inclusión psicosocial  
+agente de inclusión múltiple  
+agente de inclusión temporal  
+agente de inclusión adquirida  
+agente de inclusión congénita  
+agente de inclusión progresiva  
+agente de inclusión educativa  
+agente de inclusión institucional  
+agente de inclusión estructural  
+agente de inclusión sistemática  
+agente de inclusión simbólica  
+agente de inclusión semántica  
+agente de inclusión emocional  
+agente de inclusión gestual  
+agente de inclusión señada  
+agente de inclusión visual  
+agente de inclusión auditiva  
+agente de inclusión táctil  
+agente de inclusión cognitiva  
+agente de inclusión relacional  
+agente de inclusión social  
+agente de inclusión política  
+agente de inclusión económica  
+agente de inclusión ambiental  
+agente de inclusión jurídica  
+agente de inclusión lingüística  
+agente de inclusión digital  
+agente de inclusión institucional  
+agente de inclusión estructural  
+agente de inclusión sistemática  
+agente de inclusión visible  
+agente de inclusión invisible  
+agente de inclusión leve  
+agente de inclusión moderada  
+agente de inclusión severa  
+agente de inclusión profunda  
+agente de inclusión funcional  
+agente de inclusión orgánica  
+agente de inclusión sensorial  
+agente de inclusión motriz  
+agente de inclusión intelectual  
+agente de inclusión psicosocial  
+agente de inclusión múltiple  
+agente de inclusión temporal  
+agente de inclusión adquirida  
+agente de inclusión congénita  
+agente de inclusión progresiva  
+agente de inclusión educativa  
+agente de inclusión institucional  
+agente de inclusión estructural  
+agente de inclusión sistemática  
+agente de inclusión simbólica  
+agente de inclusión semántica  
+agente de inclusión emocional  
+agente de inclusión gestual  
+agente de inclusión señada  
+agente de inclusión visual  
+agente de inclusión auditiva  
+agente de inclusión táctil  
+agente de inclusión cognitiva  
+agente de inclusión relacional  
+agente de inclusión social  
+agente de inclusión política  
+agente de inclusión económica  
+agente de inclusión ambiental  
+agente de inclusión jurídica  
+agente de inclusión lingüística  
+agente de inclusión digital  
+agente de inclusión institucional  
+agente de inclusión estructural  
+agente de inclusión sistemática  
+agente de inclusión simbólica  
+agente de inclusión semántica  
+agente de inclusión emocional  
+agente de inclusión gestual  
+agente de inclusión señada  
+agente de inclusión visual  
+agente de inclusión auditiva  
+agente de inclusión táctil  
+agente de inclusión cognitiva  
+agente de inclusión relacional  
+agente de inclusión social  
+agente de inclusión política  
+agente de inclusión económica  
+agente de inclusión ambiental  
+agente de inclusión jurídica  
+agente de inclusión lingüística  
+agente de inclusión digital  
+agente de inclusión institucional  
+agente de inclusión estructural  
+agente de inclusión sistemática
+¿cómo estás?  
+¿qué haces?  
+¿dónde estás?  
+¿vas a salir?  
+¿vienes conmigo?  
+¿quieres comer?  
+¿tienes hambre?  
+¿tienes sueño?  
+¿qué opinas?  
+¿puedo ayudarte?  
+¿me ayudas?  
+¿te gusta?  
+¿no te gusta?  
+¿te parece bien?  
+¿estás de acuerdo?  
+¿qué piensas?  
+¿qué necesitas?  
+¿qué prefieres?  
+¿qué quieres hacer?  
+¿vamos juntos?  
+¿te acompaño?  
+¿me esperas?  
+¿ya comiste?  
+¿ya dormiste?  
+¿ya llegaste?  
+¿ya te vas?  
+¿ya lo viste?  
+¿ya lo hiciste?  
+¿ya lo entendiste?  
+¿ya lo terminaste?  
+¿ya lo guardaste?  
+¿ya lo enviaste?  
+¿ya lo imprimiste?  
+¿ya lo descargaste?  
+¿ya lo subiste?  
+¿ya lo compartiste?  
+¿ya lo revisaste?  
+¿ya lo corregiste?  
+¿ya lo validaste?  
+¿ya lo confirmaste?  
+¿ya lo explicaste?  
+¿ya lo presentaste?  
+¿ya lo entregaste?  
+¿ya lo firmaste?  
+¿ya lo leíste?  
+¿ya lo escribiste?  
+¿ya lo tradujiste?  
+¿ya lo interpretaste?  
+¿ya lo señaste?  
+¿ya lo entendieron?  
+¿ya lo aprobaron?  
+¿ya lo autorizaron?  
+¿ya lo publicaron?  
+¿ya lo editaron?  
+¿ya lo diseñaron?  
+¿ya lo produjeron?  
+¿ya lo documentaron?  
+¿ya lo archivaron?  
+¿ya lo gestionaron?  
+¿ya lo monitorearon?  
+¿ya lo evaluaron?  
+¿ya lo supervisaron?  
+¿ya lo convocaron?  
+¿ya lo vincularon?  
+¿ya lo articularon?  
+¿ya lo acompañaron?  
+¿ya lo planearon?  
+¿ya lo coordinaron?  
+¿ya lo capacitaron?  
+¿ya lo formaron?  
+¿ya lo representaron?  
+¿ya lo comunicaron?  
+¿ya lo proyectaron?  
+¿ya lo visualizaron?  
+¿ya lo interpretaron?  
+¿ya lo tradujeron?  
+¿ya lo escanearon?  
+¿ya lo digitalizaron?  
+¿ya lo imprimieron?  
+¿ya lo validaron?  
+¿ya lo certificaron?  
+¿ya lo verificaron?  
+¿ya lo controlaron?  
+¿ya lo regularon?  
+¿ya lo normaron?  
+¿ya lo legislaron?  
+¿ya lo protegieron?  
+¿ya lo aseguraron?  
+¿ya lo confidencializaron?  
+¿ya lo compartieron?  
+¿ya lo distribuyeron?  
+¿ya lo publicaron?  
+¿ya lo editaron?  
+¿ya lo diseñaron?  
+¿ya lo produjeron?  
+¿ya lo documentaron?  
+¿ya lo archivaron?  
+¿ya lo gestionaron?  
+¿ya lo monitorearon?  
+¿ya lo evaluaron?  
+¿ya lo supervisaron?  
+¿ya lo convocaron?  
+¿ya lo vincularon?  
+¿ya lo articularon?  
+¿ya lo acompañaron?  
+¿ya lo planearon?  
+¿ya lo coordinaron?  
+¿ya lo capacitaron?  
+¿ya lo formaron?  
+¿ya lo representaron?  
+¿ya lo comunicaron?  
+¿ya lo proyectaron?  
+¿ya lo visualizaron?  
+¿ya lo interpretaron?  
+¿ya lo tradujeron?  
+¿ya lo escanearon?  
+¿ya lo digitalizaron?  
+¿ya lo imprimieron?  
+¿ya lo validaron?  
+¿ya lo certificaron?  
+¿ya lo verificaron?  
+¿ya lo controlaron?  
+¿ya lo regularon?  
+¿ya lo normaron?  
+¿ya lo legislaron?  
+¿ya lo protegieron?  
+¿ya lo aseguraron?  
+¿ya lo confidencializaron?  
+¿ya lo compartieron?  
+¿ya lo distribuyeron?  
+¿ya lo publicaron?  
+¿ya lo editaron?  
+¿ya lo diseñaron?  
+¿ya lo produjeron?  
+¿ya lo documentaron?  
+¿ya lo archivaron?  
+¿ya lo gestionaron?  
+¿ya lo monitorearon?  
+¿ya lo evaluaron?  
+¿ya lo supervisaron?  
+¿ya lo convocaron?  
+¿ya lo vincularon?  
+¿ya lo articularon?  
+¿ya lo acompañaron?  
+¿ya lo planearon?  
+¿ya lo coordinaron?  
+¿ya lo capacitaron?  
+¿ya lo formaron?  
+¿ya lo representaron?  
+¿ya lo comunicaron?  
+¿ya lo proyectaron?  
+¿ya lo visualizaron?  
+¿ya lo interpretaron?  
+¿ya lo tradujeron?  
+¿ya lo escanearon?  
+¿ya lo digitalizaron?  
+¿ya lo imprimieron?  
+¿ya lo validaron?  
+¿ya lo certificaron?  
+¿ya lo verificaron?  
+¿ya lo controlaron?  
+¿ya lo regularon?  
+¿ya lo normaron?  
+¿ya lo legislaron?  
+¿ya lo protegieron?  
+¿ya lo aseguraron?  
+¿ya lo confidencializaron?  
+¿ya lo compartieron?  
+¿ya lo distribuyeron?  
+¿ya lo publicaron?  
+¿ya lo editaron?  
+¿ya lo diseñaron?  
+¿ya lo produjeron?  
+¿ya lo documentaron?  
+¿ya lo archivaron?  
+¿ya lo gestionaron?  
+¿ya lo monitorearon?  
+¿ya lo evaluaron?  
+¿ya lo supervisaron?  
+¿ya lo convocaron?  
+¿ya lo vincularon?  
+¿ya lo articularon?  
+¿ya lo acompañaron?  
+¿ya lo planearon?  
+¿ya lo coordinaron?  
+¿ya lo capacitaron?  
+¿ya lo formaron?  
+¿ya lo representaron?  
+¿ya lo comunicaron?  
+edad
+nombre
+años
+¿cómo te llamas?  
+¿cuántos años tienes?  
+¿dónde naciste?  
+¿dónde vives?  
+¿con quién vives?  
+¿tienes hermanos?  
+¿tienes mascotas?  
+¿qué te gusta hacer?  
+¿qué estudias?  
+¿trabajas?  
+¿a qué te dedicas?  
+¿qué día es hoy?  
+¿qué hora es?  
+¿qué hiciste ayer?  
+¿qué harás mañana?  
+¿vas a salir hoy?  
+¿vas a trabajar mañana?  
+¿vas a estudiar hoy?  
+¿vas a descansar?  
+¿vas a comer?  
+¿vas a dormir?  
+¿vas a bañarte?  
+¿vas a visitar a alguien?  
+¿vas a ir a la escuela?  
+¿vas a ir al médico?  
+¿vas a ir al mercado?  
+¿vas a ir al parque?  
+¿vas a ir al cine?  
+¿vas a ir a la tienda?  
+¿vas a ir a casa?  
+¿vas a ir al trabajo?  
+¿vas a ir al hospital?  
+¿vas a ir a la reunión?  
+¿vas a ir a la clase?  
+¿vas a ir a la cita?  
+¿vas a ir a la oficina?  
+¿vas a ir a la biblioteca?  
+¿vas a ir a la iglesia?  
+¿vas a ir a la fiesta?  
+¿vas a ir al evento?  
+¿vas a ir al taller?  
+¿vas a ir al curso?  
+¿vas a ir al centro?  
+¿vas a ir al transporte?  
+¿vas a ir al metro?  
+¿vas a ir al camión?  
+¿vas a ir al taxi?  
+¿vas a ir al aeropuerto?  
+¿vas a ir a la terminal?  
+¿vas a ir al hotel?  
+¿vas a ir al restaurante?  
+¿vas a ir al café?  
+¿vas a ir al comedor?  
+¿vas a ir al baño?  
+¿vas a ir al consultorio?  
+¿vas a ir al gimnasio?  
+¿vas a ir al estadio?  
+¿vas a ir al museo?  
+¿vas a ir al zoológico?  
+¿vas a ir al teatro?  
+¿vas a ir al concierto?  
+¿vas a ir al centro comercial?  
+¿vas a ir al supermercado?  
+¿vas a ir a la farmacia?  
+¿vas a ir a la panadería?  
+¿vas a ir a la frutería?  
+¿vas a ir a la carnicería?  
+¿vas a ir a la papelería?  
+¿vas a ir a la lavandería?  
+¿vas a ir a la tintorería?  
+¿vas a ir al banco?  
+¿vas a ir al cajero?  
+¿vas a ir al parque infantil?  
+¿vas a ir al jardín?  
+¿vas a ir al bosque?  
+¿vas a ir al campo?  
+¿vas a ir a la playa?  
+¿vas a ir al mar?  
+¿vas a ir a la montaña?  
+¿vas a ir al río?  
+¿vas a ir al lago?  
+¿vas a ir al volcán?  
+¿vas a ir al desierto?  
+¿vas a ir al pueblo?  
+¿vas a ir a la ciudad?  
+¿vas a ir al estado?  
+¿vas a ir al país?  
+¿vas a ir al extranjero?  
+¿vas a viajar?  
+¿vas a descansar?  
+¿vas a trabajar?  
+¿vas a estudiar?  
+¿vas a leer?  
+¿vas a escribir?  
+¿vas a dibujar?  
+¿vas a pintar?  
+¿vas a jugar?  
+¿vas a correr?  
+¿vas a caminar?  
+¿vas a cocinar?  
+¿vas a limpiar?  
+¿vas a lavar?  
+¿vas a ordenar?  
+¿vas a organizar?  
+¿vas a comprar?  
+¿vas a vender?  
+¿vas a pagar?  
+¿vas a cobrar?  
+¿vas a enviar?  
+¿vas a recibir?  
+¿vas a buscar?  
+¿vas a encontrar?  
+¿vas a perder?  
+¿vas a ganar?  
+¿vas a ayudar?  
+¿vas a acompañar?  
+¿vas a cuidar?  
+¿vas a proteger?  
+¿vas a enseñar?  
+¿vas a aprender?  
+¿vas a explicar?  
+¿vas a preguntar?  
+¿vas a responder?  
+¿vas a escuchar?  
+¿vas a mirar?  
+¿vas a ver?  
+¿vas a tocar?  
+¿vas a sentir?  
+¿vas a oler?  
+¿vas a saborear?  
+¿vas a pensar?  
+¿vas a decidir?  
+¿vas a elegir?  
+¿vas a cambiar?  
+¿vas a mejorar?  
+¿vas a repetir?  
+¿vas a corregir?  
+¿vas a validar?  
+¿vas a confirmar?  
+¿vas a aprobar?  
+¿vas a rechazar?  
+¿vas a suspender?  
+¿vas a cancelar?  
+¿vas a continuar?  
+¿vas a terminar?  
+¿vas a iniciar?  
+¿vas a comenzar?  
+¿vas a cerrar?  
+¿vas a abrir?  
+¿vas a encender?  
+¿vas a apagar?  
+¿vas a subir?  
+¿vas a bajar?  
+¿vas a entrar?  
+¿vas a salir?  
+¿vas a quedarte?  
+¿vas a moverte?  
+¿vas a detenerte?  
+¿vas a avanzar?  
+¿vas a retroceder?  
+¿vas a esperar?  
+¿vas a apurarte?  
+¿vas a relajarte?  
+¿vas a concentrarte?  
+¿vas a distraerte?  
+¿vas a comunicarte?  
+¿vas a conversar?  
+¿vas a saludar?  
+¿vas a despedirte?  
+¿vas a presentarte?  
+¿vas a conocer a alguien?  
+¿vas a visitar a alguien?  
+¿vas a llamar a alguien?  
+¿vas a escribirle a alguien?  
+¿vas a enviarle algo?  
+¿vas a compartir algo?  
+¿vas a mostrar algo?  
+¿vas a explicar algo?  
+¿vas a preguntar algo?  
+¿vas a responder algo?  
+¿vas a contar algo?  
+¿vas a narrar algo?  
+¿vas a describir algo?  
+¿vas a opinar sobre algo?  
+¿vas a decidir algo?  
+¿vas a elegir algo?  
+¿vas a cambiar algo?  
+¿vas a mejorar algo?  
+¿vas a repetir algo?  
+¿vas a corregir algo?  
+¿vas a validar algo?  
+¿vas a confirmar algo?  
+¿vas a aprobar algo?  
+¿vas a rechazar algo?  
+¿vas a suspender algo?  
+¿vas a cancelar algo?  
+¿vas a continuar algo?  
+¿vas a terminar algo?  
+¿vas a iniciar algo?  
+¿vas a comenzar algo?  
+¿cómo estuvo tu día?  
+¿qué hiciste hoy?  
+¿qué hiciste ayer?  
+¿qué vas a hacer mañana?  
+¿qué comiste?  
+¿qué desayunaste?  
+¿qué cenaste?  
+¿qué te gusta comer?  
+¿qué te gusta beber?  
+¿qué te gusta hacer en tu tiempo libre?  
+¿qué música te gusta?  
+¿qué película viste?  
+¿qué serie estás viendo?  
+¿qué libro estás leyendo?  
+¿qué te gusta leer?  
+¿qué deporte practicas?  
+¿qué te gusta jugar?  
+¿qué te gusta pintar?  
+¿qué te gusta dibujar?  
+¿qué te gusta escuchar?  
+¿qué te gusta mirar?  
+¿qué te gusta visitar?  
+¿qué lugares conoces?  
+¿qué lugares te gustan?  
+¿qué lugares quieres visitar?  
+¿qué país te gustaría conocer?  
+¿qué ciudad te gusta?  
+¿qué estado conoces?  
+¿qué idioma hablas?  
+¿qué idioma quieres aprender?  
+¿qué estudias?  
+¿qué trabajas?  
+¿qué haces en tu trabajo?  
+¿qué haces en la escuela?  
+¿qué haces en casa?  
+¿qué haces los fines de semana?  
+¿qué haces en vacaciones?  
+¿qué haces cuando estás triste?  
+¿qué haces cuando estás feliz?  
+¿qué haces cuando estás enojado?  
+¿qué haces cuando estás cansado?  
+¿qué haces cuando estás enfermo?  
+¿qué haces cuando estás aburrido?  
+¿qué haces cuando estás ocupado?  
+¿qué haces cuando estás libre?  
+¿qué haces cuando estás solo?  
+¿qué haces cuando estás con amigos?  
+¿qué haces cuando estás con tu familia?  
+¿qué haces cuando estás en clase?  
+¿qué haces cuando estás en reunión?  
+¿qué haces cuando estás en evento?  
+¿qué haces cuando estás en transporte?  
+¿qué haces cuando estás en el parque?  
+¿qué haces cuando estás en el cine?  
+¿qué haces cuando estás en el restaurante?  
+¿qué haces cuando estás en el mercado?  
+¿qué haces cuando estás en la tienda?  
+¿qué haces cuando estás en el hospital?  
+¿qué haces cuando estás en el banco?  
+¿qué haces cuando estás en la oficina?  
+¿qué haces cuando estás en la biblioteca?  
+¿qué haces cuando estás en el museo?  
+¿qué haces cuando estás en el teatro?  
+¿qué haces cuando estás en el concierto?  
+¿qué haces cuando estás en el estadio?  
+¿qué haces cuando estás en el gimnasio?  
+¿qué haces cuando estás en el zoológico?  
+¿qué haces cuando estás en la playa?  
+¿qué haces cuando estás en la montaña?  
+¿qué haces cuando estás en el río?  
+¿qué haces cuando estás en el lago?  
+¿qué haces cuando estás en el bosque?  
+¿qué haces cuando estás en el campo?  
+¿qué haces cuando estás en el pueblo?  
+¿qué haces cuando estás en la ciudad?  
+¿qué haces cuando estás en el estado?  
+¿qué haces cuando estás en el país?  
+¿qué haces cuando estás en el extranjero?  
+¿qué haces cuando estás en casa?  
+¿qué haces cuando estás en tu cuarto?  
+¿qué haces cuando estás en la cocina?  
+¿qué haces cuando estás en el baño?  
+¿qué haces cuando estás en la sala?  
+¿qué haces cuando estás en el comedor?  
+¿qué haces cuando estás en el patio?  
+¿qué haces cuando estás en el jardín?  
+¿qué haces cuando estás en el garaje?  
+¿qué haces cuando estás en el balcón?  
+¿qué haces cuando estás en el pasillo?  
+¿qué haces cuando estás en la azotea?  
+¿qué haces cuando estás en el sótano?  
+¿qué haces cuando estás en el elevador?  
+¿qué haces cuando estás en la escalera?  
+¿qué haces cuando estás en el metro?  
+¿qué haces cuando estás en el camión?  
+¿qué haces cuando estás en el taxi?  
+¿qué haces cuando estás en el avión?  
+¿qué haces cuando estás en el barco?  
+¿qué haces cuando estás en la bicicleta?  
+¿qué haces cuando estás en la motocicleta?  
+¿qué haces cuando estás en el coche?  
+¿qué haces cuando estás en el tren?  
+¿qué haces cuando estás en el trolebús?  
+¿qué haces cuando estás en el tranvía?  
+¿qué haces cuando estás en el suburbano?  
+¿qué haces cuando estás en el helicóptero?  
+¿qué haces cuando estás en el patín?  
+¿qué haces cuando estás en la patineta?  
+¿qué haces cuando estás en el monopatín?  
+¿qué haces cuando estás en el triciclo?  
+¿qué haces cuando estás en la cuatrimoto?  
+¿qué haces cuando estás en la camioneta?  
+¿qué haces cuando estás en el vehículo?  
+¿qué haces cuando estás en el vehículo adaptado?  
+¿qué haces cuando estás en el vehículo oficial?  
+¿qué haces cuando estás en el vehículo escolar?  
+¿qué haces cuando estás en el vehículo institucional?  
+¿qué haces cuando estás en el vehículo de emergencia?  
+¿qué haces cuando estás en el vehículo de carga?  
+¿qué haces cuando estás en el vehículo particular?  
+¿qué haces cuando estás en el vehículo público?  
+¿qué haces cuando estás en el vehículo privado?  
+¿qué haces cuando estás en el vehículo compartido?  
+¿qué haces cuando estás en el vehículo eléctrico?  
+¿qué haces cuando estás en el vehículo híbrido?  
+¿qué haces cuando estás en el vehículo autónomo?  
+¿qué haces cuando estás en el vehículo accesible?  
+¿qué haces cuando estás en el vehículo señado?  
+¿qué haces cuando estás en el vehículo modificado?  
+¿qué haces cuando estás en el vehículo personalizado?  
+¿qué haces cuando estás en el vehículo blindado?  
+¿qué haces cuando estás en el vehículo policial?  
+¿qué haces cuando estás en el vehículo militar?  
+¿qué haces cuando estás en el vehículo médico?  
+¿qué haces cuando estás en el vehículo de rescate?  
+¿qué haces cuando estás en el vehículo de protección civil?  
+¿qué haces cuando estás en el vehículo de seguridad?  
+¿qué haces cuando estás en el vehículo de vigilancia?  
+¿qué haces cuando estás en el vehículo de supervisión?  
+¿qué haces cuando estás en el vehículo de monitoreo?  
+¿qué haces cuando estás en el vehículo de evaluación?  
+¿qué haces cuando estás en el vehículo de validación?  
+¿qué haces cuando estás en el vehículo de certificación?  
+¿qué haces cuando estás en el vehículo de verificación?  
+¿qué haces cuando estás en el vehículo de control?  
+¿qué haces cuando estás en el vehículo de cumplimiento?  
+¿qué haces cuando estás en el vehículo de regulación?  
+¿qué haces cuando estás en el vehículo de normatividad?  
+¿qué haces cuando estás en el vehículo de legislación?  
+comida
+tragar
+comer
+abrazar  
+abastecer  
+abatir  
+abonar  
+abordar  
+abrazarse  
+abrillantar  
+abrochar  
+abstenerse  
+abusar  
+acatar  
+acelerar  
+acercarse  
+aclarar  
+aclimatar  
+acomodar  
+aconsejar  
+acoplar  
+acordar  
+acostumbrar  
+acreditar  
+actuar  
+acudir  
+acumular  
+adaptarse  
+adelantar  
+adentrarse  
+adivinar  
+admirar  
+adoptar  
+adorar  
+advertir  
+afilar  
+aflojar  
+afrontar  
+agachar  
+agendar  
+agitar  
+agotar  
+agrandar  
+agravar  
+agregar  
+agrupar  
+aguantar  
+ahorrar  
+aislar  
+ajustar  
+alabar  
+alarmar  
+alejar  
+alimentar  
+alinear  
+aliviar  
+almacenar  
+alojar  
+alterar  
+alumbrar  
+alzar  
+amarrar  
+amedrentar  
+amontonar  
+amparar  
+ampliar  
+analizar  
+anclar  
+andar  
+anotar  
+anticipar  
+antojar  
+anular  
+apagar  
+apalear  
+apartar  
+apasionar  
+aplaudir  
+aplicar  
+apostar  
+apoyar  
+apreciar  
+aprender  
+apresurar  
+apretar  
+aprobar  
+aprovechar  
+apuntar  
+apurarse  
+arañar  
+archivar  
+arder  
+argumentar  
+arrancar  
+arrastrar  
+arrebatar  
+arreglar  
+arriesgar  
+arrojar  
+articular  
+asaltar  
+ascender  
+asegurar  
+asentar  
+asfixiar  
+asignar  
+asimilar  
+asistir  
+asociar  
+aspirar  
+asumir  
+atacar  
+atender  
+aterrar  
+atinar  
+atorar  
+atraer  
+atribuir  
+atropellar  
+aturdir  
+aumentar  
+ausentarse  
+autorizar  
+avanzar  
+averiguar  
+avisar  
+ayunar  
+azotar  
+bailar  
+balancear  
+bajar  
+barrer  
+bautizar  
+beber  
+beneficiar  
+besar  
+bloquear  
+borrar  
+brillar  
+brindar  
+bromear  
+brotar  
+bucear  
+buscar  
+calcular  
+calentar  
+callar  
+calmar  
+caminar  
+cancelar  
+cansarse  
+cantar  
+capear  
+capturar  
+caracterizar  
+cargar  
+cariciar  
+casarse  
+catalogar  
+catar  
+causar  
+ceder  
+celebrar  
+censar  
+centrar  
+cepillar  
+cerrar  
+certificar  
+cesar  
+chatear  
+chocar  
+cifrar  
+circular  
+clarificar  
+clasificar  
+clavar  
+cobrar  
+cocinar  
+codificar  
+coincidir  
+colaborar  
+colgar  
+colocar  
+combatir  
+comenzar  
+comer  
+cometer  
+compartir  
+compensar  
+competir  
+completar  
+componer  
+comprar  
+comprender  
+comprobar  
+comunicarse  
+concentrarse  
+concluir  
+conectar  
+confesar  
+confiar  
+confirmar  
+conformar  
+congelar  
+conocer  
+conquistar  
+conservar  
+considerar  
+consolar  
+constatar  
+construir  
+consultar  
+consumir  
+contar  
+contener  
+contestar  
+continuar  
+contradecir  
+contratar  
+controlar  
+conversar  
+convivir  
+coordinar  
+corregir  
+correr  
+corresponder  
+cortar  
+costear  
+crear  
+crecer  
+criticar  
+cruzar  
+cubrir  
+cuidar  
+culminar  
+cultivar  
+cumplir  
+curar  
+dar  
+debatir  
+decidir  
+decir  
+dedicar  
+defender  
+definir  
+dejar  
+delegar  
+delimitar  
+demostrar  
+denunciar  
+depender  
+depositar  
+derivar  
+derramar  
+derrotar  
+desactivar  
+desarrollar  
+descansar  
+descargar  
+descender  
+describir  
+descubrir  
+desear  
+desempeñar  
+desenredar  
+desinfectar  
+desistir  
+deslizar  
+desmontar  
+desobedecer  
+desocupar  
+despedir  
+despertar  
+desplazar  
+despreciar  
+destacar  
+destinar  
+destruir  
+detallar  
+detener  
+devolver  
+dialogar  
+dibujar  
+diferenciar  
+difundir  
+dirigir  
+discutir  
+disfrazar  
+disfrutar  
+disminuir  
+disparar  
+disponer  
+disputar  
+distinguir  
+distraer  
+dividir  
+divorciarse  
+doblar  
+documentar  
+dominar  
+donar  
+dormir  
+dotar  
+dudar  
+duplicar  
+echar  
+editar  
+educar  
+efectuar  
+ejecutar  
+ejercitar  
+elaborar  
+elevar  
+eliminar  
+emigrar  
+empaquetar  
+empezar  
+emplear  
+enamorar  
+encajar  
+encantar  
+encender  
+encerrar  
+encontrar  
+encuestar  
+enderezar  
+enfocar  
+enfriar  
+engañar  
+engordar  
+enlazar  
+enojarse  
+enriquecer  
+enseñar  
+ensuciar  
+entender  
+enterrar  
+entrar  
+entregar  
+enumerar  
+enviar  
+equilibrar  
+escalar  
+escapar  
+esclarecer  
+escuchar  
+escribir  
+esculpir  
+esforzarse  
+esparcir  
+especializar  
+esperar  
+esquivar  
+establecer  
+estimar  
+estirar  
+estrenar  
+estudiar  
+evacuar  
+evaluar  
+evitar  
+exagerar  
+examinar  
+exceder  
+excluir  
+exigir  
+existir  
+expandir  
+expedir  
+experimentar  
+explicar  
+exponer  
+expresar  
+extender  
+extrañar  
+fabricar  
+facilitar  
+fallar  
+falsificar  
+fascinar  
+felicitar  
+festejar  
+fiar  
+filmar  
+filtrar  
+firmar  
+fomentar  
+formar  
+formular  
+fortalecer  
+fotocopiar  
+fotografiar  
+fracasar  
+fraccionar  
+freír  
+frenar  
+frotar  
+frustrar  
+funcionar  
+fundar  
+fusionar  
+ganar  
+garantizar  
+gestionar  
+girar  
+gobernar  
+golpear  
+grabar  
+graduarse  
+gritar  
+guardar  
+guiar  
+gustar  
+haber  
+hablar  
+hallar  
+heredar  
+herir  
+hervir  
+hinchar  
+hipotecar  
+honrar  
+huir  
+identificar  
+ignorar  
+iluminar  
+imaginar  
+imitar  
+impactar  
+implantar  
+implementar  
+implicar  
+importar  
+imprimir  
+incluir  
+incrementar  
+indicar  
+inducir  
+infectar  
+informar  
+infringir  
+iniciar  
+innovar  
+inquietar  
+inscribirse  
+insertar  
+insistir  
+inspirar  
+instalar  
+instruir  
+integrar  
+intentar  
+interactuar  
+interceder  
+interesar  
+interferir  
+interpretar  
+interrogar  
+intervenir  
+introducir  
+investigar  
+invitar  
+invocar  
+ir  
+jugar  
+juntar  
+justificar  
+ladrar  
+lamentar  
+lanzar  
+lavar  
+leer  
+legalizar  
+levantar  
+liberar  
+limitar  
+limpiar  
+llegar  
+llenar  
+llevar  
+llorar  
+lograr  
+luchar  
+lustrar  
+madrugar  
+malgastar  
+mandar  
+manejar  
+manifestar  
+manipular  
+mantener  
+marcar  
+marchar  
+masticar  
+matar  
+mediar  
+medir  
+mejorar  
+memorizar  
+mencionar  
+mentir  
+merecer  
+meter  
+mirar  
+modificar  
+molestar  
+monitorear  
+montar  
+morir  
+mostrar  
+motivar  
+mover  
+multiplicar  
+nadar  
+navegar  
+negar  
+necesitar  
+nombrar  
+notar  
+notificar  
+obedecer  
+observar  
+obtener  
+ocultar  
+ocupar  
+ofrecer  
+olvidar  
+operar  
+opinar  
+ordenar  
+organizar  
+orientar  
+otorgar  
+padecer  
+pagar  
+palpar  
+parar  
+participar  
+partir  
+pasar  
+patinar  
+pedir  
+pegar  
+peinar  
+pensar  
+percibir  
+perder  
+perdonar  
+perfeccionar  
+permitir  
+perseguir  
+perturbar  
+pesar  
+pintar  
+planear  
+plantar  
+platicar  
+plegar  
+poder  
+poner  
+posicionar  
+practicar  
+predecir  
+preparar  
+presentar  
+preservar  
+prestar  
+pretender  
+prevenir  
+probar  
+proceder  
+proclamar  
+producir  
+anteojos
+lentes
+antro
+discoteca
+fiesta
+reunion familiar
+anfrition
+anfritiona
+abanderar  
+ablandar  
+abnegar  
+abollar  
+abrazarse  
+abrigar  
+abrumar  
+absolver  
+absorber  
+abstener  
+abundar  
+abusar  
+acallar  
+acampar  
+acariciar  
+acatar  
+acceder  
+acechar  
+aceptar  
+acercar  
+acertar  
+acicalar  
+aclamar  
+acoger  
+acompañar  
+acontecer  
+acopiar  
+acoplar  
+acordarse  
+acostar  
+acreditar  
+acribillar  
+actuar  
+acudir  
+acumular  
+acusar  
+adaptar  
+adecuar  
+adelgazar  
+adelantar  
+adentrar  
+adherir  
+adivinar  
+admirarse  
+adoptar  
+adorar  
+advertir  
+afear  
+afianzar  
+afilar  
+aflojar  
+afrontar  
+agazapar  
+agenciar  
+agitarse  
+aglomerar  
+agobiar  
+agotar  
+agrandar  
+agraviar  
+agredir  
+agruparse  
+aguardar  
+ahogar  
+ahondar  
+ahorrar  
+aislarse  
+ajustarse  
+alardear  
+alarmarse  
+albergar  
+alcanzar  
+alegrarse  
+alejarse  
+alentar  
+alfabetizar  
+alimentarse  
+alinearse  
+aliviarse  
+almorzar  
+alojarse  
+alterarse  
+aludir  
+alumbrar  
+alzar  
+amagar  
+amansar  
+amar  
+amarrar  
+ambicionar  
+amedrentar  
+amontonar  
+ampararse  
+ampliarse  
+analizar  
+andar  
+anhelar  
+anidar  
+anotar  
+anticiparse  
+antojarse  
+anular  
+apaciguar  
+apadrinar  
+apalear  
+apartar  
+apasionarse  
+aplaudirse  
+aplicar  
+apostar  
+apoyarse  
+apreciarse  
+aprender  
+apresurarse  
+apretar  
+aprobar  
+aprovecharse  
+apuntar  
+apurarse  
+arañar  
+arar  
+archivar  
+arder  
+argumentar  
+arrancar  
+arrastrarse  
+arrebatar  
+arreglarse  
+arriesgarse  
+arrojar  
+articular  
+asaltar  
+ascender  
+asegurarse  
+asentarse  
+asfixiarse  
+asignarse  
+asimilar  
+asistirse  
+asociarse  
+aspirar  
+asumirse  
+atacar  
+atardecer  
+atender  
+aterrizar  
+atinar  
+atorarse  
+atraerse  
+atribuir  
+atropellarse  
+aturdirse  
+aumentarse  
+ausentarse  
+autorizarse  
+avanzarse  
+averiguar  
+avisarse  
+ayudar  
+azotar  
+bailar  
+balancearse  
+bajar  
+barrer  
+bautizar  
+beber  
+beneficiarse  
+besar  
+bloquear  
+borrar  
+brillar  
+brindarse  
+bromear  
+brotar  
+bucear  
+buscarse  
+calcular  
+calentarse  
+callarse  
+calmarse  
+caminar  
+cancelarse  
+cansarse  
+cantar  
+capear  
+capturar  
+caracterizar  
+cargar  
+cariciar  
+casarse  
+catalogarse  
+catar  
+causar  
+cederse  
+celebrarse  
+censar  
+centrarse  
+cepillarse  
+cerrarse  
+certificarse  
+cesar  
+chatear  
+chocar  
+cifrar  
+circular  
+clarificar  
+clasificarse  
+clavar  
+cobijarse  
+cobrar  
+cocinar  
+codificar  
+coincidir  
+colaborarse  
+colgar  
+colocarse  
+combatirse  
+comenzarse  
+comer  
+cometer  
+compartirse  
+compensarse  
+competir  
+completar  
+componerse  
+comprarse  
+comprender  
+comprobar  
+comunicarse  
+concentrarse  
+concluir  
+conectarse  
+confesarse  
+confiarse  
+confirmarse  
+conformarse  
+congelarse  
+conocerse  
+conquistar  
+conservarse  
+considerarse  
+consolarse  
+constatar  
+construirse  
+consultarse  
+consumirse  
+contarse  
+contenerse  
+contestarse  
+continuarse  
+contradecirse  
+contratarse  
+controlarse  
+conversarse  
+convivirse  
+coordinarse  
+corregirse  
+correr  
+corresponderse  
+cortarse  
+costear  
+crearse  
+crecer  
+criticar  
+cruzarse  
+cubrirse  
+cuidarse  
+culminarse  
+cultivarse  
+cumplirse  
+curarse  
+dar  
+debatirse  
+decidirse  
+decirse  
+dedicarse  
+defenderse  
+definirse  
+dejarse  
+delegarse  
+delimitar  
+demostrarse  
+denunciarse  
+depender  
+depositarse  
+derivarse  
+derramarse  
+derrotarse  
+desactivarse  
+desarrollarse  
+descansarse  
+descargarse  
+descender  
+describirse  
+descubrirse  
+desear  
+desempeñarse  
+desenredarse  
+desinfectarse  
+desistirse  
+deslizarse  
+desmontarse  
+desobedecerse  
+desocupar  
+despedirse  
+despertarse  
+desplazarse  
+despreciarse  
+destacarse  
+destinarse  
+destruirse  
+detallarse  
+detenerse  
+devolverse  
+dialogarse  
+dibujarse  
+diferenciarse  
+difundirse  
+dirigirse  
+discutirse  
+disfrazarse  
+disfrutarse  
+disminuir  
+dispararse  
+disponerse  
+disputarse  
+distinguirse  
+distraerse  
+dividirse  
+divorciarse  
+doblarse  
+documentarse  
+dominarse  
+donarse  
+dormirse  
+dotarse  
+dudarse  
+duplicarse  
+echarse  
+editar  
+educarse  
+efectuarse  
+ejecutarse  
+ejercitarse  
+elaborarse  
+elevarse  
+eliminarse  
+emigrar  
+empaquetarse  
+empezarse  
+emplearse  
+enamorarse  
+encajarse  
+encantarse  
+encenderse  
+encerrarse  
+encontrarse  
+encuestarse  
+enderezarse  
+enfocarse  
+enfriarse  
+engañarse  
+engordarse  
+enlazarse  
+enojarse  
+enriquecerse  
+enseñarse  
+ensuciarse  
+entenderse  
+enterrarse  
+entrarse  
+entregarse  
+enumerarse  
+enviarse  
+equilibrarse  
+escalar  
+escaparse  
+esclarecer  
+escucharse  
+escribirse  
+esculpir  
+esforzarse  
+esparcirse  
+especializarse  
+esperarse  
+esquivar  
+establecerse  
+estimarse  
+estirarse  
+estrenarse  
+estudiarse  
+evacuarse  
+evaluarse  
+evitarse  
+exagerarse  
+examinarse  
+excederse  
+excluirse  
+exigirse  
+existirse  
+expandirse  
+expedirse  
+experimentarse  
+explicarse  
+exponerse  
+expresarse  
+extenderse  
+extrañarse  
+fabricarse  
+facilitarse  
+fallarse  
+falsificarse  
+fascinarse  
+felicitarse  
+festejarse  
+fiarse  
+filmar  
+filtrarse  
+firmarse  
+fomentarse  
+formarse  
+formularse  
+fortalecerse  
+fotocopiarse  
+fotografiarse  
+fracasar  
+fraccionarse  
+freírse  
+frenarse  
+frotarse  
+frustrarse  
+funcionarse  
+fundarse  
+fusionarse  
+ganarse  
+garantizarse  
+gestarse  
+girar  
+gobernarse  
+golpearse  
+grabarse  
+graduarse  
+gritarse  
+guardarse  
+guiarse  
+gustarse  
+haber  
+hablarse  
+hallarse  
+heredarse  
+herirse  
+hervirse  
+hincharse  
+hipotecarse  
+honrarse  
+huirse  
+identificarse  
+ignorar  
+iluminarse  
+imaginarse  
+imitarse  
+impactarse  
+implantar  
+implementarse  
+implicarse  
+importarse  
+imprimirse  
+incluirse  
+incrementarse  
+indicarse  
+inducirse  
+infectarse  
+informarse  
+infringirse  
+iniciarse  
+innovarse  
+inquietarse  
+inscribirse  
+insertarse  
+insistirse  
+inspirarse  
+instalarse  
+instruirse  
+integrarse  
+intentarse  
+interactuarse  
+intercederse  
+interesarse  
+interferirse  
+interpretarse  
+interrogarse  
+intervenirse  
+introducirse  
+investigarse  
+invitarse  
+invocarse  
+irse  
+jugarse  
+juntarse  
+justificarse  
+periferico
+trafico
+perico
+dermatología
+gato
+gasto
+perro
+monedas
+dinero
+cajero
+banco
+restaurante
+ayuda
+auxilio
+abandonar  
+abastecer  
+abstraer  
+acicalarse  
+aclimatarse  
+acomodarse  
+acontecer  
+acopiar  
+acreditarse  
+acuchillar  
+adelantarse  
+adentrarse  
+adherirse  
+adornar  
+adquirir  
+advertirse  
+aferrarse  
+afianzarse  
+afligirse  
+agazaparse  
+agilizar  
+agitarse  
+aglutinar  
+agobiarse  
+agradecer  
+agravarse  
+agredir  
+aguijonear  
+aguijonearse  
+ahondarse  
+ahorcar  
+aislar  
+ajusticiarse  
+alardear  
+albergarse  
+alcahuetear  
+alentar  
+alfabetizarse  
+aligerar  
+aliviarse  
+alojarse  
+altercar  
+alumbrarse  
+alzar  
+amansarse  
+amarillear  
+amodorrarse  
+amortiguar  
+ampararse  
+amputar  
+analizarse  
+anhelar  
+anidar  
+aniquilar  
+anotar  
+anticiparse  
+antojarse  
+apaciguarse  
+apadrinar  
+aparearse  
+apartar  
+apasionarse  
+apercibirse  
+apilar  
+aplanar  
+aplastar  
+aplaudirse  
+aplicarse  
+apoderarse  
+apoltronarse  
+apostillar  
+aprehender  
+apresurarse  
+apretujarse  
+aprovisionarse  
+aprovecharse  
+apuntar  
+apurarse  
+arañarse  
+arar  
+archivarse  
+arder  
+argumentarse  
+arrancarse  
+arrastrarse  
+arrebatársele  
+arreglarse  
+arriesgarse  
+arroparse  
+articularse  
+asaltar  
+ascender  
+asearse  
+asegurarse  
+asentarse  
+asfixiarse  
+asignarse  
+asimilarse  
+asistirse  
+asociarse  
+aspaventar  
+aspirar  
+asquearse  
+asumirse  
+atacar  
+atardecer  
+atenerse  
+aterrizar  
+atinar  
+atorarse  
+atraerse  
+atribuirse  
+atropellarse  
+aturdirse  
+aullar  
+aumentarse  
+ausentarse  
+autodefinirse  
+autogestionarse  
+autorizarse  
+avergonzarse  
+avistar  
+avisparse  
+ayunar  
+azorar  
+babeársele  
+balancearse  
+bambolearse  
+barrer  
+bautizarse  
+beneficiarse  
+berrear  
+besar  
+bifurcarse  
+blanquear  
+bloquearse  
+borronear  
+bramar  
+brindarse  
+bromear  
+brotarse  
+bucearse  
+burlar  
+cabizbajear  
+cachondearse  
+calarse  
+caldearse  
+calibrar  
+callarse  
+calmarse  
+camuflarse  
+cancelarse  
+cansarse  
+cantar  
+capear  
+captarse  
+carcomerse  
+carearse  
+cargar  
+cariciar  
+casarse  
+catalogarse  
+catar  
+causar  
+cederse  
+celebrarse  
+censarse  
+centrarse  
+cepillarse  
+cerrarse  
+certificarse  
+cesar  
+chacharear  
+chambear  
+chatearse  
+chillar  
+chismear  
+chocar  
+cifrar  
+circular  
+clarificarse  
+clasificarse  
+clavarse  
+cobijarse  
+cobrar  
+cocerse  
+codificarse  
+coincidir  
+colaborarse  
+colarse  
+colgarse  
+colocarse  
+combatirse  
+comenzarse  
+comer  
+cometer  
+compadecerse  
+compararse  
+compensarse  
+competirse  
+completar  
+componerse  
+comprarse  
+comprenderse  
+comprobarse  
+comunicarse  
+concentrarse  
+concluir  
+conectarse  
+confesarse  
+confiarse  
+confirmarse  
+conformarse  
+congelarse  
+conocerse  
+conquistar  
+conservarse  
+considerarse  
+consolarse  
+constatar  
+construirse  
+consultarse  
+consumirse  
+contarse  
+contenerse  
+contestar  
+continuarse  
+contradecirse  
+contratarse  
+controlarse  
+conversarse  
+convivirse  
+coordinarse  
+corregirse  
+correr  
+corresponderse  
+cortarse  
+costear  
+crearse  
+crecer  
+criticar  
+crujir  
+cruzarse  
+cubrirse  
+cuidarse  
+culminarse  
+cultivarse  
+cumplirse  
+curarse  
+dar  
+debatirse  
+decidirse  
+decirse  
+dedicarse  
+defenderse  
+definirse  
+dejarse  
+delegarse  
+delimitar  
+demostrarse  
+denunciarse  
+depender  
+depositarse  
+derivarse  
+derramarse  
+derretirse  
+derrotarse  
+desactivarse  
+desarrollarse  
+descansarse  
+descargarse  
+descender  
+describirse  
+descubrirse  
+desear  
+desempeñarse  
+desenredarse  
+desinfectarse  
+desistirse  
+deslizarse  
+desmontarse  
+desobedecerse  
+desocupar  
+despedirse  
+despertarse  
+desplazarse  
+despreciarse  
+destacarse  
+destinarse  
+destruirse  
+detallarse  
+detenerse  
+devolverse  
+dialogarse  
+dibujarse  
+diferenciarse  
+difundirse  
+dirigirse  
+discutirse  
+disfrazarse  
+disfrutarse  
+disminuir  
+dispararse  
+disponerse  
+disputarse  
+distinguirse  
+distraerse  
+dividirse  
+divorciarse  
+doblarse  
+documentarse  
+dominarse  
+donarse  
+dormirse  
+dotarse  
+drenar  
+dudar  
+duplicarse  
+echarse  
+editar  
+educarse  
+efectuarse  
+ejecutarse  
+ejercitarse  
+elaborarse  
+elevarse  
+eliminarse  
+emigrar  
+empaquetarse  
+empezarse  
+emplearse  
+enamorarse  
+encajarse  
+encantarse  
+encenderse  
+encerrarse  
+encontrarse  
+encuestarse  
+enderezarse  
+enfocarse  
+enfriarse  
+engañarse  
+engordarse  
+enlazarse  
+enojarse  
+enriquecerse  
+enseñarse  
+ensuciarse  
+entenderse  
+enterrarse  
+entrarse  
+entregarse  
+enumerarse  
+enviarse  
+equilibrarse  
+escalar  
+escaparse  
+esclarecer  
+escucharse  
+escribirse  
+esculpir  
+esforzarse  
+esparcirse  
+especializarse  
+esperarse  
+esquivar  
+establecerse  
+estimarse  
+estirarse  
+estrenarse  
+estudiarse  
+evacuarse  
+evaluarse  
+evitarse  
+exagerarse  
+examinarse  
+excederse  
+excluirse  
+exigirse  
+existirse  
+expandirse  
+expedirse  
+experimentarse  
+explicarse  
+exponerse  
+expresarse  
+extenderse  
+extrañarse  
+fabricarse  
+facilitarse  
+fallarse  
+falsificarse  
+fascinarse  
+felicitarse  
+festejarse  
+fiarse  
+filmar  
+filtrarse  
+firmarse  
+fomentarse  
+formarse  
+formularse  
+fortalecerse  
+fotocopiarse  
+fotografiarse  
+fracasar  
+fraccionarse  
+freírse  
+frenarse  
+frotarse  
+frustrarse  
+funcionarse  
+fundarse  
+fusionarse  
+ganarse  
+garantizarse  
+gestarse  
+girar  
+gobernarse  
+golpearse  
+grabarse  
+graduarse  
+gritarse  
+guardarse  
+guiarse  
+gustarse  
+haber  
+hablarse  
+hallarse  
+heredarse  
+herirse  
+hervirse  
+hincharse  
+hipotecarse  
+honrarse  
+huirse  
+identificarse  
+ignorar  
+iluminarse  
+imaginarse  
+imitarse  
+impactarse  
+implantar  
+implementarse  
+implicarse  
+importarse  
+imprimirse  
+incluirse  
+incrementarse  
+indicarse  
+inducirse  
+infectarse  
+informarse  
+infringirse  
+iniciarse  
+innovarse  
+inquietarse  
+inscribirse  
+insertarse  
+insistirse  
+inspirarse  
+instalarse  
+instruirse  
+integrarse  
+intentarse  
+interactuarse  
+intercederse  
+interesarse  
+interferirse  
+interpretarse  
+interrogarse  
+intervenirse  
+introducirse  
+investigarse  
+invitarse  
+invocarse  
+irse  
+jugarse  
+juntarse  
+justificarse  
+videojuegos
+jugar
+pelota
+canicas
+xbox
+PS5
+PS4
+PC
+Futbol
+Basquetball
+Natacion
+Flores
+niña
+niño
+puberto
+puberta
+tenis
+robar
+ratero
+ladron
+sangre
+tocar
+puerta
+casa
+cocina
+sala
+tarea
+escritorio  
+pizarrón  
+plumón  
+borrador  
+regla  
+escuadra  
+compás  
+mochila  
+lonchera  
+uniforme  
+recreo  
+campana  
+entrada  
+salida  
+asistencia  
+falta  
+justificante  
+boleta  
+calificación  
+examen  
+tarea  
+proyecto  
+equipo  
+grupo  
+salón  
+pasillo  
+dirección  
+coordinación  
+orientación  
+bibliotecario  
+conserje  
+subdirector  
+prefecto  
+turno  
+receso  
+materia  
+asignatura  
+horario  
+agenda  
+cuaderno  
+libreta  
+hoja  
+folio  
+carpeta  
+clip  
+grapas  
+engrapadora  
+corrector  
+resaltador  
+marcador  
+estuche  
+lapicera  
+portaminas  
+calculadora  
+diccionario  
+atlas  
+mapa  
+globo terráqueo  
+microscopio  
+telescopio  
+laboratorio  
+experimento  
+práctica  
+investigación  
+ensayo  
+resumen  
+síntesis  
+análisis  
+comparación  
+lectura  
+escritura  
+redacción  
+ortografía  
+gramática  
+vocabulario  
+traducción  
+interpretación  
+seña  
+glosario  
+signo  
+significado  
+contexto  
+tema  
+subtema  
+introducción  
+desarrollo  
+conclusión  
+portada  
+índice  
+referencia  
+cita  
+fuente  
+autor  
+editorial  
+edición  
+versión  
+formato  
+digital  
+impreso  
+PDF  
+Word  
+presentación  
+diapositiva  
+proyector  
+pantalla  
+cable  
+conexión  
+internet  
+wifi  
+usuario  
+contraseña  
+correo  
+mensaje  
+notificación  
+plataforma  
+sistema  
+registro  
+acceso  
+sesión  
+cerrar  
+guardar  
+descargar  
+subir  
+adjuntar  
+enviar  
+recibir  
+compartir  
+editar  
+modificar  
+eliminar  
+actualizar  
+buscar  
+navegar  
+clic  
+doble clic  
+seleccionar  
+arrastrar  
+soltar  
+copiar  
+pegar  
+imprimir  
+escanear  
+fotocopiar  
+archivar  
+organizar  
+clasificar  
+ordenar  
+priorizar  
+evaluar  
+calificar  
+retroalimentar  
+revisar  
+corregir  
+validar  
+aprobar  
+rechazar  
+firmar  
+sellar  
+entregar  
+recoger  
+tramitar  
+solicitar  
+gestionar  
+acreditar  
+certificar  
+verificar  
+autorizar  
+delegar  
+coordinar  
+planear  
+programar  
+agendar  
+convocar  
+asistir  
+participar  
+exponer  
+presentar  
+representar  
+comunicar  
+dialogar  
+preguntar  
+responder  
+consultar  
+informar  
+avisar  
+notificar  
+reportar  
+denunciar  
+resolver  
+atender  
+orientar  
+acompañar  
+guiar  
+apoyar  
+escuchar  
+mirar  
+observar  
+leer  
+escribir  
+dibujar  
+pintar  
+colorear  
+recortar  
+pegar  
+armar  
+desarmar  
+ensamblar  
+instalar  
+configurar  
+ajustar  
+encender  
+apagar  
+cargar  
+enchufar  
+desenchufar  
+reparar  
+mantener  
+limpiar  
+ordenar  
+lavar  
+secar  
+doblar  
+guardar  
+sacar  
+abrir  
+cerrar  
+subir  
+bajar  
+entrar  
+salir  
+caminar  
+correr  
+saltar  
+sentarse  
+pararse  
+acostarse  
+levantarse  
+bañarse  
+vestirse  
+desvestirse  
+peinarse  
+cepillarse  
+afeitarse  
+maquillarse  
+desayunar  
+almorzar  
+cenar  
+comer  
+beber  
+preparar  
+servir  
+recalentar  
+freír  
+hervir  
+hornear  
+cocinar  
+comprar  
+vender  
+pagar  
+cobrar  
+cambiar  
+devolver  
+pedir  
+encargar  
+reservar  
+confirmar  
+cancelar  
+esperar  
+atender  
+saludar  
+despedirse  
+presentarse  
+identificarse  
+mostrar  
+explicar  
+aclarar  
+justificar  
+firmar  
+llenar  
+tachar  
+marcar  
+subrayar  
+anotar  
+especificar  
+detallar  
+resumir  
+adjuntar  
+fotografiar  
+grabar  
+filmar  
+reproducir  
+pausar  
+detener  
+adelantar  
+retroceder  
+guardar  
+borrar  
+renombrar  
+crear  
+abrir  
+cerrar  
+minimizar  
+maximizar  
+bloquear  
+desbloquear  
+activar  
+desactivar  
+sincronizar  
+conectar  
+desconectar  
+actualizar  
+instalar  
+desinstalar  
+reiniciar  
+apagar  
+encender  
+acceso  
+accesibilidad  
+acompañamiento  
+acta  
+actividad  
+acuerdo  
+administración  
+agenda escolar  
+almuerzo  
+análisis  
+anotación  
+apoyo  
+archivo  
+asignatura  
+asistencia  
+auditoría  
+autoevaluación  
+avisos  
+bandeja  
+banco escolar  
+bibliotecario  
+bimestre  
+boleta  
+borrador digital  
+botón  
+brazo izquierdo  
+cabecera  
+calificación final  
+calor humano  
+campus  
+capacitación  
+característica  
+carpeta digital  
+carta responsiva  
+casillero  
+categoría escolar  
+cédula  
+celular institucional  
+centro de trabajo  
+ciclo escolar  
+clase virtual  
+clave única  
+clima escolar  
+cobertura educativa  
+código escolar  
+colaboración  
+comedor escolar  
+comité escolar  
+comité de inclusión  
+comité de protección  
+comité de accesibilidad  
+comité de evaluación  
+comité de seguimiento  
+comité de supervisión  
+comité de verificación  
+comité de certificación  
+comité de control  
+comité de cumplimiento  
+comité de regulación  
+comité de normatividad  
+comité de legislación  
+comité de derechos  
+comité de deberes  
+comité de ética  
+comité de transparencia  
+comité de rendición  
+comité de informes  
+comité de estadísticas  
+comité de indicadores  
+comité de resultados  
+comité de metas  
+comité de objetivos  
+comité de impacto  
+comité de sostenibilidad  
+comité de permanencia  
+comité de viabilidad  
+comité de replicabilidad  
+comité de escalabilidad  
+comité de interoperabilidad  
+comité de adaptabilidad  
+comité de seguridad digital  
+comité de ciberseguridad  
+comité de privacidad  
+comité de confidencialidad  
+comité de datos  
+comité de información  
+comité de contenido  
+comité de formato  
+comité de diseño  
+comité de edición  
+comité de producción  
+comité de publicación  
+comité de distribución  
+comité de divulgación  
+comité de comunicación externa  
+comité de comunicación interna  
+comité de vocería  
+comité de representación oficial  
+comité de accesibilidad digital  
+comité de inclusión educativa  
+comité de inclusión institucional  
+comité de inclusión cultural  
+comité de inclusión simbólica  
+comité de inclusión emocional  
+comité de inclusión semántica  
+comité de inclusión gestual  
+comité de inclusión señada  
+comité de inclusión visual  
+comité de inclusión auditiva  
+comité de inclusión táctil  
+comité de inclusión cognitiva  
+comité de inclusión relacional  
+comité de inclusión social  
+comité de inclusión política  
+comité de inclusión económica  
+comité de inclusión ambiental  
+comité de inclusión jurídica  
+comité de inclusión lingüística  
+comité de inclusión digital  
+comité de inclusión estructural  
+comité de inclusión sistemática  
+compañero  
+compromiso escolar  
+computadora portátil  
+conectividad  
+conferencia  
+consejo escolar  
+consulta académica  
+contenido educativo  
+contraseña institucional  
+correo institucional  
+cuaderno digital  
+cuadro comparativo  
+cuadro sinóptico  
+cuadro de honor  
+cuadro de asistencia  
+cuadro de evaluación  
+cuadro de seguimiento  
+cuadro de supervisión  
+cuadro de verificación  
+cuadro de certificación  
+cuadro de control  
+cuadro de cumplimiento  
+cuadro de regulación  
+cuadro de normatividad  
+cuadro de legislación  
+cuadro de derechos  
+cuadro de deberes  
+cuadro de ética  
+cuadro de transparencia  
+cuadro de rendición  
+cuadro de informes  
+cuadro de estadísticas  
+cuadro de indicadores  
+cuadro de resultados  
+cuadro de metas  
+cuadro de objetivos  
+cuadro de impacto  
+cuadro de sostenibilidad  
+cuadro de permanencia  
+cuadro de viabilidad  
+cuadro de replicabilidad  
+cuadro de escalabilidad  
+cuadro de interoperabilidad  
+cuadro de adaptabilidad  
+cuadro de seguridad digital  
+cuadro de ciberseguridad  
+cuadro de privacidad  
+cuadro de confidencialidad  
+cuadro de datos  
+cuadro de información  
+cuadro de contenido  
+cuadro de formato  
+cuadro de diseño  
+cuadro de edición  
+cuadro de producción  
+cuadro de publicación  
+cuadro de distribución  
+cuadro de divulgación  
+cuadro de comunicación externa  
+cuadro de comunicación interna  
+cuadro de vocería  
+cuadro de representación oficial  
+cuadro de accesibilidad digital  
+cuadro de inclusión educativa  
+cuadro de inclusión institucional  
+cuadro de inclusión cultural  
+cuadro de inclusión simbólica  
+cuadro de inclusión emocional  
+cuadro de inclusión semántica  
+cuadro de inclusión gestual  
+cuadro de inclusión señada  
+cuadro de inclusión visual  
+cuadro de inclusión auditiva  
+cuadro de inclusión táctil  
+cuadro de inclusión cognitiva  
+cuadro de inclusión relacional  
+cuadro de inclusión social  
+cuadro de inclusión política  
+cuadro de inclusión económica  
+cuadro de inclusión ambiental  
+cuadro de inclusión jurídica  
+cuadro de inclusión lingüística  
+cuadro de inclusión digital  
+cuadro de inclusión estructural  
+cuadro de inclusión sistemática  
+cuadro de inclusión visible  
+cuadro de inclusión invisible  
+cuadro de inclusión leve  
+cuadro de inclusión moderada  
+cuadro de inclusión severa  
+cuadro de inclusión profunda  
+cuadro de inclusión funcional  
+cuadro de inclusión orgánica  
+cuadro de inclusión sensorial  
+cuadro de inclusión motriz  
+cuadro de inclusión intelectual  
+cuadro de inclusión psicosocial  
+cuadro de inclusión múltiple  
+cuadro de inclusión temporal  
+cuadro de inclusión adquirida  
+cuadro de inclusión congénita  
+cuadro de inclusión progresiva  
+cuadro de inclusión educativa  
+cuadro de inclusión institucional  
+cuadro de inclusión estructural  
+cuadro de inclusión sistemática  
+cuadro de inclusión simbólica  
+cuadro de inclusión semántica  
+cuadro de inclusión emocional  
+cuadro de inclusión gestual  
+cuadro de inclusión señada  
+cuadro de inclusión visual  
+cuadro de inclusión auditiva  
+cuadro de inclusión táctil  
+cuadro de inclusión cognitiva  
+cuadro de inclusión relacional  
+cuadro de inclusión social  
+cuadro de inclusión política  
+cuadro de inclusión económica  
+cuadro de inclusión ambiental  
+cuadro de inclusión jurídica  
+cuadro de inclusión lingüística  
+cuadro de inclusión digital  
+cuadro de inclusión institucional  
+borrador
+goma
+duplicarse
+papas
+gomitas
+refresco
+refrescos
+comida
+agua
+lapiz
+lapicera
+estuche
+guitarra
+microfono
+bajo
+golosinas
+soda
+gaseosa
+leche
+jamon
+huevo
+condimentos
+especies
+acuerdo  
+agenda  
+almohada  
+análisis  
+apoyo  
+archivo  
+asistencia  
+auditoría  
+avisar  
+bandeja  
+barrio  
+biblioteca  
+boleta  
+borrador  
+brazo  
+cabecera  
+calificación  
+campana  
+capacitación  
+carpeta  
+carta  
+casillero  
+categoría  
+cédula  
+celular  
+centro  
+ciclo  
+clase  
+clave  
+clima  
+cobertura  
+código  
+colaboración  
+comedor  
+comité  
+compañero  
+compromiso  
+computadora  
+conectividad  
+conferencia  
+consejo  
+consulta  
+contenido  
+contraseña  
+correo  
+cuaderno  
+cuadro  
+cuota  
+datos  
+debate  
+decisión  
+delegado  
+demostración  
+dependencia  
+derecho  
+desayuno  
+desempeño  
+despensa  
+detalle  
+diálogo  
+diagnóstico  
+dibujo  
+dificultad  
+dinero  
+dirección  
+disciplina  
+dispositivo  
+documento  
+dolor  
+domicilio  
+donación  
+duda  
+educación  
+efecto  
+ejemplo  
+ejercicio  
+elemento  
+emoción  
+empresa  
+encuesta  
+energía  
+entidad  
+entrada  
+entrega  
+equipo  
+error  
+escenario  
+escalera  
+escritorio  
+esfuerzo  
+espacio  
+esperanza  
+estado  
+estilo  
+estructura  
+estudiante  
+estudio  
+evento  
+evidencia  
+examen  
+experiencia  
+explicación  
+expresión  
+extensión  
+familia  
+fecha  
+felicidad  
+figura  
+firma  
+foco  
+formato  
+fotografía  
+frase  
+función  
+fusión  
+ganancia  
+garantía  
+gestión  
+grupo  
+guía  
+habilidad  
+habitación  
+herramienta  
+historia  
+hogar  
+hora  
+hospital  
+idea  
+identidad  
+imagen  
+impacto  
+impresión  
+inclusión  
+información  
+iniciativa  
+instrucción  
+instrumento  
+intención  
+interacción  
+interés  
+interfaz  
+interpretación  
+introducción  
+invitación  
+jardín  
+jornada  
+juguete  
+justicia  
+labor  
+laboratorio  
+lámpara  
+lectura  
+lenguaje  
+libertad  
+libro  
+línea  
+lista  
+llave  
+lugar  
+luz  
+maestro  
+mantenimiento  
+manual  
+mapa  
+marca  
+material  
+medalla  
+medio  
+memoria  
+mensaje  
+mente  
+mercado  
+mesa  
+meta  
+modelo  
+modificación  
+modo  
+momento  
+moneda  
+montaña  
+motivo  
+movimiento  
+muestra  
+música  
+nación  
+nacimiento  
+naturaleza  
+necesidad  
+nivel  
+nombre  
+norma  
+nota  
+noticia  
+nube  
+número  
+objetivo  
+observación  
+ocupación  
+oferta  
+oficina  
+operación  
+opinión  
+orden  
+organización  
+origen  
+papel  
+parque  
+participación  
+paso  
+pauta  
+paz  
+película  
+persona  
+personalidad  
+peso  
+piedra  
+pieza  
+plan  
+plaza  
+plazo  
+población  
+poder  
+poesía  
+posición  
+precio  
+pregunta  
+premio  
+preparación  
+presencia  
+presión  
+prevención  
+principio  
+prioridad  
+problema  
+procedimiento  
+proceso  
+producción  
+producto  
+profesor  
+programa  
+progreso  
+propuesta  
+protección  

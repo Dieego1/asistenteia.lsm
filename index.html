@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Asistente Señado Institucional</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-header">
+      <h2>🧏‍♂️ Asistente IA</h2>
+    </div>
+
+    <div class="chat-window" id="chatWindow">
+      <div class="chat-message system">Selecciona una palabra para consultar descripcion y su seña 👇</div>
+    </div>
+
+    <form id="chatForm" class="chat-form">
+      <input list="listaPalabras" id="userInput" placeholder="Ej. familia, salud, inclusión..." autocomplete="off" />
+      <datalist id="listaPalabras"></datalist>
+      <button type="submit">Consultar</button>
+    </form>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

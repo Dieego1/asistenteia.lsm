@@ -1,0 +1,159 @@
+/* 🌌 Fondo y tipografía general */
+body {
+  background-color: #0d0d0d;
+  color: #f2f2f2;
+  font-family: 'Orbitron', 'Exo 2', sans-serif;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+/* 🧠 Contenedor principal */
+.chat-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+/* 💡 Título institucional con efecto */
+.chat-header h2 {
+  font-size: 32px;
+  color: #ff6600;
+  text-shadow: 0 0 12px #ff6600;
+  animation: pulseTitle 1.8s infinite;
+  margin-bottom: 30px;
+}
+
+/* ✨ Ventana de mensajes */
+.chat-window {
+  background-color: #1a1a1a;
+  border: 2px solid #ff6600;
+  box-shadow: 0 0 18px #ff6600aa;
+  border-radius: 12px;
+  padding: 20px;
+  height: 360px;
+  overflow-y: auto;
+  animation: fadeInContainer 0.8s ease;
+}
+
+/* 💬 Mensajes IA y usuario */
+.chat-message {
+  margin-bottom: 18px;
+  padding: 14px 18px;
+  border-radius: 10px;
+  font-size: 16px;
+  line-height: 1.6em;
+  animation: hologramAppear 0.4s ease-in-out forwards;
+  transform-style: preserve-3d;
+}
+
+.chat-message.user {
+  background: #262626;
+  color: #f2f2f2;
+  text-align: right;
+  font-weight: bold;
+  border: 1px solid #ff6600;
+  box-shadow: 0 0 14px #ff6600;
+}
+
+.chat-message.system {
+  background: #000;
+  text-align: left;
+  border-left: 4px solid #ff6600;
+  color: #f5c6a5;
+  box-shadow: inset 0 0 10px rgba(255, 102, 0, 0.3);
+}
+
+/* 🧪 Animaciones especiales */
+@keyframes pulseTitle {
+  0%, 100% {
+    text-shadow: 0 0 12px #ff6600, 0 0 24px #ff6600aa;
+  }
+  50% {
+    text-shadow: 0 0 20px #ff6600, 0 0 36px #ff6600cc;
+  }
+}
+
+@keyframes hologramAppear {
+  0% {
+    opacity: 0;
+    transform: translateY(20px) scale(0.96) rotateX(10deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1) rotateX(0);
+  }
+}
+
+@keyframes fadeInContainer {
+  0% { opacity: 0; transform: scale(0.95); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+/* 📄 Formulario y botón */
+.chat-form {
+  display: flex;
+  gap: 12px;
+  padding-top: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.chat-form input {
+  flex: 1;
+  min-width: 260px;
+  padding: 12px 16px;
+  border: 2px solid #ff6600;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: #0f0f0f;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+
+.chat-form input:focus {
+  outline: none;
+  border-color: #ff6600;
+  box-shadow: 0 0 10px #ff6600;
+}
+
+/* 🔘 Botón estilo robot neon */
+.chat-form button {
+  padding: 12px 20px;
+  background: linear-gradient(90deg, #ff6600, #ff9900);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-family: 'Orbitron', sans-serif;
+  cursor: pointer;
+  box-shadow: 0 0 18px #ff6600;
+  transition: all 0.4s ease;
+}
+
+.chat-form button:hover {
+  box-shadow: 0 0 28px #ff9900;
+  transform: scale(1.05) rotate(-0.4deg);
+}
+
+/* 📱 Responsive para dispositivos móviles */
+@media screen and (max-width: 640px) {
+  .chat-window {
+    height: 280px;
+    padding: 14px;
+  }
+
+  .chat-form {
+    flex-direction: column;
+  }
+
+  .chat-form input,
+  .chat-form button {
+    width: 100%;
+  }
+
+  .chat-header h2 {
+    font-size: 24px;
+  }
+}
